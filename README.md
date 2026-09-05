@@ -27,6 +27,7 @@ SIH_dataset/
 ├── Uttarakhand.xlsx               # Raw state workbook
 ├── prepare_mplads_data.py         # Pipeline CLI script
 ├── requirements.txt               # Python package dependencies
+├── sentinel_data_analysis_report.md # Multi-state technical data analysis & anomaly report
 ├── .gitignore                     # Git ignore rules
 ├── README.md                      # Repository documentation
 └── processed/                     # Standardized output datasets
