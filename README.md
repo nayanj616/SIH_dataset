@@ -30,8 +30,15 @@ SIH_dataset/
 ├── requirements.txt               # Python package dependencies
 ├── sentinel_data_analysis_report.md # Multi-state technical data analysis & anomaly report
 ├── SENTINEL_RISK_SCORE_V1.md      # Sentinel Risk Score v1 analytical specification
+├── SUPABASE_SETUP.md              # Supabase PostgreSQL schema, migration, and setup guide
+├── .env.example                   # Environment variable template for Supabase credentials
 ├── .gitignore                     # Git ignore rules
 ├── README.md                      # Repository documentation
+├── supabase/                      # Database migrations
+│   └── migrations/
+│       └── 20260905000000_initial_schema.sql # Initial PostgreSQL schema & RLS policies
+├── scripts/                       # Database and data utilities
+│   └── ingest_to_supabase.py      # Idempotent batch ingestion script with 15-point validation
 ├── scored/                        # Sentinel Risk Score v1 output artifacts
 │   ├── work_risk_scores.csv       # Scored works (0-100 score + 4 dimensions)
 │   ├── risk_signals.csv           # Detailed triggered anomaly signals
@@ -132,6 +139,22 @@ Get-ChildItem -Filter *.xlsx | ForEach-Object {
     python prepare_mplads_data.py --input $_.Name --output "processed/$slug"
 }
 ```
+
+### 3. Supabase Database Ingestion
+
+To migrate and load the datasets and risk scores into Supabase PostgreSQL:
+
+1. Apply the migration `supabase/migrations/20260905000000_initial_schema.sql` via Supabase SQL Editor.
+2. Copy `.env.example` to `.env` and set `SUPABASE_URL` and `SUPABASE_SERVICE_ROLE_KEY`.
+3. Validate datasets locally:
+   ```bash
+   python scripts/ingest_to_supabase.py --dry-run
+   ```
+4. Execute batch upsert into Supabase:
+   ```bash
+   python scripts/ingest_to_supabase.py
+   ```
+See [SUPABASE_SETUP.md](SUPABASE_SETUP.md) for full architecture and verification details.
 
 ---
 
