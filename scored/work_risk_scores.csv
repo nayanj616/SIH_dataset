@@ -1,0 +1,1001 @@
+work_id,state,risk_score,risk_level,financial_integrity_score,transaction_pattern_score,lifecycle_execution_score,data_quality_score,requires_human_review
+WS/MP524/2026-2027/290140,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP524/2024-2025/151568,Andhra Pradesh,12,Low / Normal,0,0,30,40,False
+WS/MP524/2025-2026/215336,Andhra Pradesh,6,Low / Normal,0,0,0,40,False
+WS/MP524/2024-2025/168911,Andhra Pradesh,8,Low / Normal,0,0,30,15,False
+WS/MP524/2026-2027/271392,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP524/2026-2027/290176,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP524/2025-2026/271486,Andhra Pradesh,6,Low / Normal,0,0,0,40,False
+WS/MP524/2025-2026/194131,Andhra Pradesh,20,Moderate,0,30,25,40,False
+WS/MP524/2024-2025/170461,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP529/2024-2025/161711,Andhra Pradesh,20,Moderate,0,30,25,40,False
+WS/MP529/2025-2026/208021,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP529/2026-2027/286846,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP529/2025-2026/236642,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP529/2025-2026/199548,Andhra Pradesh,6,Low / Normal,0,0,0,40,False
+WS/MP529/2025-2026/208634,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP529/2024-2025/161704,Andhra Pradesh,20,Moderate,0,30,25,40,False
+WS/MP529/2024-2025/157360,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP529/2024-2025/161721,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP526/2025-2026/257274,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP526/2026-2027/275157,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP526/2025-2026/166421,Andhra Pradesh,6,Low / Normal,0,0,0,40,False
+WS/MP526/2025-2026/258214,Andhra Pradesh,6,Low / Normal,0,0,0,40,False
+WS/MP526/2025-2026/191640,Andhra Pradesh,20,Moderate,0,30,25,40,False
+WS/MP526/2025-2026/224355,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP526/2026-2027/258199,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP526/2024-2025/147538,Andhra Pradesh,8,Low / Normal,0,0,30,15,False
+WS/MP526/2026-2027/282554,Andhra Pradesh,6,Low / Normal,0,0,0,40,False
+WS/MP522/2024-2025/163222,Andhra Pradesh,6,Low / Normal,0,0,0,40,False
+WS/MP522/2025-2026/253887,Andhra Pradesh,6,Low / Normal,0,0,0,40,False
+WS/MP522/2025-2026/251430,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP522/2025-2026/260868,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP522/2025-2026/260681,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP522/2025-2026/251446,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP522/2025-2026/168684,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP522/2025-2026/253903,Andhra Pradesh,6,Low / Normal,0,0,0,40,False
+WS/MP522/2025-2026/260702,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP18351/2025-2026/161796,Andhra Pradesh,6,Low / Normal,0,0,0,40,False
+WS/MP18351/2025-2026/268256,Andhra Pradesh,20,Moderate,0,30,25,40,False
+WS/MP18351/2024-2025/160328,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP18351/2026-2027/277981,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP18351/2026-2027/272186,Andhra Pradesh,6,Low / Normal,0,0,0,40,False
+WS/MP18351/2024-2025/160288,Andhra Pradesh,20,Moderate,0,30,25,40,False
+WS/MP18351/2024-2025/158268,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP18351/2026-2027/258490,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP18351/2025-2026/195719,Andhra Pradesh,6,Low / Normal,0,0,0,40,False
+WS/MP18006/2025-2026/239472,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP18006/2025-2026/243954,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP18006/2025-2026/243939,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP18006/2026-2027/270176,Andhra Pradesh,6,Low / Normal,0,0,0,40,False
+WS/MP18006/2024-2025/141559,Andhra Pradesh,8,Low / Normal,0,0,30,15,False
+WS/MP18006/2024-2025/146763,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP18006/2026-2027/301133,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP18006/2024-2025/135653,Andhra Pradesh,12,Low / Normal,0,0,30,40,False
+WS/MP18006/2024-2025/146745,Andhra Pradesh,8,Low / Normal,0,0,30,15,False
+WS/MP18003/2024-2025/172266,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP18003/2025-2026/223858,Andhra Pradesh,20,Moderate,0,30,25,40,False
+WS/MP18003/2024-2025/157519,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP18003/2024-2025/172281,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP18003/2025-2026/223865,Andhra Pradesh,6,Low / Normal,0,0,0,40,False
+WS/MP18003/2024-2025/157510,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP18003/2025-2026/223856,Andhra Pradesh,20,Moderate,0,30,25,40,False
+WS/MP18003/2024-2025/172273,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP18003/2024-2025/172260,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP18011/2025-2026/223964,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP18011/2025-2026/184894,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP18011/2025-2026/223958,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP18011/2025-2026/210243,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP18011/2026-2027/279131,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP18011/2024-2025/173487,Andhra Pradesh,8,Low / Normal,0,0,30,15,False
+WS/MP18011/2025-2026/194378,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP18011/2024-2025/173515,Andhra Pradesh,8,Low / Normal,0,0,30,15,False
+WS/MP18014/2025-2026/224241,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP18014/2024-2025/167510,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP18014/2025-2026/240943,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP18014/2025-2026/240900,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP18014/2026-2027/276763,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP18014/2024-2025/167455,Andhra Pradesh,8,Low / Normal,0,0,30,15,False
+WS/MP18014/2025-2026/240942,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP18014/2025-2026/240964,Andhra Pradesh,6,Low / Normal,0,0,0,40,False
+WS/MP18004/2026-2027/212577,Andhra Pradesh,6,Low / Normal,0,0,0,40,False
+WS/MP18004/2025-2026/256319,Andhra Pradesh,6,Low / Normal,0,0,0,40,False
+WS/MP18004/2026-2027/277106,Andhra Pradesh,20,Moderate,0,30,25,40,False
+WS/MP18004/2025-2026/221036,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP18004/2026-2027/283494,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP18004/2026-2027/265291,Andhra Pradesh,6,Low / Normal,0,0,0,40,False
+WS/MP18004/2025-2026/247288,Andhra Pradesh,6,Low / Normal,0,0,0,40,False
+WS/MP18004/2025-2026/199338,Andhra Pradesh,20,Moderate,0,30,25,40,False
+WS/MP18001/2026-2027/275215,Andhra Pradesh,6,Low / Normal,0,0,0,40,False
+WS/MP18001/2025-2026/255458,Andhra Pradesh,6,Low / Normal,0,0,0,40,False
+WS/MP18001/2024-2025/163093,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP18001/2026-2027/269218,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP18001/2025-2026/242984,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP18001/2025-2026/231993,Andhra Pradesh,6,Low / Normal,0,0,0,40,False
+WS/MP18001/2025-2026/242981,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP18001/2025-2026/231955,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP18005/2026-2027/273548,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP18005/2025-2026/206911,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP18005/2025-2026/213081,Andhra Pradesh,6,Low / Normal,0,0,0,40,False
+WS/MP18005/2025-2026/223551,Andhra Pradesh,6,Low / Normal,0,0,0,40,False
+WS/MP18005/2025-2026/206887,Andhra Pradesh,20,Moderate,0,30,25,40,False
+WS/MP18005/2025-2026/245777,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP18005/2025-2026/201543,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP18005/2025-2026/201489,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP18018/2024-2025/169483,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP18018/2024-2025/169621,Andhra Pradesh,20,Moderate,0,30,25,40,False
+WS/MP18018/2025-2026/237578,Andhra Pradesh,6,Low / Normal,0,0,0,40,False
+WS/MP18018/2024-2025/169476,Andhra Pradesh,6,Low / Normal,0,0,0,40,False
+WS/MP18018/2025-2026/256401,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP18018/2025-2026/263354,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP18018/2026-2027/293740,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP18018/2025-2026/209731,Andhra Pradesh,20,Moderate,0,30,25,40,False
+WS/MP18007/2025-2026/137074,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP18007/2025-2026/246573,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP18007/2024-2025/140066,Andhra Pradesh,6,Low / Normal,0,0,0,40,False
+WS/MP18007/2026-2027/246572,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP18007/2025-2026/246495,Andhra Pradesh,20,Moderate,0,30,25,40,False
+WS/MP18007/2025-2026/246575,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP18007/2025-2026/183409,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP18007/2024-2025/149400,Andhra Pradesh,6,Low / Normal,0,0,0,40,False
+WS/MP18008/2026-2027/260769,Andhra Pradesh,6,Low / Normal,0,0,0,40,False
+WS/MP18008/2025-2026/169813,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP18008/2025-2026/236445,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP18008/2026-2027/254595,Andhra Pradesh,6,Low / Normal,0,0,0,40,False
+WS/MP18008/2025-2026/169811,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP18008/2026-2027/254620,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP18008/2026-2027/254611,Andhra Pradesh,6,Low / Normal,0,0,0,40,False
+WS/MP18008/2025-2026/185945,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP18002/2026-2027/274759,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP18002/2025-2026/220739,Andhra Pradesh,6,Low / Normal,0,0,0,40,False
+WS/MP18002/2025-2026/232412,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP18002/2025-2026/248539,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP18002/2026-2027/274760,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP18002/2026-2027/278233,Andhra Pradesh,6,Low / Normal,0,0,0,40,False
+WS/MP18002/2025-2026/219744,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP18002/2026-2027/279511,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP18009/2025-2026/176250,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP18009/2024-2025/162215,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP18009/2024-2025/161404,Andhra Pradesh,18,Low / Normal,35,0,0,40,False
+WS/MP18009/2025-2026/241147,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP18009/2024-2025/156397,Andhra Pradesh,6,Low / Normal,0,0,0,40,False
+WS/MP18009/2025-2026/241139,Andhra Pradesh,6,Low / Normal,0,0,0,40,False
+WS/MP18009/2024-2025/161192,Andhra Pradesh,8,Low / Normal,0,0,30,15,False
+WS/MP18009/2025-2026/243727,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP405/2026-2027/258000,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP405/2025-2026/275522,Andhra Pradesh,6,Low / Normal,0,0,0,40,False
+WS/MP405/2025-2026/140144,Andhra Pradesh,20,Moderate,0,30,25,40,False
+WS/MP405/2025-2026/149689,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP405/2025-2026/255426,Andhra Pradesh,6,Low / Normal,0,0,0,40,False
+WS/MP405/2026-2027/227300,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP405/2025-2026/275523,Andhra Pradesh,6,Low / Normal,0,0,0,40,False
+WS/MP405/2026-2027/274464,Andhra Pradesh,20,Moderate,0,30,25,40,False
+WS/MP528/2024-2025/143985,Andhra Pradesh,26,Moderate,0,30,55,40,False
+WS/MP528/2025-2026/243484,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP528/2025-2026/244056,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP528/2025-2026/256688,Andhra Pradesh,20,Moderate,0,30,25,40,False
+WS/MP528/2025-2026/244059,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP528/2025-2026/256686,Andhra Pradesh,20,Moderate,0,30,25,40,False
+WS/MP528/2025-2026/244027,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP528/2025-2026/244036,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP18017/2025-2026/262080,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP18017/2025-2026/262082,Andhra Pradesh,6,Low / Normal,0,0,0,40,False
+WS/MP18017/2025-2026/208142,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP18017/2025-2026/230964,Andhra Pradesh,6,Low / Normal,0,0,0,40,False
+WS/MP18017/2026-2027/278188,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP18017/2025-2026/262099,Andhra Pradesh,6,Low / Normal,0,0,0,40,False
+WS/MP18017/2025-2026/208158,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP18017/2025-2026/262131,Andhra Pradesh,6,Low / Normal,0,0,0,40,False
+WS/MP18343/2025-2026/194518,Andhra Pradesh,6,Low / Normal,0,0,0,40,False
+WS/MP18343/2025-2026/236765,Andhra Pradesh,6,Low / Normal,0,0,0,40,False
+WS/MP18343/2025-2026/194505,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP18343/2025-2026/194516,Andhra Pradesh,6,Low / Normal,0,0,0,40,False
+WS/MP18343/2025-2026/230948,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP18343/2025-2026/194517,Andhra Pradesh,6,Low / Normal,0,0,0,40,False
+WS/MP18343/2025-2026/197997,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP18343/2025-2026/179129,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP18010/2025-2026/201980,Andhra Pradesh,6,Low / Normal,0,0,0,40,False
+WS/MP18010/2025-2026/201981,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP18010/2025-2026/182158,Andhra Pradesh,6,Low / Normal,0,0,0,40,False
+WS/MP18010/2025-2026/182173,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP18010/2025-2026/230000,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP18010/2025-2026/201982,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP18010/2025-2026/213636,Andhra Pradesh,6,Low / Normal,0,0,0,40,False
+WS/MP18010/2025-2026/182167,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP403/2025-2026/227768,Andhra Pradesh,6,Low / Normal,0,0,0,40,False
+WS/MP403/2025-2026/207893,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP403/2025-2026/241349,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP403/2025-2026/207887,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP403/2024-2025/163576,Andhra Pradesh,20,Moderate,0,30,25,40,False
+WS/MP403/2025-2026/227769,Andhra Pradesh,6,Low / Normal,0,0,0,40,False
+WS/MP403/2025-2026/254763,Andhra Pradesh,6,Low / Normal,0,0,0,40,False
+WS/MP403/2025-2026/207891,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP18016/2025-2026/221411,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP18016/2025-2026/251882,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP18016/2025-2026/251884,Andhra Pradesh,6,Low / Normal,0,0,0,40,False
+WS/MP18016/2025-2026/251883,Andhra Pradesh,6,Low / Normal,0,0,0,40,False
+WS/MP18016/2026-2027/292111,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP18016/2026-2027/277854,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP18016/2025-2026/252028,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP18016/2026-2027/279535,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP18012/2026-2027/277368,Andhra Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP18098/2024-2025/180413,Madhya Pradesh,6,Low / Normal,0,0,30,0,False
+WS/MP18098/2024-2025/180437,Madhya Pradesh,60,Elevated Risk,44,100,55,25,True
+WS/MP18098/2025-2026/176785,Madhya Pradesh,0,Low / Normal,0,0,0,0,False
+WS/MP18098/2025-2026/195616,Madhya Pradesh,0,Low / Normal,0,0,0,0,False
+WS/MP18098/2026-2027/269785,Madhya Pradesh,4,Low / Normal,0,0,0,25,False
+WS/MP18098/2026-2027/269823,Madhya Pradesh,0,Low / Normal,0,0,0,0,False
+WS/MP18098/2026-2027/272623,Madhya Pradesh,0,Low / Normal,0,0,0,0,False
+WS/MP444/2024-2025/146251,Madhya Pradesh,5,Low / Normal,0,0,25,0,False
+WS/MP444/2024-2025/165415,Madhya Pradesh,4,Low / Normal,0,0,0,25,False
+WS/MP444/2025-2026/193985,Madhya Pradesh,4,Low / Normal,0,0,0,25,False
+WS/MP444/2025-2026/194018,Madhya Pradesh,0,Low / Normal,0,0,0,0,False
+WS/MP444/2025-2026/208017,Madhya Pradesh,4,Low / Normal,0,0,0,25,False
+WS/MP444/2025-2026/231609,Madhya Pradesh,4,Low / Normal,0,0,0,25,False
+WS/MP444/2025-2026/245624,Madhya Pradesh,0,Low / Normal,0,0,0,0,False
+WS/MP444/2026-2027/288965,Madhya Pradesh,0,Low / Normal,0,0,0,0,False
+WS/MP655/2025-2026/201504,Madhya Pradesh,4,Low / Normal,0,0,0,25,False
+WS/MP655/2025-2026/201506,Madhya Pradesh,0,Low / Normal,0,0,0,0,False
+WS/MP655/2025-2026/226820,Madhya Pradesh,0,Low / Normal,0,0,0,0,False
+WS/MP655/2025-2026/225191,Madhya Pradesh,0,Low / Normal,0,0,0,0,False
+WS/MP655/2025-2026/258104,Madhya Pradesh,4,Low / Normal,0,0,0,25,False
+WS/MP655/2025-2026/258248,Madhya Pradesh,4,Low / Normal,0,0,0,25,False
+WS/MP655/2025-2026/258303,Madhya Pradesh,4,Low / Normal,0,0,0,25,False
+WS/MP18099/2024-2025/175434,Madhya Pradesh,18,Low / Normal,0,30,25,25,False
+WS/MP18099/2025-2026/176443,Madhya Pradesh,4,Low / Normal,0,0,0,25,False
+WS/MP18099/2025-2026/218950,Madhya Pradesh,4,Low / Normal,0,0,0,25,False
+WS/MP18099/2025-2026/225206,Madhya Pradesh,0,Low / Normal,0,0,0,0,False
+WS/MP18099/2025-2026/223072,Madhya Pradesh,0,Low / Normal,0,0,0,0,False
+WS/MP18099/2025-2026/255518,Madhya Pradesh,4,Low / Normal,0,0,0,25,False
+WS/MP18099/2026-2027/269942,Madhya Pradesh,4,Low / Normal,0,0,0,25,False
+WS/MP18099/2026-2027/274490,Madhya Pradesh,0,Low / Normal,0,0,0,0,False
+WS/MP18099/2026-2027/281679,Madhya Pradesh,4,Low / Normal,0,0,0,25,False
+WS/MP18100/2024-2025/151652,Madhya Pradesh,0,Low / Normal,0,0,0,0,False
+WS/MP18100/2024-2025/167244,Madhya Pradesh,0,Low / Normal,0,0,0,0,False
+WS/MP18100/2024-2025/164789,Madhya Pradesh,10,Low / Normal,0,0,30,25,False
+WS/MP18100/2025-2026/182329,Madhya Pradesh,0,Low / Normal,0,0,0,0,False
+WS/MP18100/2025-2026/173912,Madhya Pradesh,0,Low / Normal,0,0,0,0,False
+WS/MP18100/2025-2026/244225,Madhya Pradesh,0,Low / Normal,0,0,0,0,False
+WS/MP18100/2025-2026/241964,Madhya Pradesh,4,Low / Normal,0,0,0,25,False
+WS/MP18100/2026-2027/263129,Madhya Pradesh,4,Low / Normal,0,0,0,25,False
+WS/MP18101/2024-2025/139569,Madhya Pradesh,0,Low / Normal,0,0,0,0,False
+WS/MP18101/2024-2025/141644,Madhya Pradesh,6,Low / Normal,0,0,30,0,False
+WS/MP18101/2025-2026/182505,Madhya Pradesh,0,Low / Normal,0,0,0,0,False
+WS/MP18101/2025-2026/182530,Madhya Pradesh,4,Low / Normal,0,0,0,25,False
+WS/MP18101/2025-2026/185857,Madhya Pradesh,0,Low / Normal,0,0,0,0,False
+WS/MP18101/2025-2026/261580,Madhya Pradesh,4,Low / Normal,0,0,0,25,False
+WS/MP18101/2026-2027/258049,Madhya Pradesh,0,Low / Normal,0,0,0,0,False
+WS/MP18101/2026-2027/287604,Madhya Pradesh,4,Low / Normal,0,0,0,25,False
+WS/MP653/2024-2025/153579,Madhya Pradesh,10,Low / Normal,0,0,30,25,False
+WS/MP653/2025-2026/155146,Madhya Pradesh,10,Low / Normal,0,0,30,25,False
+WS/MP653/2025-2026/189550,Madhya Pradesh,0,Low / Normal,0,0,0,0,False
+WS/MP653/2025-2026/199616,Madhya Pradesh,4,Low / Normal,0,0,0,25,False
+WS/MP653/2025-2026/230472,Madhya Pradesh,0,Low / Normal,0,0,0,0,False
+WS/MP653/2025-2026/255393,Madhya Pradesh,4,Low / Normal,0,0,0,25,False
+WS/MP653/2026-2027/211361,Madhya Pradesh,4,Low / Normal,0,0,0,25,False
+WS/MP18102/2025-2026/186521,Madhya Pradesh,16,Low / Normal,0,40,0,25,False
+WS/MP18102/2025-2026/186507,Madhya Pradesh,0,Low / Normal,0,0,0,0,False
+WS/MP18102/2025-2026/182452,Madhya Pradesh,4,Low / Normal,0,0,0,25,False
+WS/MP18102/2025-2026/216643,Madhya Pradesh,18,Low / Normal,0,30,25,25,False
+WS/MP18102/2025-2026/236608,Madhya Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP18102/2025-2026/229822,Madhya Pradesh,0,Low / Normal,0,0,0,0,False
+WS/MP18102/2026-2027/290298,Madhya Pradesh,4,Low / Normal,0,0,0,25,False
+WS/MP18102/2026-2027/286586,Madhya Pradesh,4,Low / Normal,0,0,0,25,False
+WS/MP18357/2024-2025/151500,Madhya Pradesh,3,Low / Normal,0,0,0,20,False
+WS/MP18357/2024-2025/160266,Madhya Pradesh,6,Low / Normal,0,0,30,0,False
+WS/MP18357/2024-2025/146473,Madhya Pradesh,10,Low / Normal,0,0,30,25,False
+WS/MP18357/2024-2025/146474,Madhya Pradesh,10,Low / Normal,0,0,30,25,False
+WS/MP18357/2024-2025/157805,Madhya Pradesh,7,Low / Normal,0,0,0,45,False
+WS/MP18357/2024-2025/159339,Madhya Pradesh,10,Low / Normal,0,0,30,25,False
+WS/MP18357/2025-2026/262886,Madhya Pradesh,0,Low / Normal,0,0,0,0,False
+WS/MP18357/2026-2027/281916,Madhya Pradesh,0,Low / Normal,0,0,0,0,False
+WS/MP18103/2025-2026/178231,Madhya Pradesh,0,Low / Normal,0,0,0,0,False
+WS/MP18103/2025-2026/178236,Madhya Pradesh,0,Low / Normal,0,0,0,0,False
+WS/MP18103/2025-2026/224380,Madhya Pradesh,4,Low / Normal,0,0,0,25,False
+WS/MP18103/2025-2026/238995,Madhya Pradesh,4,Low / Normal,0,0,0,25,False
+WS/MP18103/2026-2027/285503,Madhya Pradesh,0,Low / Normal,0,0,0,0,False
+WS/MP18103/2026-2027/286996,Madhya Pradesh,0,Low / Normal,0,0,0,0,False
+WS/MP18104/2025-2026/152190,Madhya Pradesh,24,Moderate,0,30,55,25,False
+WS/MP18104/2025-2026/161488,Madhya Pradesh,6,Low / Normal,0,0,30,0,False
+WS/MP18104/2025-2026/209879,Madhya Pradesh,0,Low / Normal,0,0,0,0,False
+WS/MP18104/2025-2026/222746,Madhya Pradesh,4,Low / Normal,0,0,0,25,False
+WS/MP18104/2026-2027/255527,Madhya Pradesh,4,Low / Normal,0,0,0,25,False
+WS/MP18104/2026-2027/280157,Madhya Pradesh,0,Low / Normal,0,0,0,0,False
+WS/MP650/2025-2026/177535,Madhya Pradesh,0,Low / Normal,0,0,0,0,False
+WS/MP650/2025-2026/167397,Madhya Pradesh,0,Low / Normal,0,0,0,0,False
+WS/MP650/2025-2026/217142,Madhya Pradesh,0,Low / Normal,0,0,0,0,False
+WS/MP650/2025-2026/236763,Madhya Pradesh,0,Low / Normal,0,0,0,0,False
+WS/MP650/2025-2026/206645,Madhya Pradesh,18,Low / Normal,0,30,25,25,False
+WS/MP650/2025-2026/270879,Madhya Pradesh,24,Moderate,0,50,25,25,False
+WS/MP18105/2025-2026/213660,Madhya Pradesh,4,Low / Normal,0,0,0,25,False
+WS/MP18105/2025-2026/185674,Madhya Pradesh,18,Low / Normal,0,30,25,25,False
+WS/MP18105/2025-2026/185726,Madhya Pradesh,4,Low / Normal,0,0,0,25,False
+WS/MP18105/2025-2026/185737,Madhya Pradesh,0,Low / Normal,0,0,0,0,False
+WS/MP18105/2025-2026/187036,Madhya Pradesh,4,Low / Normal,0,0,0,25,False
+WS/MP18105/2026-2027/253350,Madhya Pradesh,0,Low / Normal,0,0,0,0,False
+WS/MP446/2024-2025/156590,Madhya Pradesh,0,Low / Normal,0,0,0,0,False
+WS/MP446/2025-2026/229240,Madhya Pradesh,4,Low / Normal,0,0,0,25,False
+WS/MP446/2025-2026/248095,Madhya Pradesh,4,Low / Normal,0,0,0,25,False
+WS/MP446/2026-2027/277199,Madhya Pradesh,0,Low / Normal,0,0,0,0,False
+WS/MP446/2026-2027/260526,Madhya Pradesh,0,Low / Normal,0,0,0,0,False
+WS/MP446/2026-2027/288636,Madhya Pradesh,4,Low / Normal,0,0,0,25,False
+WS/MP446/2026-2027/286961,Madhya Pradesh,2,Low / Normal,0,0,0,15,False
+WS/MP446/2026-2027/288492,Madhya Pradesh,0,Low / Normal,0,0,0,0,False
+WS/MP446/2026-2027/297671,Madhya Pradesh,0,Low / Normal,0,0,0,0,False
+WS/MP643/2024-2025/164048,Madhya Pradesh,0,Low / Normal,0,0,0,0,False
+WS/MP643/2024-2025/164772,Madhya Pradesh,10,Low / Normal,0,0,30,25,False
+WS/MP643/2025-2026/208818,Madhya Pradesh,18,Low / Normal,0,30,25,25,False
+WS/MP643/2025-2026/208711,Madhya Pradesh,0,Low / Normal,0,0,0,0,False
+WS/MP643/2025-2026/208613,Madhya Pradesh,0,Low / Normal,0,0,0,0,False
+WS/MP643/2025-2026/258926,Madhya Pradesh,0,Low / Normal,0,0,0,0,False
+WS/MP641/2024-2025/143281,Madhya Pradesh,0,Low / Normal,0,0,0,0,False
+WS/MP641/2024-2025/133909,Madhya Pradesh,10,Low / Normal,0,0,30,25,False
+WS/MP641/2025-2026/228939,Madhya Pradesh,0,Low / Normal,0,0,0,0,False
+WS/MP641/2025-2026/256100,Madhya Pradesh,4,Low / Normal,0,0,0,25,False
+WS/MP641/2026-2027/258153,Madhya Pradesh,0,Low / Normal,0,0,0,0,False
+WS/MP641/2026-2027/281877,Madhya Pradesh,4,Low / Normal,0,0,0,25,False
+WS/MP640/2025-2026/164834,Madhya Pradesh,4,Low / Normal,0,0,0,25,False
+WS/MP640/2025-2026/165549,Madhya Pradesh,10,Low / Normal,0,0,30,25,False
+WS/MP640/2025-2026/165579,Madhya Pradesh,4,Low / Normal,0,0,20,0,False
+WS/MP640/2026-2027/270692,Madhya Pradesh,0,Low / Normal,0,0,0,0,False
+WS/MP640/2026-2027/274761,Madhya Pradesh,0,Low / Normal,0,0,0,0,False
+WS/MP640/2026-2027/270715,Madhya Pradesh,0,Low / Normal,0,0,0,0,False
+WS/MP356/2024-2025/140604,Madhya Pradesh,24,Moderate,0,30,55,25,False
+WS/MP356/2025-2026/156428,Madhya Pradesh,5,Low / Normal,0,0,25,0,False
+WS/MP356/2025-2026/145730,Madhya Pradesh,0,Low / Normal,0,0,0,0,False
+WS/MP356/2026-2027/233331,Madhya Pradesh,4,Low / Normal,0,0,20,0,False
+WS/MP356/2026-2027/283752,Madhya Pradesh,4,Low / Normal,0,0,0,25,False
+WS/MP356/2026-2027/284081,Madhya Pradesh,0,Low / Normal,0,0,0,0,False
+WS/MP356/2026-2027/294917,Madhya Pradesh,0,Low / Normal,0,0,0,0,False
+WS/MP18106/2024-2025/147204,Madhya Pradesh,0,Low / Normal,0,0,0,0,False
+WS/MP18106/2024-2025/146922,Madhya Pradesh,18,Low / Normal,0,30,25,25,False
+WS/MP18106/2024-2025/178283,Madhya Pradesh,6,Low / Normal,0,0,30,0,False
+WS/MP18106/2025-2026/178280,Madhya Pradesh,4,Low / Normal,0,0,0,25,False
+WS/MP18106/2026-2027/276974,Madhya Pradesh,0,Low / Normal,0,0,0,0,False
+WS/MP18106/2026-2027/276976,Madhya Pradesh,0,Low / Normal,0,0,0,0,False
+WS/MP443/2024-2025/138721,Madhya Pradesh,0,Low / Normal,0,0,0,0,False
+WS/MP443/2025-2026/142913,Madhya Pradesh,0,Low / Normal,0,0,0,0,False
+WS/MP443/2025-2026/140012,Madhya Pradesh,24,Moderate,0,30,55,25,False
+WS/MP443/2025-2026/227643,Madhya Pradesh,18,Low / Normal,0,30,25,25,False
+WS/MP443/2025-2026/274165,Madhya Pradesh,4,Low / Normal,0,0,0,25,False
+WS/MP443/2026-2027/287310,Madhya Pradesh,0,Low / Normal,0,0,0,0,False
+WS/MP18107/2024-2025/163537,Madhya Pradesh,0,Low / Normal,0,0,0,0,False
+WS/MP18107/2024-2025/163605,Madhya Pradesh,4,Low / Normal,0,0,0,25,False
+WS/MP18107/2025-2026/231836,Madhya Pradesh,0,Low / Normal,0,0,0,0,False
+WS/MP18107/2025-2026/225993,Madhya Pradesh,0,Low / Normal,0,0,0,0,False
+WS/MP18107/2025-2026/267399,Madhya Pradesh,4,Low / Normal,0,0,0,25,False
+WS/MP18107/2026-2027/270239,Madhya Pradesh,0,Low / Normal,0,0,0,0,False
+WS/MP644/2024-2025/151117,Madhya Pradesh,10,Low / Normal,0,0,30,25,False
+WS/MP644/2024-2025/151160,Madhya Pradesh,24,Moderate,0,30,55,25,False
+WS/MP644/2024-2025/151376,Madhya Pradesh,0,Low / Normal,0,0,0,0,False
+WS/MP644/2025-2026/177084,Madhya Pradesh,24,Moderate,0,30,55,25,False
+WS/MP644/2025-2026/177086,Madhya Pradesh,24,Moderate,0,30,55,25,False
+WS/MP644/2025-2026/221029,Madhya Pradesh,18,Low / Normal,0,30,25,25,False
+WS/MP18108/2024-2025/143814,Madhya Pradesh,6,Low / Normal,0,0,30,0,False
+WS/MP18108/2024-2025/151874,Madhya Pradesh,6,Low / Normal,0,0,30,0,False
+WS/MP18108/2025-2026/205872,Madhya Pradesh,0,Low / Normal,0,0,0,0,False
+WS/MP18108/2025-2026/222843,Madhya Pradesh,4,Low / Normal,0,0,0,25,False
+WS/MP18108/2025-2026/262014,Madhya Pradesh,18,Low / Normal,0,30,25,25,False
+WS/MP18108/2026-2027/288582,Madhya Pradesh,0,Low / Normal,0,0,0,0,False
+WS/MP642/2025-2026/196571,Madhya Pradesh,18,Low / Normal,0,30,25,25,False
+WS/MP642/2025-2026/200939,Madhya Pradesh,4,Low / Normal,0,0,0,25,False
+WS/MP642/2025-2026/229116,Madhya Pradesh,18,Low / Normal,0,30,25,25,False
+WS/MP642/2025-2026/195930,Madhya Pradesh,18,Low / Normal,0,30,25,25,False
+WS/MP642/2025-2026/196610,Madhya Pradesh,4,Low / Normal,0,0,20,0,False
+WS/MP642/2026-2027/197125,Madhya Pradesh,4,Low / Normal,0,0,20,0,False
+WS/MP642/2026-2027/199817,Madhya Pradesh,22,Moderate,0,30,45,25,False
+WS/MP654/2024-2025/151713,Madhya Pradesh,18,Low / Normal,0,30,25,25,False
+WS/MP654/2025-2026/178969,Madhya Pradesh,0,Low / Normal,0,0,0,0,False
+WS/MP654/2025-2026/224999,Madhya Pradesh,18,Low / Normal,0,30,25,25,False
+WS/MP654/2025-2026/245830,Madhya Pradesh,4,Low / Normal,0,0,0,25,False
+WS/MP654/2026-2027/273966,Madhya Pradesh,4,Low / Normal,0,0,0,25,False
+WS/MP654/2026-2027/263728,Madhya Pradesh,0,Low / Normal,0,0,0,0,False
+WS/MP654/2026-2027/279075,Madhya Pradesh,0,Low / Normal,0,0,0,0,False
+WS/MP654/2026-2027/282746,Madhya Pradesh,0,Low / Normal,0,0,0,0,False
+WS/MP654/2026-2027/282760,Madhya Pradesh,0,Low / Normal,0,0,0,0,False
+WS/MP18109/2024-2025/150174,Madhya Pradesh,6,Low / Normal,0,0,30,0,False
+WS/MP18109/2025-2026/206939,Madhya Pradesh,0,Low / Normal,0,0,0,0,False
+WS/MP18109/2025-2026/150117,Madhya Pradesh,18,Low / Normal,0,30,25,25,False
+WS/MP18109/2025-2026/194278,Madhya Pradesh,42,Elevated Risk,25,80,25,25,True
+WS/MP18109/2025-2026/246626,Madhya Pradesh,0,Low / Normal,0,0,0,0,False
+WS/MP18109/2025-2026/244367,Madhya Pradesh,4,Low / Normal,0,0,0,25,False
+WS/MP18109/2025-2026/258874,Madhya Pradesh,4,Low / Normal,0,0,0,25,False
+WS/MP638/2024-2025/152565,Madhya Pradesh,4,Low / Normal,0,0,0,25,False
+WS/MP638/2024-2025/152571,Madhya Pradesh,4,Low / Normal,0,0,0,25,False
+WS/MP638/2024-2025/152570,Madhya Pradesh,0,Low / Normal,0,0,0,0,False
+WS/MP638/2024-2025/152574,Madhya Pradesh,10,Low / Normal,0,0,30,25,False
+WS/MP638/2025-2026/236543,Madhya Pradesh,4,Low / Normal,0,0,0,25,False
+WS/MP638/2025-2026/236625,Madhya Pradesh,4,Low / Normal,0,0,0,25,False
+WS/MP360/2025-2026/167130,Madhya Pradesh,0,Low / Normal,0,0,0,0,False
+WS/MP360/2025-2026/225235,Madhya Pradesh,0,Low / Normal,0,0,0,0,False
+WS/MP360/2025-2026/219075,Madhya Pradesh,0,Low / Normal,0,0,0,0,False
+WS/MP360/2026-2027/226519,Madhya Pradesh,0,Low / Normal,0,0,0,0,False
+WS/MP360/2026-2027/195057,Madhya Pradesh,4,Low / Normal,0,0,20,0,False
+WS/MP360/2026-2027/295381,Madhya Pradesh,4,Low / Normal,0,0,0,25,False
+WS/MP360/2026-2027/295382,Madhya Pradesh,0,Low / Normal,0,0,0,0,False
+WS/MP18375/2025-2026/187775,Madhya Pradesh,18,Low / Normal,0,30,25,25,False
+WS/MP18375/2025-2026/187701,Madhya Pradesh,4,Low / Normal,0,0,0,25,False
+WS/MP18375/2025-2026/187698,Madhya Pradesh,18,Low / Normal,0,30,25,25,False
+WS/MP18375/2025-2026/187760,Madhya Pradesh,0,Low / Normal,0,0,0,0,False
+WS/MP18375/2025-2026/187690,Madhya Pradesh,22,Moderate,0,30,45,25,False
+WS/MP18375/2026-2027/187747,Madhya Pradesh,4,Low / Normal,0,0,20,0,False
+WS/MP381/2024-2025/153012,Punjab,6,Low / Normal,0,0,30,0,False
+WS/MP381/2024-2025/153013,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP381/2024-2025/153014,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP381/2024-2025/153015,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP381/2024-2025/153016,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP381/2024-2025/153017,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP381/2024-2025/153018,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP381/2024-2025/153019,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP381/2024-2025/153020,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP381/2024-2025/153021,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP381/2024-2025/153022,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP381/2024-2025/153023,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP381/2024-2025/153024,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP381/2024-2025/153025,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP381/2024-2025/153026,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP381/2024-2025/153027,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP381/2024-2025/153028,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP381/2024-2025/153029,Punjab,5,Low / Normal,0,0,25,0,False
+WS/MP381/2024-2025/153030,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP381/2024-2025/153031,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP18311/2024-2025/149556,Punjab,4,Low / Normal,0,0,0,25,False
+WS/MP18311/2024-2025/161353,Punjab,4,Low / Normal,0,0,0,25,False
+WS/MP18311/2025-2026/194233,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP18311/2025-2026/219463,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP18311/2025-2026/221460,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP18311/2025-2026/219477,Punjab,4,Low / Normal,0,0,0,25,False
+WS/MP18311/2025-2026/231208,Punjab,12,Low / Normal,0,40,0,0,False
+WS/MP18311/2025-2026/231210,Punjab,4,Low / Normal,0,0,0,25,False
+WS/MP18311/2025-2026/234422,Punjab,4,Low / Normal,0,0,0,25,False
+WS/MP18311/2025-2026/234432,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP18311/2025-2026/255123,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP18311/2025-2026/259393,Punjab,48,Elevated Risk,25,100,25,25,True
+WS/MP18311/2025-2026/272270,Punjab,40,Elevated Risk,43,70,0,25,True
+WS/MP18311/2026-2027/280929,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP716/2024-2025/140237,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP716/2024-2025/142656,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP716/2024-2025/141305,Punjab,10,Low / Normal,0,0,30,25,False
+WS/MP716/2025-2026/203936,Punjab,16,Low / Normal,0,40,0,25,False
+WS/MP716/2025-2026/210122,Punjab,4,Low / Normal,0,0,0,25,False
+WS/MP716/2025-2026/210123,Punjab,18,Low / Normal,0,30,25,25,False
+WS/MP716/2025-2026/210356,Punjab,30,Moderate,25,70,0,0,False
+WS/MP716/2025-2026/212401,Punjab,70,High Risk,70,100,25,25,True
+WS/MP716/2025-2026/210098,Punjab,30,Moderate,0,70,25,25,False
+WS/MP716/2025-2026/256575,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP716/2025-2026/268216,Punjab,2,Low / Normal,0,0,0,15,False
+WS/MP716/2026-2027/273833,Punjab,2,Low / Normal,0,0,0,15,False
+WS/MP716/2026-2027/275190,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP716/2026-2027/293027,Punjab,43,Elevated Risk,60,60,0,25,True
+WS/MP18152/2024-2025/140030,Punjab,5,Low / Normal,0,0,25,0,False
+WS/MP18152/2024-2025/141186,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP18152/2024-2025/140036,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP18152/2024-2025/163195,Punjab,4,Low / Normal,0,0,0,25,False
+WS/MP18152/2024-2025/176303,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP18152/2025-2026/220386,Punjab,60,Elevated Risk,62,100,25,25,True
+WS/MP18152/2025-2026/220384,Punjab,70,High Risk,70,100,25,25,True
+WS/MP18152/2025-2026/239727,Punjab,18,Low / Normal,0,30,25,25,False
+WS/MP18152/2025-2026/239748,Punjab,18,Low / Normal,0,30,25,25,False
+WS/MP18152/2025-2026/239747,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP18152/2025-2026/258374,Punjab,18,Low / Normal,0,30,25,25,False
+WS/MP18152/2026-2027/293495,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP18152/2026-2027/293508,Punjab,18,Low / Normal,0,30,25,25,False
+WS/MP18152/2026-2027/293543,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP380/2024-2025/167363,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP380/2024-2025/167052,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP380/2024-2025/167287,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP380/2025-2026/193121,Punjab,38,Moderate,25,85,0,25,False
+WS/MP380/2025-2026/209170,Punjab,10,Low / Normal,0,20,0,25,False
+WS/MP380/2025-2026/209175,Punjab,31,Moderate,45,50,0,0,False
+WS/MP380/2025-2026/209159,Punjab,16,Low / Normal,0,40,0,25,False
+WS/MP380/2025-2026/213878,Punjab,29,Moderate,57,30,0,0,False
+WS/MP380/2025-2026/220672,Punjab,18,Low / Normal,0,30,25,25,False
+WS/MP380/2025-2026/211860,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP380/2025-2026/219271,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP380/2025-2026/235033,Punjab,20,Moderate,0,30,25,40,False
+WS/MP380/2025-2026/238122,Punjab,12,Low / Normal,0,40,0,0,False
+WS/MP380/2025-2026/216855,Punjab,20,Moderate,0,30,25,40,False
+WS/MP380/2025-2026/246712,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP380/2025-2026/242208,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP380/2026-2027/279582,Punjab,4,Low / Normal,0,0,0,25,False
+WS/MP380/2026-2027/279193,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP380/2026-2027/279201,Punjab,4,Low / Normal,0,0,0,25,False
+WS/MP18153/2024-2025/135260,Punjab,6,Low / Normal,0,0,30,0,False
+WS/MP18153/2024-2025/167828,Punjab,10,Low / Normal,0,0,30,25,False
+WS/MP18153/2024-2025/183043,Punjab,18,Low / Normal,0,30,25,25,False
+WS/MP18153/2025-2026/188171,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP18153/2025-2026/208397,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP18153/2025-2026/216816,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP18153/2025-2026/229094,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP18153/2025-2026/238124,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP18153/2025-2026/247298,Punjab,4,Low / Normal,0,0,0,25,False
+WS/MP18153/2025-2026/247459,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP18153/2025-2026/274494,Punjab,4,Low / Normal,0,0,0,25,False
+WS/MP18153/2026-2027/274487,Punjab,18,Low / Normal,0,30,25,25,False
+WS/MP18153/2026-2027/273973,Punjab,4,Low / Normal,0,0,0,25,False
+WS/MP18153/2026-2027/274486,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP18154/2025-2026/166556,Punjab,4,Low / Normal,0,0,0,25,False
+WS/MP18154/2025-2026/166557,Punjab,4,Low / Normal,0,0,0,25,False
+WS/MP18154/2025-2026/166565,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP18154/2025-2026/193264,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP18154/2025-2026/196161,Punjab,4,Low / Normal,0,0,0,25,False
+WS/MP18154/2025-2026/166569,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP18154/2025-2026/192238,Punjab,4,Low / Normal,0,0,0,25,False
+WS/MP18154/2025-2026/199726,Punjab,6,Low / Normal,0,20,0,0,False
+WS/MP18154/2025-2026/196159,Punjab,4,Low / Normal,0,0,0,25,False
+WS/MP18154/2025-2026/250965,Punjab,30,Moderate,0,70,25,25,False
+WS/MP18154/2025-2026/256975,Punjab,4,Low / Normal,0,0,0,25,False
+WS/MP18154/2025-2026/259402,Punjab,4,Low / Normal,0,0,0,25,False
+WS/MP18154/2025-2026/245786,Punjab,22,Moderate,25,30,0,25,False
+WS/MP18154/2025-2026/250967,Punjab,6,Low / Normal,0,0,0,40,False
+WS/MP18154/2026-2027/274565,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP18154/2026-2027/290379,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP18155/2024-2025/149131,Punjab,24,Moderate,0,30,55,25,False
+WS/MP18155/2024-2025/141721,Punjab,18,Low / Normal,0,30,25,25,False
+WS/MP18155/2024-2025/163661,Punjab,36,Moderate,25,70,30,0,False
+WS/MP18155/2025-2026/192798,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP18155/2025-2026/193697,Punjab,36,Moderate,25,80,0,25,False
+WS/MP18155/2025-2026/193916,Punjab,34,Moderate,25,70,0,25,False
+WS/MP18155/2025-2026/189291,Punjab,4,Low / Normal,0,0,0,25,False
+WS/MP18155/2025-2026/212567,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP18155/2025-2026/215381,Punjab,4,Low / Normal,0,0,0,25,False
+WS/MP18155/2025-2026/234976,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP18155/2025-2026/238468,Punjab,18,Low / Normal,0,30,25,25,False
+WS/MP18155/2025-2026/239008,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP18155/2025-2026/234464,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP18155/2025-2026/249579,Punjab,16,Low / Normal,0,40,0,25,False
+WS/MP18155/2025-2026/249974,Punjab,34,Moderate,0,85,25,25,False
+WS/MP18155/2025-2026/245961,Punjab,4,Low / Normal,0,0,0,25,False
+WS/MP18155/2025-2026/255164,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP18155/2025-2026/245574,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP18155/2025-2026/245651,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP18155/2025-2026/255139,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP18155/2026-2027/289350,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP18156/2025-2026/185310,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP18156/2025-2026/201764,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP18156/2025-2026/183678,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP18156/2025-2026/211024,Punjab,18,Low / Normal,0,30,25,25,False
+WS/MP18156/2025-2026/219859,Punjab,4,Low / Normal,0,0,0,25,False
+WS/MP18156/2025-2026/219705,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP18156/2025-2026/219740,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP18156/2025-2026/219789,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP18156/2025-2026/213129,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP18156/2025-2026/213068,Punjab,18,Low / Normal,0,30,25,25,False
+WS/MP18156/2025-2026/219721,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP18156/2025-2026/219846,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP18156/2025-2026/219857,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP18156/2025-2026/219747,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP18156/2025-2026/225098,Punjab,4,Low / Normal,0,0,0,25,False
+WS/MP18156/2025-2026/225723,Punjab,18,Low / Normal,0,30,25,25,False
+WS/MP18156/2025-2026/185312,Punjab,6,Low / Normal,0,0,0,40,False
+WS/MP18156/2025-2026/225107,Punjab,4,Low / Normal,0,0,0,25,False
+WS/MP18156/2026-2027/273840,Punjab,4,Low / Normal,0,0,0,25,False
+WS/MP18156/2026-2027/273854,Punjab,4,Low / Normal,0,0,0,25,False
+WS/MP18156/2026-2027/269963,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP18157/2024-2025/163206,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP18157/2024-2025/157077,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP18157/2024-2025/163223,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP18157/2025-2026/178660,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP18157/2025-2026/198805,Punjab,12,Low / Normal,0,40,0,0,False
+WS/MP18157/2025-2026/234867,Punjab,2,Low / Normal,0,0,0,15,False
+WS/MP18157/2025-2026/232177,Punjab,4,Low / Normal,0,0,0,25,False
+WS/MP18157/2025-2026/239559,Punjab,10,Low / Normal,0,20,0,25,False
+WS/MP18157/2025-2026/241166,Punjab,18,Low / Normal,0,30,25,25,False
+WS/MP18157/2025-2026/241170,Punjab,18,Low / Normal,0,30,25,25,False
+WS/MP18157/2025-2026/251538,Punjab,2,Low / Normal,0,0,0,15,False
+WS/MP18157/2025-2026/252273,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP18157/2025-2026/267152,Punjab,36,Moderate,25,70,0,40,False
+WS/MP18157/2026-2027/260371,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP18157/2026-2027/276323,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP18158/2025-2026/194599,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP18158/2025-2026/196402,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP18158/2025-2026/203151,Punjab,10,Low / Normal,0,20,0,25,False
+WS/MP18158/2025-2026/207937,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP18158/2025-2026/199785,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP18158/2025-2026/199794,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP18158/2025-2026/225709,Punjab,12,Low / Normal,0,40,0,0,False
+WS/MP18158/2025-2026/217344,Punjab,4,Low / Normal,0,0,0,25,False
+WS/MP18158/2025-2026/231540,Punjab,10,Low / Normal,0,20,0,25,False
+WS/MP18158/2025-2026/231524,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP18158/2025-2026/242834,Punjab,4,Low / Normal,0,0,0,25,False
+WS/MP18158/2025-2026/257759,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP18158/2026-2027/222870,Punjab,18,Low / Normal,0,30,25,25,False
+WS/MP18158/2026-2027/244719,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP18158/2026-2027/240352,Punjab,4,Low / Normal,0,0,0,25,False
+WS/MP18158/2026-2027/267950,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP18158/2026-2027/248519,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP18158/2026-2027/253276,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP18314/2024-2025/141074,Punjab,11,Low / Normal,0,0,55,0,False
+WS/MP18314/2024-2025/141412,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP18314/2025-2026/190975,Punjab,34,Moderate,45,50,0,25,False
+WS/MP18314/2025-2026/219612,Punjab,6,Low / Normal,0,20,0,0,False
+WS/MP18314/2025-2026/219613,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP18314/2025-2026/217009,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP18314/2025-2026/219458,Punjab,34,Moderate,25,70,0,25,False
+WS/MP18314/2025-2026/219595,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP18314/2025-2026/219677,Punjab,4,Low / Normal,0,0,0,25,False
+WS/MP18314/2025-2026/219470,Punjab,10,Low / Normal,0,20,0,25,False
+WS/MP18314/2025-2026/242828,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP18314/2025-2026/262903,Punjab,4,Low / Normal,0,0,0,25,False
+WS/MP18314/2026-2027/273530,Punjab,0,Low / Normal,0,0,0,0,False
+WS/MP18314/2026-2027/273533,Punjab,4,Low / Normal,0,0,0,25,False
+WS/MP765/2025-2026/232937,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP770/2025-2026/241347,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP18386/2025-2026/229827,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP18193/2025-2026/149453,Telangana,4,Low / Normal,0,0,20,0,False
+WS/MP18386/2025-2026/220050,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP18338/2025-2026/220045,Telangana,4,Low / Normal,0,0,0,25,False
+WS/MP18389/2025-2026/213468,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP18188/2025-2026/219358,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP770/2026-2027/188830,Telangana,8,Low / Normal,0,0,20,25,False
+WS/MP18191/2025-2026/234927,Telangana,4,Low / Normal,0,0,0,25,False
+WS/MP18191/2025-2026/185795,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP18187/2025-2026/189988,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP18194/2025-2026/236886,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP18190/2025-2026/192020,Telangana,18,Low / Normal,0,30,25,25,False
+WS/MP18191/2025-2026/248726,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP18189/2026-2027/260080,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP18190/2026-2027/212746,Telangana,4,Low / Normal,0,0,0,25,False
+WS/MP18386/2024-2025/160114,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP770/2025-2026/181185,Telangana,24,Moderate,0,30,55,25,False
+WS/MP18393/2026-2027/169149,Telangana,9,Low / Normal,0,0,45,0,False
+WS/MP762/2025-2026/200885,Telangana,18,Low / Normal,0,30,25,25,False
+WS/MP18193/2026-2027/188611,Telangana,9,Low / Normal,0,0,45,0,False
+WS/MP18188/2025-2026/222527,Telangana,16,Low / Normal,35,0,0,25,False
+WS/MP18194/2026-2027/299772,Telangana,4,Low / Normal,0,0,0,25,False
+WS/MP18192/2026-2027/277608,Telangana,4,Low / Normal,0,0,0,25,False
+WS/MP18389/2024-2025/163828,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP18388/2026-2027/182835,Telangana,4,Low / Normal,0,0,20,0,False
+WS/MP18189/2026-2027/260078,Telangana,4,Low / Normal,0,0,0,25,False
+WS/MP18386/2025-2026/210955,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP18188/2025-2026/208337,Telangana,4,Low / Normal,0,0,0,25,False
+WS/MP18389/2026-2027/161132,Telangana,9,Low / Normal,0,0,45,0,False
+WS/MP18193/2026-2027/280672,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP18193/2025-2026/219872,Telangana,4,Low / Normal,0,0,0,25,False
+WS/MP18192/2025-2026/192696,Telangana,24,Moderate,0,30,55,25,False
+WS/MP18188/2025-2026/204119,Telangana,18,Low / Normal,0,30,25,25,False
+WS/MP761/2026-2027/191976,Telangana,4,Low / Normal,0,0,20,0,False
+WS/MP18388/2025-2026/188590,Telangana,18,Low / Normal,0,30,25,25,False
+WS/MP18386/2025-2026/234902,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP18389/2025-2026/185705,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP18189/2025-2026/163129,Telangana,24,Moderate,0,30,55,25,False
+WS/MP18190/2026-2027/186752,Telangana,8,Low / Normal,0,0,20,25,False
+WS/MP18187/2026-2027/257694,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP18190/2025-2026/162238,Telangana,4,Low / Normal,0,0,20,0,False
+WS/MP770/2025-2026/225547,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP18338/2024-2025/152399,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP18389/2026-2027/237044,Telangana,18,Low / Normal,0,30,25,25,False
+WS/MP770/2025-2026/188763,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP770/2025-2026/233834,Telangana,4,Low / Normal,0,0,0,25,False
+WS/MP18389/2025-2026/228727,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP18338/2024-2025/152451,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP18393/2025-2026/160961,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP18187/2025-2026/219982,Telangana,4,Low / Normal,0,0,0,25,False
+WS/MP18393/2024-2025/163263,Telangana,4,Low / Normal,0,0,0,25,False
+WS/MP18187/2025-2026/219990,Telangana,4,Low / Normal,0,0,0,25,False
+WS/MP18189/2025-2026/184773,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP18388/2025-2026/196276,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP770/2025-2026/219289,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP18187/2025-2026/256521,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP18393/2026-2027/186539,Telangana,8,Low / Normal,0,0,20,25,False
+WS/MP18393/2026-2027/290944,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP18386/2026-2027/271224,Telangana,4,Low / Normal,0,0,0,25,False
+WS/MP18190/2025-2026/161775,Telangana,4,Low / Normal,0,0,20,0,False
+WS/MP18389/2025-2026/156770,Telangana,4,Low / Normal,0,0,20,0,False
+WS/MP18190/2025-2026/214156,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP18393/2024-2025/154059,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP18187/2026-2027/294497,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP18189/2026-2027/261295,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP18192/2025-2026/221310,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP18389/2025-2026/208782,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP18188/2025-2026/160104,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP18193/2024-2025/144398,Telangana,4,Low / Normal,0,0,0,25,False
+WS/MP18187/2025-2026/189913,Telangana,18,Low / Normal,0,30,25,25,False
+WS/MP18386/2026-2027/281925,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP18388/2025-2026/184093,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP18192/2025-2026/232871,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP761/2025-2026/171290,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP18192/2025-2026/216155,Telangana,4,Low / Normal,0,0,0,25,False
+WS/MP18386/2026-2027/271220,Telangana,4,Low / Normal,0,0,0,25,False
+WS/MP18191/2026-2027/267209,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP18338/2026-2027/267793,Telangana,18,Low / Normal,0,30,25,25,False
+WS/MP18193/2026-2027/194216,Telangana,22,Moderate,0,30,45,25,False
+WS/MP770/2025-2026/208309,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP18187/2025-2026/189990,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP18194/2026-2027/223803,Telangana,4,Low / Normal,0,0,0,25,False
+WS/MP18189/2025-2026/199146,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP18191/2025-2026/192677,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP18193/2025-2026/158008,Telangana,18,Low / Normal,0,30,25,25,False
+WS/MP18191/2026-2027/257208,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP761/2026-2027/224012,Telangana,4,Low / Normal,0,0,0,25,False
+WS/MP18393/2024-2025/160969,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP18393/2024-2025/160968,Telangana,5,Low / Normal,0,0,25,0,False
+WS/MP18338/2025-2026/234785,Telangana,4,Low / Normal,0,0,0,25,False
+WS/MP18194/2026-2027/223788,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP18389/2024-2025/158926,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP18187/2025-2026/189977,Telangana,18,Low / Normal,0,30,25,25,False
+WS/MP761/2025-2026/192352,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP18188/2025-2026/195129,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP18191/2024-2025/168744,Telangana,4,Low / Normal,0,0,0,25,False
+WS/MP18194/2026-2027/223432,Telangana,4,Low / Normal,0,0,20,0,False
+WS/MP770/2025-2026/228381,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP18388/2025-2026/195509,Telangana,4,Low / Normal,0,0,0,25,False
+WS/MP18388/2025-2026/188562,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP18194/2025-2026/228385,Telangana,18,Low / Normal,0,30,25,25,False
+WS/MP18338/2024-2025/149885,Telangana,6,Low / Normal,0,0,30,0,False
+WS/MP18389/2025-2026/231101,Telangana,4,Low / Normal,0,0,0,25,False
+WS/MP18191/2026-2027/307548,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP770/2025-2026/214296,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP18188/2025-2026/182150,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP18193/2025-2026/150656,Telangana,21,Moderate,35,0,25,25,False
+WS/MP18187/2025-2026/189983,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP18188/2025-2026/260783,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP18194/2025-2026/228383,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP761/2026-2027/221184,Telangana,8,Low / Normal,0,0,20,25,False
+WS/MP18393/2025-2026/163816,Telangana,4,Low / Normal,0,0,20,0,False
+WS/MP765/2025-2026/232924,Telangana,4,Low / Normal,0,0,0,25,False
+WS/MP18189/2025-2026/230689,Telangana,4,Low / Normal,0,0,0,25,False
+WS/MP762/2025-2026/200884,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP18188/2025-2026/184509,Telangana,4,Low / Normal,0,0,0,25,False
+WS/MP762/2025-2026/200883,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP18389/2025-2026/208790,Telangana,4,Low / Normal,0,0,0,25,False
+WS/MP18338/2025-2026/244824,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP18192/2025-2026/216156,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP18389/2024-2025/158928,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP18193/2025-2026/214233,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP18189/2025-2026/182905,Telangana,16,Low / Normal,35,0,0,25,False
+WS/MP18190/2026-2027/212749,Telangana,8,Low / Normal,0,0,20,25,False
+WS/MP18338/2025-2026/157821,Telangana,6,Low / Normal,0,0,30,0,False
+WS/MP770/2025-2026/225549,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP761/2026-2027/171646,Telangana,4,Low / Normal,0,0,20,0,False
+WS/MP18189/2026-2027/242610,Telangana,4,Low / Normal,0,0,0,25,False
+WS/MP18194/2026-2027/236865,Telangana,4,Low / Normal,0,0,0,25,False
+WS/MP18193/2025-2026/175995,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP18193/2025-2026/208452,Telangana,4,Low / Normal,0,0,0,25,False
+WS/MP18187/2025-2026/190002,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP770/2025-2026/214288,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP18338/2026-2027/267794,Telangana,18,Low / Normal,0,30,25,25,False
+WS/MP18193/2026-2027/188610,Telangana,22,Moderate,0,30,45,25,False
+WS/MP18393/2025-2026/160963,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP18194/2025-2026/224180,Telangana,18,Low / Normal,0,30,25,25,False
+WS/MP18192/2025-2026/204089,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP770/2025-2026/204283,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP18386/2026-2027/271221,Telangana,4,Low / Normal,0,0,0,25,False
+WS/MP18187/2025-2026/219989,Telangana,4,Low / Normal,0,0,0,25,False
+WS/MP18188/2026-2027/258053,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP18189/2026-2027/250031,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP770/2026-2027/240654,Telangana,4,Low / Normal,0,0,0,25,False
+WS/MP18192/2025-2026/230729,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP18190/2025-2026/192021,Telangana,18,Low / Normal,0,30,25,25,False
+WS/MP18194/2025-2026/224169,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP18388/2025-2026/188561,Telangana,18,Low / Normal,0,30,25,25,False
+WS/MP18191/2025-2026/210923,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP18393/2025-2026/182181,Telangana,4,Low / Normal,0,0,20,0,False
+WS/MP761/2026-2027/221186,Telangana,8,Low / Normal,0,0,20,25,False
+WS/MP18389/2025-2026/213470,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP18389/2024-2025/158925,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP18388/2026-2027/182834,Telangana,4,Low / Normal,0,0,20,0,False
+WS/MP770/2025-2026/187655,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP18189/2025-2026/184814,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP18190/2025-2026/169298,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP18190/2025-2026/162248,Telangana,4,Low / Normal,0,0,20,0,False
+WS/MP18386/2025-2026/234901,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP18191/2025-2026/262214,Telangana,4,Low / Normal,0,0,0,25,False
+WS/MP18393/2025-2026/140466,Telangana,4,Low / Normal,0,0,20,0,False
+WS/MP18191/2025-2026/192682,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP18187/2025-2026/189978,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP18188/2026-2027/277812,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP18187/2026-2027/219976,Telangana,8,Low / Normal,0,0,20,25,False
+WS/MP770/2025-2026/181671,Telangana,4,Low / Normal,0,0,0,25,False
+WS/MP18189/2025-2026/230722,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP18393/2025-2026/182182,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP18193/2024-2025/150632,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP765/2025-2026/232940,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP18192/2025-2026/196895,Telangana,4,Low / Normal,0,0,0,25,False
+WS/MP770/2025-2026/219295,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP18389/2024-2025/158919,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP18191/2025-2026/248702,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP18188/2025-2026/159486,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP18338/2026-2027/267792,Telangana,4,Low / Normal,0,0,0,25,False
+WS/MP18189/2025-2026/184336,Telangana,18,Low / Normal,0,30,25,25,False
+WS/MP18389/2024-2025/166939,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP18192/2025-2026/232872,Telangana,4,Low / Normal,0,0,0,25,False
+WS/MP770/2026-2027/232544,Telangana,18,Low / Normal,0,30,25,25,False
+WS/MP18193/2025-2026/250171,Telangana,4,Low / Normal,0,0,0,25,False
+WS/MP761/2025-2026/153907,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP770/2026-2027/195091,Telangana,4,Low / Normal,0,0,20,0,False
+WS/MP18388/2025-2026/188563,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP761/2026-2027/224234,Telangana,4,Low / Normal,0,0,0,25,False
+WS/MP18190/2025-2026/152670,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP18187/2025-2026/189882,Telangana,18,Low / Normal,0,30,25,25,False
+WS/MP18338/2025-2026/258042,Telangana,4,Low / Normal,0,0,0,25,False
+WS/MP765/2025-2026/232980,Telangana,18,Low / Normal,0,30,25,25,False
+WS/MP18389/2025-2026/185191,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP18187/2026-2027/189772,Telangana,4,Low / Normal,0,0,20,0,False
+WS/MP18188/2025-2026/258866,Telangana,4,Low / Normal,0,0,0,25,False
+WS/MP18194/2025-2026/228387,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP762/2026-2027/280169,Telangana,18,Low / Normal,0,30,25,25,False
+WS/MP18188/2025-2026/159484,Telangana,4,Low / Normal,0,0,0,25,False
+WS/MP18190/2025-2026/177022,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP18192/2026-2027/288697,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP18190/2025-2026/192005,Telangana,0,Low / Normal,0,0,0,0,False
+WS/MP478/2025-2026/176954,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP478/2025-2026/234630,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP477/2026-2027/279787,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP477/2025-2026/206271,Uttarakhand,4,Low / Normal,0,0,0,25,False
+WS/MP477/2024-2025/180823,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP477/2026-2027/279791,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP18415/2026-2027/269589,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP477/2025-2026/197676,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP18415/2025-2026/206280,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP021/2025-2026/192575,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP18415/2026-2027/269632,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP18415/2026-2027/269591,Uttarakhand,18,Low / Normal,0,30,25,25,False
+WS/MP18415/2026-2027/269585,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP478/2025-2026/154203,Uttarakhand,14,Low / Normal,0,20,20,25,False
+WS/MP477/2024-2025/173114,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP18415/2025-2026/214989,Uttarakhand,18,Low / Normal,0,30,25,25,False
+WS/MP18414/2026-2027/266806,Uttarakhand,4,Low / Normal,0,0,0,25,False
+WS/MP478/2024-2025/154212,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP021/2026-2027/250055,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP18414/2025-2026/221553,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP18415/2025-2026/205428,Uttarakhand,4,Low / Normal,0,0,0,25,False
+WS/MP477/2026-2027/269915,Uttarakhand,34,Moderate,0,85,25,25,False
+WS/MP478/2025-2026/180977,Uttarakhand,10,Low / Normal,0,0,30,25,False
+WS/MP021/2025-2026/192505,Uttarakhand,37,Moderate,0,85,25,45,False
+WS/MP18414/2026-2027/195838,Uttarakhand,8,Low / Normal,0,0,20,25,False
+WS/MP18415/2025-2026/229676,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP477/2026-2027/274297,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP478/2025-2026/243872,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP021/2025-2026/210256,Uttarakhand,6,Low / Normal,0,20,0,0,False
+WS/MP18414/2026-2027/278686,Uttarakhand,18,Low / Normal,0,30,25,25,False
+WS/MP18415/2026-2027/270197,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP477/2025-2026/261062,Uttarakhand,4,Low / Normal,0,0,0,25,False
+WS/MP478/2026-2027/277464,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP021/2025-2026/174664,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP18414/2026-2027/278676,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP18415/2025-2026/215033,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP477/2026-2027/274282,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP478/2025-2026/245527,Uttarakhand,4,Low / Normal,0,0,0,25,False
+WS/MP021/2025-2026/252345,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP18414/2026-2027/247595,Uttarakhand,4,Low / Normal,0,0,0,25,False
+WS/MP18415/2025-2026/205427,Uttarakhand,4,Low / Normal,0,0,0,25,False
+WS/MP477/2026-2027/258914,Uttarakhand,4,Low / Normal,0,0,0,25,False
+WS/MP478/2024-2025/149449,Uttarakhand,6,Low / Normal,0,0,30,0,False
+WS/MP021/2025-2026/188598,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP18414/2025-2026/202455,Uttarakhand,4,Low / Normal,0,0,0,25,False
+WS/MP18415/2026-2027/269577,Uttarakhand,18,Low / Normal,0,30,25,25,False
+WS/MP477/2026-2027/269863,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP478/2025-2026/180991,Uttarakhand,10,Low / Normal,0,0,30,25,False
+WS/MP021/2025-2026/178120,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP18414/2026-2027/270311,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP18415/2025-2026/205433,Uttarakhand,4,Low / Normal,0,0,0,25,False
+WS/MP477/2025-2026/258903,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP478/2025-2026/176117,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP021/2025-2026/200592,Uttarakhand,34,Moderate,0,85,25,25,False
+WS/MP18414/2026-2027/279749,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP18415/2026-2027/259383,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP477/2026-2027/274284,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP478/2025-2026/154213,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP021/2025-2026/254822,Uttarakhand,16,Low / Normal,0,55,0,0,False
+WS/MP18414/2026-2027/285342,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP18415/2025-2026/206267,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP477/2026-2027/262173,Uttarakhand,4,Low / Normal,0,0,0,25,False
+WS/MP478/2025-2026/243426,Uttarakhand,4,Low / Normal,0,0,0,25,False
+WS/MP021/2025-2026/264641,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP18415/2026-2027/262472,Uttarakhand,18,Low / Normal,0,30,25,25,False
+WS/MP477/2026-2027/269921,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP478/2025-2026/243401,Uttarakhand,30,Moderate,0,100,0,0,False
+WS/MP021/2025-2026/227788,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP18415/2026-2027/281995,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP477/2026-2027/274292,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP478/2025-2026/154248,Uttarakhand,16,Low / Normal,0,40,0,25,False
+WS/MP021/2025-2026/188606,Uttarakhand,4,Low / Normal,0,0,0,25,False
+WS/MP18415/2025-2026/215041,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP477/2026-2027/279788,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP478/2025-2026/186041,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP021/2025-2026/252339,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP18415/2025-2026/262467,Uttarakhand,18,Low / Normal,0,30,25,25,False
+WS/MP477/2026-2027/268869,Uttarakhand,18,Low / Normal,0,30,25,25,False
+WS/MP478/2025-2026/210693,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP021/2025-2026/177199,Uttarakhand,18,Low / Normal,0,30,25,25,False
+WS/MP18415/2026-2027/277331,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP477/2026-2027/274869,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP478/2025-2026/243425,Uttarakhand,18,Low / Normal,0,30,25,25,False
+WS/MP021/2025-2026/267132,Uttarakhand,16,Low / Normal,0,40,0,25,False
+WS/MP18415/2025-2026/259366,Uttarakhand,18,Low / Normal,0,30,25,25,False
+WS/MP477/2026-2027/274254,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP478/2025-2026/180829,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP021/2025-2026/177230,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP18415/2026-2027/262461,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP477/2026-2027/279794,Uttarakhand,34,Moderate,0,85,25,25,False
+WS/MP478/2025-2026/154239,Uttarakhand,10,Low / Normal,0,20,0,25,False
+WS/MP021/2025-2026/201593,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP18415/2025-2026/199872,Uttarakhand,18,Low / Normal,0,30,25,25,False
+WS/MP477/2026-2027/274299,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP478/2025-2026/198677,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP021/2025-2026/242824,Uttarakhand,4,Low / Normal,0,0,0,25,False
+WS/MP18415/2026-2027/281989,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP477/2026-2027/274289,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP478/2026-2027/277467,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP021/2025-2026/208314,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP18415/2025-2026/199861,Uttarakhand,18,Low / Normal,0,30,25,25,False
+WS/MP477/2026-2027/262171,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP478/2026-2027/244161,Uttarakhand,18,Low / Normal,0,30,25,25,False
+WS/MP021/2025-2026/204383,Uttarakhand,24,Moderate,0,50,25,25,False
+WS/MP18415/2026-2027/277330,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP477/2026-2027/270225,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP478/2025-2026/198713,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP021/2025-2026/262610,Uttarakhand,10,Low / Normal,0,20,0,25,False
+WS/MP18415/2025-2026/242968,Uttarakhand,18,Low / Normal,0,30,25,25,False
+WS/MP477/2026-2027/274285,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP478/2025-2026/154207,Uttarakhand,40,Elevated Risk,0,100,30,25,True
+WS/MP021/2025-2026/197151,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP18415/2026-2027/275601,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP477/2026-2027/279797,Uttarakhand,39,Moderate,0,100,25,25,False
+WS/MP478/2025-2026/196464,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP021/2025-2026/225748,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP477/2026-2027/274865,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP478/2026-2027/270566,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP021/2025-2026/242800,Uttarakhand,4,Low / Normal,0,0,0,25,False
+WS/MP477/2026-2027/279790,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP478/2025-2026/156127,Uttarakhand,18,Low / Normal,0,30,25,25,False
+WS/MP021/2025-2026/192308,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP477/2025-2026/258919,Uttarakhand,34,Moderate,0,85,25,25,False
+WS/MP478/2025-2026/243399,Uttarakhand,39,Moderate,25,100,0,0,False
+WS/MP021/2025-2026/175495,Uttarakhand,34,Moderate,0,85,25,25,False
+WS/MP477/2026-2027/266865,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP478/2025-2026/154176,Uttarakhand,20,Moderate,0,40,20,25,False
+WS/MP021/2025-2026/209054,Uttarakhand,20,Moderate,0,55,0,25,False
+WS/MP477/2026-2027/269917,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP478/2025-2026/198709,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP021/2025-2026/177229,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP477/2025-2026/266864,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP478/2026-2027/270376,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP021/2025-2026/178129,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP477/2026-2027/274298,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP478/2025-2026/270939,Uttarakhand,18,Low / Normal,0,30,25,25,False
+WS/MP021/2025-2026/231985,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP477/2026-2027/279796,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP478/2025-2026/192764,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP021/2025-2026/227790,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP477/2025-2026/252849,Uttarakhand,34,Moderate,0,85,25,25,False
+WS/MP478/2025-2026/180985,Uttarakhand,10,Low / Normal,0,0,30,25,False
+WS/MP021/2025-2026/174633,Uttarakhand,10,Low / Normal,0,20,0,25,False
+WS/MP477/2026-2027/277253,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP478/2024-2025/154246,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP021/2025-2026/184014,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP477/2026-2027/274274,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP478/2025-2026/243972,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP021/2025-2026/252348,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP477/2026-2027/290928,Uttarakhand,4,Low / Normal,0,0,0,25,False
+WS/MP478/2025-2026/270941,Uttarakhand,4,Low / Normal,0,0,0,25,False
+WS/MP021/2025-2026/201578,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP477/2026-2027/274674,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP478/2025-2026/180821,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP021/2025-2026/242799,Uttarakhand,4,Low / Normal,0,0,0,25,False
+WS/MP477/2026-2027/274290,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP478/2026-2027/277508,Uttarakhand,4,Low / Normal,0,0,0,25,False
+WS/MP021/2025-2026/176246,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP477/2026-2027/276799,Uttarakhand,39,Moderate,0,100,25,25,False
+WS/MP478/2025-2026/243862,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP021/2025-2026/227810,Uttarakhand,30,Moderate,0,70,25,25,False
+WS/MP477/2026-2027/274867,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP478/2026-2027/277465,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP021/2026-2027/262520,Uttarakhand,10,Low / Normal,0,20,0,25,False
+WS/MP477/2026-2027/279786,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP478/2025-2026/270940,Uttarakhand,18,Low / Normal,0,30,25,25,False
+WS/MP021/2025-2026/209056,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP477/2026-2027/274252,Uttarakhand,30,Moderate,0,70,25,25,False
+WS/MP478/2025-2026/180818,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP021/2025-2026/204373,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP477/2026-2027/278205,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP478/2025-2026/210228,Uttarakhand,4,Low / Normal,0,0,0,25,False
+WS/MP021/2026-2027/262617,Uttarakhand,4,Low / Normal,0,0,0,25,False
+WS/MP477/2026-2027/279792,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP478/2025-2026/154215,Uttarakhand,6,Low / Normal,0,20,0,0,False
+WS/MP021/2025-2026/192306,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP477/2026-2027/274288,Uttarakhand,34,Moderate,0,85,25,25,False
+WS/MP478/2026-2027/270430,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP021/2025-2026/204392,Uttarakhand,18,Low / Normal,0,30,25,25,False
+WS/MP477/2025-2026/268810,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP478/2026-2027/192775,Uttarakhand,4,Low / Normal,0,0,20,0,False
+WS/MP021/2025-2026/252341,Uttarakhand,4,Low / Normal,0,0,0,25,False
+WS/MP477/2026-2027/279789,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP478/2025-2026/176081,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP021/2025-2026/263050,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP477/2026-2027/290927,Uttarakhand,4,Low / Normal,0,0,0,25,False
+WS/MP478/2026-2027/277486,Uttarakhand,4,Low / Normal,0,0,0,25,False
+WS/MP021/2025-2026/204372,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP477/2026-2027/274679,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP478/2024-2025/154259,Uttarakhand,17,Low / Normal,0,40,25,0,False
+WS/MP021/2025-2026/208920,Uttarakhand,4,Low / Normal,0,0,0,25,False
+WS/MP477/2026-2027/279784,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP478/2025-2026/176676,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP021/2025-2026/203874,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP477/2026-2027/274283,Uttarakhand,16,Low / Normal,0,40,0,25,False
+WS/MP478/2025-2026/243380,Uttarakhand,18,Low / Normal,0,30,25,25,False
+WS/MP021/2025-2026/254814,Uttarakhand,18,Low / Normal,0,30,25,25,False
+WS/MP477/2025-2026/268809,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP478/2025-2026/180834,Uttarakhand,0,Low / Normal,0,0,0,0,False
+WS/MP021/2025-2026/177240,Uttarakhand,20,Moderate,0,55,0,25,False

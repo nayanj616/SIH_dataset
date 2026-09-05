@@ -26,10 +26,16 @@ SIH_dataset/
 ├── Telengana.xlsx                 # Raw state workbook
 ├── Uttarakhand.xlsx               # Raw state workbook
 ├── prepare_mplads_data.py         # Pipeline CLI script
+├── sentinel_scorer.py             # Sentinel Risk Score v1 engine
 ├── requirements.txt               # Python package dependencies
 ├── sentinel_data_analysis_report.md # Multi-state technical data analysis & anomaly report
+├── SENTINEL_RISK_SCORE_V1.md      # Sentinel Risk Score v1 analytical specification
 ├── .gitignore                     # Git ignore rules
 ├── README.md                      # Repository documentation
+├── scored/                        # Sentinel Risk Score v1 output artifacts
+│   ├── work_risk_scores.csv       # Scored works (0-100 score + 4 dimensions)
+│   ├── risk_signals.csv           # Detailed triggered anomaly signals
+│   └── risk_evidence.json         # Rich evidence payload with raw transaction vouchers
 └── processed/                     # Standardized output datasets
     ├── andhra_pradesh/
     ├── madhya_pradesh/
