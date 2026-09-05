@@ -132,3 +132,4 @@ Get-ChildItem -Filter *.xlsx | ForEach-Object {
 - **Non-destructive**: Source records are never dropped or modified in-place; duplicates and anomalies are flagged rather than deleted.
 - **Deterministic**: Deterministic ID schemes and fixed reference dates guarantee reproducibility across runs.
 - **Auditability**: Every conversion error, unparseable field, and orphan transaction is documented in `data_quality_report.csv`.
+
