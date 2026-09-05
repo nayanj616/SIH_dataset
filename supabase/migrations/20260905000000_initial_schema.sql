@@ -1,4 +1,4 @@
-﻿-- =============================================================================
+-- =============================================================================
 -- Sentinel MPLADS Monitoring — Initial Schema
 -- Migration: 20260905000000_initial_schema.sql
 --
@@ -344,31 +344,63 @@ FROM
 -- VIEW: state_risk_summary
 -- =============================================================================
 CREATE OR REPLACE VIEW state_risk_summary AS
+WITH work_agg AS (
+    SELECT
+        w.state,
+        COUNT(w.work_id)                                                        AS total_works,
+        ROUND(AVG(rs.risk_score), 2)                                            AS avg_risk_score,
+        COUNT(*) FILTER (WHERE rs.risk_level = 'High Risk')                     AS high_risk_works,
+        COUNT(*) FILTER (WHERE rs.risk_level = 'Elevated Risk')                 AS elevated_risk_works,
+        COUNT(*) FILTER (WHERE rs.risk_level = 'Moderate')                      AS moderate_risk_works,
+        COUNT(*) FILTER (WHERE rs.risk_level = 'Low / Normal')                  AS low_risk_works,
+        COUNT(*) FILTER (WHERE rs.requires_human_review = TRUE)                 AS human_review_required,
+        SUM(w.sanction_amount)                                                   AS total_sanction_amount,
+        SUM(w.amount_disbursed)                                                  AS total_disbursed,
+        SUM(wf.total_expenditure)                                                AS total_expenditure,
+        COUNT(*) FILTER (WHERE wf.expenditure_exceeds_sanction = TRUE)          AS works_with_overrun,
+        COUNT(*) FILTER (WHERE wf.has_potential_duplicate_transaction = TRUE)   AS works_with_duplicates
+    FROM
+        works w
+        LEFT JOIN work_features wf ON w.work_id = wf.work_id
+        LEFT JOIN risk_scores   rs ON w.work_id = rs.work_id
+    GROUP BY
+        w.state
+),
+tx_agg AS (
+    SELECT
+        state,
+        COUNT(*)                                                                AS total_transactions,
+        SUM(potential_duplicate_amount)                                         AS total_potential_duplicate_amount,
+        COUNT(*) FILTER (WHERE expenditure_without_matching_work = TRUE)        AS orphan_transaction_count,
+        COALESCE(SUM(fund_disbursed_amount) FILTER (WHERE expenditure_without_matching_work = TRUE), 0) AS orphan_transaction_amount
+    FROM
+        expenditure_transactions
+    GROUP BY
+        state
+)
 SELECT
     w.state,
-    COUNT(DISTINCT w.work_id)                                               AS total_works,
-    COUNT(DISTINCT et.expenditure_id)                                       AS total_transactions,
-    ROUND(AVG(rs.risk_score), 2)                                           AS avg_risk_score,
-    COUNT(*) FILTER (WHERE rs.risk_level = 'High Risk')                    AS high_risk_works,
-    COUNT(*) FILTER (WHERE rs.risk_level = 'Elevated Risk')                AS elevated_risk_works,
-    COUNT(*) FILTER (WHERE rs.risk_level = 'Moderate')                     AS moderate_risk_works,
-    COUNT(*) FILTER (WHERE rs.risk_level = 'Low / Normal')                 AS low_risk_works,
-    COUNT(*) FILTER (WHERE rs.requires_human_review = TRUE)                AS human_review_required,
-    SUM(w.sanction_amount)                                                  AS total_sanction_amount,
-    SUM(w.amount_disbursed)                                                 AS total_disbursed,
-    SUM(wf.total_expenditure)                                               AS total_expenditure,
-    SUM(wf.potential_duplicate_amount_total)                                AS total_potential_duplicate_amount,
-    COUNT(*) FILTER (WHERE wf.expenditure_exceeds_sanction = TRUE)         AS works_with_overrun,
-    COUNT(*) FILTER (WHERE wf.has_potential_duplicate_transaction = TRUE)  AS works_with_duplicates
+    w.total_works,
+    COALESCE(t.total_transactions, 0)                                           AS total_transactions,
+    w.avg_risk_score,
+    w.high_risk_works,
+    w.elevated_risk_works,
+    w.moderate_risk_works,
+    w.low_risk_works,
+    w.human_review_required,
+    w.total_sanction_amount,
+    w.total_disbursed,
+    w.total_expenditure,
+    COALESCE(t.total_potential_duplicate_amount, 0)                             AS total_potential_duplicate_amount,
+    w.works_with_overrun,
+    w.works_with_duplicates,
+    COALESCE(t.orphan_transaction_count, 0)                                     AS orphan_transaction_count,
+    COALESCE(t.orphan_transaction_amount, 0)                                    AS orphan_transaction_amount
 FROM
-    works w
-    LEFT JOIN work_features wf ON w.work_id = wf.work_id
-    LEFT JOIN risk_scores   rs ON w.work_id = rs.work_id
-    LEFT JOIN expenditure_transactions et ON w.work_id = et.work_id
-GROUP BY
-    w.state
+    work_agg w
+    LEFT JOIN tx_agg t ON w.state = t.state
 ORDER BY
-    avg_risk_score DESC NULLS LAST;
+    w.avg_risk_score DESC NULLS LAST;
 
 
 -- =============================================================================
