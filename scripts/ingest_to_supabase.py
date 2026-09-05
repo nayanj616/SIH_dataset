@@ -1,4 +1,4 @@
-﻿# -*- coding: utf-8 -*-
+# -*- coding: utf-8 -*-
 """
 Sentinel MPLADS Monitoring -- Supabase Ingestion Script
 ======================================================
@@ -161,8 +161,11 @@ def prepare_data(base_dir):
     raw_txs = []
     raw_features = []
 
+    processed_dir = os.path.join(base_dir, 'data', 'processed') if os.path.isdir(os.path.join(base_dir, 'data', 'processed')) else os.path.join(base_dir, 'processed')
+    scored_dir = os.path.join(base_dir, 'data', 'scored') if os.path.isdir(os.path.join(base_dir, 'data', 'scored')) else os.path.join(base_dir, 'scored')
+
     for state in STATES:
-        state_dir = os.path.join(base_dir, 'processed', state)
+        state_dir = os.path.join(processed_dir, state)
 
         # 1. works.csv
         works_path = os.path.join(state_dir, 'works.csv')
@@ -240,8 +243,8 @@ def prepare_data(base_dir):
                 })
 
     # 4. work_risk_scores.csv
-    print("[2/7] Reading scored/work_risk_scores.csv...")
-    scores_path = os.path.join(base_dir, 'scored', 'work_risk_scores.csv')
+    print("[2/7] Reading work_risk_scores.csv...")
+    scores_path = os.path.join(scored_dir, 'work_risk_scores.csv')
     raw_scores = []
     with open(scores_path, 'r', encoding='utf-8') as f:
         for row in csv.DictReader(f):
@@ -258,8 +261,8 @@ def prepare_data(base_dir):
             })
 
     # 5. risk_signals.csv
-    print("[3/7] Reading scored/risk_signals.csv...")
-    signals_path = os.path.join(base_dir, 'scored', 'risk_signals.csv')
+    print("[3/7] Reading risk_signals.csv...")
+    signals_path = os.path.join(scored_dir, 'risk_signals.csv')
     raw_signals = []
     with open(signals_path, 'r', encoding='utf-8') as f:
         for row in csv.DictReader(f):
@@ -281,8 +284,8 @@ def prepare_data(base_dir):
             })
 
     # 6. risk_evidence.json
-    print("[4/7] Reading scored/risk_evidence.json...")
-    evidence_path = os.path.join(base_dir, 'scored', 'risk_evidence.json')
+    print("[4/7] Reading risk_evidence.json...")
+    evidence_path = os.path.join(scored_dir, 'risk_evidence.json')
     raw_evidence = []
     run_metadata = {}
     with open(evidence_path, 'r', encoding='utf-8') as f:

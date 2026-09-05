@@ -9,15 +9,15 @@ This guide details the setup, migration, and ingestion process for the **Sentine
 Sentinel uses Supabase PostgreSQL as its central data warehouse and evidence store.
 
 ```
-RAW EXCEL
+RAW EXCEL (data/raw/)
     ↓
-STANDARDIZED DATA (prepare_mplads_data.py)
+STANDARDIZED DATA (scripts/prepare_mplads_data.py → data/processed/)
     ↓
-DERIVED FEATURES (work_features.csv)
+DERIVED FEATURES (data/processed/<state>/work_features.csv)
     ↓
-DETERMINISTIC RISK SCORING (sentinel_scorer.py)
+DETERMINISTIC RISK SCORING (scripts/sentinel_scorer.py)
     ↓
-RISK EVIDENCE (work_risk_scores.csv, risk_signals.csv, risk_evidence.json)
+RISK EVIDENCE (data/scored/)
     ↓
 SUPABASE POSTGRESQL (scripts/ingest_to_supabase.py)
     ↓
@@ -53,7 +53,7 @@ SUPABASE POSTGRESQL (scripts/ingest_to_supabase.py)
 1. Open your Supabase project dashboard: [https://supabase.com/dashboard](https://supabase.com/dashboard).
 2. Navigate to the **SQL Editor** tab on the left navigation bar.
 3. Click **New Query**.
-4. Open [supabase/migrations/20260905000000_initial_schema.sql](supabase/migrations/20260905000000_initial_schema.sql), copy its full contents, paste it into the SQL Editor, and click **Run**.
+4. Open [supabase/migrations/20260905000000_initial_schema.sql](../supabase/migrations/20260905000000_initial_schema.sql), copy its full contents, paste it into the SQL Editor, and click **Run**.
 5. Verify that all 7 tables and 2 views were created successfully:
    - `dataset_runs`
    - `works`

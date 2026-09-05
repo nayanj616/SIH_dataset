@@ -20,39 +20,42 @@ This pipeline standardizes heterogeneous state workbooks without mutating raw so
 
 ```text
 SIH_dataset/
-├── Andhra Pradesh.xlsx            # Raw state workbook
-├── Madhya Pradesh.xlsx            # Raw state workbook
-├── Punjab.xlsx                    # Raw state workbook
-├── Telengana.xlsx                 # Raw state workbook
-├── Uttarakhand.xlsx               # Raw state workbook
-├── prepare_mplads_data.py         # Pipeline CLI script
-├── sentinel_scorer.py             # Sentinel Risk Score v1 engine
-├── requirements.txt               # Python package dependencies
-├── sentinel_data_analysis_report.md # Multi-state technical data analysis & anomaly report
-├── SENTINEL_RISK_SCORE_V1.md      # Sentinel Risk Score v1 analytical specification
-├── SUPABASE_SETUP.md              # Supabase PostgreSQL schema, migration, and setup guide
 ├── .env.example                   # Environment variable template for Supabase credentials
 ├── .gitignore                     # Git ignore rules
 ├── README.md                      # Repository documentation
-├── supabase/                      # Database migrations
-│   └── migrations/
-│       └── 20260905000000_initial_schema.sql # Initial PostgreSQL schema & RLS policies
-├── scripts/                       # Database and data utilities
+├── requirements.txt               # Python package dependencies
+├── data/                          # Data store
+│   ├── raw/                       # Original raw Excel workbooks
+│   │   ├── Andhra Pradesh.xlsx
+│   │   ├── Madhya Pradesh.xlsx
+│   │   ├── Punjab.xlsx
+│   │   ├── Telengana.xlsx
+│   │   └── Uttarakhand.xlsx
+│   ├── processed/                 # Standardized output datasets (5 states)
+│   │   ├── andhra_pradesh/
+│   │   ├── madhya_pradesh/
+│   │   ├── punjab/
+│   │   ├── telangana/
+│   │   └── uttarakhand/
+│   │       ├── works.csv                    # Cleaned works master
+│   │       ├── expenditure_transactions.csv # Standardized transactions + duplicate flags
+│   │       ├── work_features.csv            # Engineered risk & tracking features
+│   │       └── data_quality_report.csv      # Validation and audit log
+│   └── scored/                    # Sentinel Risk Score v1 output artifacts
+│       ├── work_risk_scores.csv   # Scored works (0-100 score + 4 dimensions)
+│       ├── risk_signals.csv       # Detailed triggered anomaly signals
+│       └── risk_evidence.json     # Rich evidence payload with raw transaction vouchers
+├── docs/                          # Project documentation & analytical specifications
+│   ├── sentinel_data_analysis_report.md # Multi-state technical data analysis & anomaly report
+│   ├── SENTINEL_RISK_SCORE_V1.md  # Sentinel Risk Score v1 analytical specification
+│   └── SUPABASE_SETUP.md          # Supabase PostgreSQL schema, migration, and setup guide
+├── scripts/                       # Processing, scoring, and database ingestion scripts
+│   ├── prepare_mplads_data.py     # Pipeline CLI script for data standardization
+│   ├── sentinel_scorer.py         # Deterministic Risk Score v1 scoring engine
 │   └── ingest_to_supabase.py      # Idempotent batch ingestion script with 15-point validation
-├── scored/                        # Sentinel Risk Score v1 output artifacts
-│   ├── work_risk_scores.csv       # Scored works (0-100 score + 4 dimensions)
-│   ├── risk_signals.csv           # Detailed triggered anomaly signals
-│   └── risk_evidence.json         # Rich evidence payload with raw transaction vouchers
-└── processed/                     # Standardized output datasets
-    ├── andhra_pradesh/
-    ├── madhya_pradesh/
-    ├── punjab/
-    ├── telangana/
-    └── uttarakhand/
-        ├── works.csv                    # Cleaned works master
-        ├── expenditure_transactions.csv # Standardized transactions + duplicate flags
-        ├── work_features.csv            # Engineered risk & tracking features
-        └── data_quality_report.csv      # Validation and audit log
+└── supabase/                      # Database migrations
+    └── migrations/
+        └── 20260905000000_initial_schema.sql # Initial PostgreSQL schema & RLS policies
 ```
 
 ---
@@ -120,24 +123,29 @@ cd SIH_dataset
 pip install -r requirements.txt
 ```
 
-### 2. Running the Pipeline
+### 2. Running the Data Pipeline & Scorer
 
-To process a single state workbook:
+To standardize a single raw state workbook:
 ```bash
-python prepare_mplads_data.py --input "Uttarakhand.xlsx" --output "processed/uttarakhand"
+python scripts/prepare_mplads_data.py --input "data/raw/Uttarakhand.xlsx" --output "data/processed/uttarakhand"
 ```
 
 You can specify a custom reference date for recency calculations (defaults to `2026-09-05`):
 ```bash
-python prepare_mplads_data.py --input "Punjab.xlsx" --output "processed/punjab" --reference-date 2026-09-05
+python scripts/prepare_mplads_data.py --input "data/raw/Punjab.xlsx" --output "data/processed/punjab" --reference-date 2026-09-05
 ```
 
-To reprocess all states in PowerShell:
+To reprocess all raw state workbooks in PowerShell:
 ```powershell
-Get-ChildItem -Filter *.xlsx | ForEach-Object {
+Get-ChildItem -Path "data/raw" -Filter *.xlsx | ForEach-Object {
     $slug = $_.BaseName.ToLower().Replace(" ", "_")
-    python prepare_mplads_data.py --input $_.Name --output "processed/$slug"
+    python scripts/prepare_mplads_data.py --input $_.FullName --output "data/processed/$slug"
 }
+```
+
+To calculate deterministic Sentinel Risk Score v1 across all processed states:
+```bash
+python scripts/sentinel_scorer.py
 ```
 
 ### 3. Supabase Database Ingestion
@@ -154,7 +162,7 @@ To migrate and load the datasets and risk scores into Supabase PostgreSQL:
    ```bash
    python scripts/ingest_to_supabase.py
    ```
-See [SUPABASE_SETUP.md](SUPABASE_SETUP.md) for full architecture and verification details.
+See [docs/SUPABASE_SETUP.md](docs/SUPABASE_SETUP.md) for full architecture and verification details.
 
 ---
 

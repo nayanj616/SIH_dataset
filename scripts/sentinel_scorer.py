@@ -22,9 +22,9 @@ from pathlib import Path
 from typing import Any
 
 # Directory paths
-BASE_DIR = Path(__file__).resolve().parent
-DATA_DIR = BASE_DIR / "processed"
-OUTPUT_DIR = BASE_DIR / "scored"
+BASE_DIR = Path(__file__).resolve().parent.parent
+DATA_DIR = BASE_DIR / "data" / "processed" if (BASE_DIR / "data" / "processed").exists() else BASE_DIR / "processed"
+OUTPUT_DIR = BASE_DIR / "data" / "scored" if (BASE_DIR / "data" / "scored").exists() else BASE_DIR / "scored"
 
 STATES = ["andhra_pradesh", "madhya_pradesh", "punjab", "telangana", "uttarakhand"]
 

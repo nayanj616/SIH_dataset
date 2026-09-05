@@ -323,9 +323,9 @@ The backend generates structured evidence payloads containing the exact transact
 ## 10. Implementation Plan: `sentinel_scorer.py`
 
 ### Module Specification
-- **Script**: `sentinel_scorer.py` (Pure Python standard library; zero external dependencies required).
-- **Inputs**: Reads `processed/<state>/` CSVs for all 5 states.
-- **Outputs**: Generates `scored/` directory:
-  1. `scored/work_risk_scores.csv`
-  2. `scored/risk_signals.csv`
-  3. `scored/risk_evidence.json`
+- **Script**: `scripts/sentinel_scorer.py` (Pure Python standard library; zero external dependencies required).
+- **Inputs**: Reads `data/processed/<state>/` CSVs for all 5 states.
+- **Outputs**: Generates `data/scored/` directory:
+  1. `data/scored/work_risk_scores.csv`
+  2. `data/scored/risk_signals.csv`
+  3. `data/scored/risk_evidence.json`

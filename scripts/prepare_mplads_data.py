@@ -1,7 +1,7 @@
 """Prepare a standardized MPLADS workbook without changing its source data.
 
 Usage:
-  python prepare_mplads_data.py --input Uttarakhand.xlsx --output processed/uttarakhand
+  python scripts/prepare_mplads_data.py --input "data/raw/Uttarakhand.xlsx" --output "data/processed/uttarakhand"
 
 The source-column maps below are the only workbook-specific portion.  Add a
 compatible state's map (if its headers differ) without changing cleaning,

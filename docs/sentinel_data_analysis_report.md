@@ -2,7 +2,7 @@
 
 **Project**: Sentinel (AI-Powered MPLADS Monitoring & Anomaly Detection)  
 **Dataset Scope**: Andhra Pradesh, Madhya Pradesh, Punjab, Telangana, Uttarakhand  
-**Data Pipeline Status**: Stable ingestion pipeline (`prepare_mplads_data.py`), standardized relational tables (`works.csv`, `expenditure_transactions.csv`, `work_features.csv`, `data_quality_report.csv`)  
+**Data Pipeline Status**: Stable ingestion pipeline (`scripts/prepare_mplads_data.py`), standardized relational tables (`works.csv`, `expenditure_transactions.csv`, `work_features.csv`, `data_quality_report.csv`)  
 **Analysis Execution Date**: 2026-09-05  
 
 ---
