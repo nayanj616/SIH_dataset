@@ -50,149 +50,149 @@ invalid_non_numeric_monetary_value_count,works,amount_disbursed,,,0.0,
 invalid_non_numeric_monetary_value_count,expenditure,fund_disbursed_amount,,,0.0,
 work_id_is_unique,works,work_id,,,1.0,1 means unique; 0 means duplicate IDs are present
 duplicate_work_id_count,works,work_id,,,0.0,
-unmatched_expenditure_work_id,expenditure,work_id,3.0,EXP-000002,1.0,work_id=WS/MP381/2024-2025/153036 is not present in works.
-unmatched_expenditure_work_id,expenditure,work_id,4.0,EXP-000003,1.0,work_id=WS/MP381/2024-2025/164560 is not present in works.
-unmatched_expenditure_work_id,expenditure,work_id,5.0,EXP-000004,1.0,work_id=WS/MP381/2024-2025/164560 is not present in works.
-unmatched_expenditure_work_id,expenditure,work_id,6.0,EXP-000005,1.0,work_id=WS/MP381/2025-2026/184099 is not present in works.
-unmatched_expenditure_work_id,expenditure,work_id,7.0,EXP-000006,1.0,work_id=WS/MP381/2025-2026/203253 is not present in works.
-unmatched_expenditure_work_id,expenditure,work_id,8.0,EXP-000007,1.0,work_id=WS/MP381/2025-2026/203253 is not present in works.
-unmatched_expenditure_work_id,expenditure,work_id,9.0,EXP-000008,1.0,work_id=WS/MP381/2025-2026/203253 is not present in works.
-unmatched_expenditure_work_id,expenditure,work_id,10.0,EXP-000009,1.0,work_id=WS/MP381/2025-2026/203253 is not present in works.
-unmatched_expenditure_work_id,expenditure,work_id,11.0,EXP-000010,1.0,work_id=WS/MP381/2025-2026/203253 is not present in works.
-unmatched_expenditure_work_id,expenditure,work_id,12.0,EXP-000011,1.0,work_id=WS/MP381/2025-2026/203253 is not present in works.
-unmatched_expenditure_work_id,expenditure,work_id,13.0,EXP-000012,1.0,work_id=WS/MP381/2025-2026/203253 is not present in works.
-unmatched_expenditure_work_id,expenditure,work_id,14.0,EXP-000013,1.0,work_id=WS/MP381/2025-2026/203216 is not present in works.
-unmatched_expenditure_work_id,expenditure,work_id,15.0,EXP-000014,1.0,work_id=WS/MP381/2025-2026/203216 is not present in works.
-unmatched_expenditure_work_id,expenditure,work_id,16.0,EXP-000015,1.0,work_id=WS/MP381/2025-2026/227441 is not present in works.
-unmatched_expenditure_work_id,expenditure,work_id,17.0,EXP-000016,1.0,work_id=WS/MP381/2025-2026/262032 is not present in works.
-unmatched_expenditure_work_id,expenditure,work_id,18.0,EXP-000017,1.0,work_id=WS/MP381/2025-2026/254856 is not present in works.
-unmatched_expenditure_work_id,expenditure,work_id,19.0,EXP-000018,1.0,work_id=WS/MP381/2025-2026/254856 is not present in works.
-unmatched_expenditure_work_id,expenditure,work_id,20.0,EXP-000019,1.0,work_id=WS/MP381/2025-2026/254101 is not present in works.
-unmatched_expenditure_work_id,expenditure,work_id,21.0,EXP-000020,1.0,work_id=WS/MP381/2025-2026/254101 is not present in works.
-unmatched_expenditure_work_id,expenditure,work_id,22.0,EXP-000021,1.0,work_id=WS/MP381/2025-2026/254101 is not present in works.
-unmatched_expenditure_work_id,expenditure,work_id,23.0,EXP-000022,1.0,work_id=WS/MP381/2025-2026/254101 is not present in works.
-unmatched_expenditure_work_id,expenditure,work_id,24.0,EXP-000023,1.0,work_id=WS/MP381/2025-2026/254101 is not present in works.
-unmatched_expenditure_work_id,expenditure,work_id,25.0,EXP-000024,1.0,work_id=WS/MP381/2026-2027/275558 is not present in works.
-unmatched_expenditure_work_id,expenditure,work_id,26.0,EXP-000025,1.0,work_id=WS/MP381/2026-2027/278069 is not present in works.
-unmatched_expenditure_work_id,expenditure,work_id,27.0,EXP-000026,1.0,work_id=WS/MP18311/2024-2025/142721 is not present in works.
-unmatched_expenditure_work_id,expenditure,work_id,28.0,EXP-000027,1.0,work_id=WS/MP18311/2024-2025/142721 is not present in works.
-unmatched_expenditure_work_id,expenditure,work_id,29.0,EXP-000028,1.0,work_id=WS/MP18311/2024-2025/142721 is not present in works.
-unmatched_expenditure_work_id,expenditure,work_id,30.0,EXP-000029,1.0,work_id=WS/MP18311/2024-2025/142721 is not present in works.
-unmatched_expenditure_work_id,expenditure,work_id,31.0,EXP-000030,1.0,work_id=WS/MP18311/2024-2025/142721 is not present in works.
-unmatched_expenditure_work_id,expenditure,work_id,32.0,EXP-000031,1.0,work_id=WS/MP18311/2024-2025/143228 is not present in works.
-unmatched_expenditure_work_id,expenditure,work_id,33.0,EXP-000032,1.0,work_id=WS/MP18311/2024-2025/149557 is not present in works.
-unmatched_expenditure_work_id,expenditure,work_id,34.0,EXP-000033,1.0,work_id=WS/MP18311/2024-2025/149557 is not present in works.
-unmatched_expenditure_work_id,expenditure,work_id,35.0,EXP-000034,1.0,work_id=WS/MP18311/2024-2025/149557 is not present in works.
-unmatched_expenditure_work_id,expenditure,work_id,36.0,EXP-000035,1.0,work_id=WS/MP18311/2024-2025/149557 is not present in works.
-unmatched_expenditure_work_id,expenditure,work_id,37.0,EXP-000036,1.0,work_id=WS/MP18311/2024-2025/149557 is not present in works.
-unmatched_expenditure_work_id,expenditure,work_id,38.0,EXP-000037,1.0,work_id=WS/MP18311/2024-2025/149557 is not present in works.
-unmatched_expenditure_work_id,expenditure,work_id,39.0,EXP-000038,1.0,work_id=WS/MP18311/2024-2025/149557 is not present in works.
-unmatched_expenditure_work_id,expenditure,work_id,40.0,EXP-000039,1.0,work_id=WS/MP18311/2024-2025/149557 is not present in works.
+unmatched_expenditure_work_id,expenditure,work_id,3.0,PB-EXP-000002,1.0,work_id=WS/MP381/2024-2025/153036 is not present in works.
+unmatched_expenditure_work_id,expenditure,work_id,4.0,PB-EXP-000003,1.0,work_id=WS/MP381/2024-2025/164560 is not present in works.
+unmatched_expenditure_work_id,expenditure,work_id,5.0,PB-EXP-000004,1.0,work_id=WS/MP381/2024-2025/164560 is not present in works.
+unmatched_expenditure_work_id,expenditure,work_id,6.0,PB-EXP-000005,1.0,work_id=WS/MP381/2025-2026/184099 is not present in works.
+unmatched_expenditure_work_id,expenditure,work_id,7.0,PB-EXP-000006,1.0,work_id=WS/MP381/2025-2026/203253 is not present in works.
+unmatched_expenditure_work_id,expenditure,work_id,8.0,PB-EXP-000007,1.0,work_id=WS/MP381/2025-2026/203253 is not present in works.
+unmatched_expenditure_work_id,expenditure,work_id,9.0,PB-EXP-000008,1.0,work_id=WS/MP381/2025-2026/203253 is not present in works.
+unmatched_expenditure_work_id,expenditure,work_id,10.0,PB-EXP-000009,1.0,work_id=WS/MP381/2025-2026/203253 is not present in works.
+unmatched_expenditure_work_id,expenditure,work_id,11.0,PB-EXP-000010,1.0,work_id=WS/MP381/2025-2026/203253 is not present in works.
+unmatched_expenditure_work_id,expenditure,work_id,12.0,PB-EXP-000011,1.0,work_id=WS/MP381/2025-2026/203253 is not present in works.
+unmatched_expenditure_work_id,expenditure,work_id,13.0,PB-EXP-000012,1.0,work_id=WS/MP381/2025-2026/203253 is not present in works.
+unmatched_expenditure_work_id,expenditure,work_id,14.0,PB-EXP-000013,1.0,work_id=WS/MP381/2025-2026/203216 is not present in works.
+unmatched_expenditure_work_id,expenditure,work_id,15.0,PB-EXP-000014,1.0,work_id=WS/MP381/2025-2026/203216 is not present in works.
+unmatched_expenditure_work_id,expenditure,work_id,16.0,PB-EXP-000015,1.0,work_id=WS/MP381/2025-2026/227441 is not present in works.
+unmatched_expenditure_work_id,expenditure,work_id,17.0,PB-EXP-000016,1.0,work_id=WS/MP381/2025-2026/262032 is not present in works.
+unmatched_expenditure_work_id,expenditure,work_id,18.0,PB-EXP-000017,1.0,work_id=WS/MP381/2025-2026/254856 is not present in works.
+unmatched_expenditure_work_id,expenditure,work_id,19.0,PB-EXP-000018,1.0,work_id=WS/MP381/2025-2026/254856 is not present in works.
+unmatched_expenditure_work_id,expenditure,work_id,20.0,PB-EXP-000019,1.0,work_id=WS/MP381/2025-2026/254101 is not present in works.
+unmatched_expenditure_work_id,expenditure,work_id,21.0,PB-EXP-000020,1.0,work_id=WS/MP381/2025-2026/254101 is not present in works.
+unmatched_expenditure_work_id,expenditure,work_id,22.0,PB-EXP-000021,1.0,work_id=WS/MP381/2025-2026/254101 is not present in works.
+unmatched_expenditure_work_id,expenditure,work_id,23.0,PB-EXP-000022,1.0,work_id=WS/MP381/2025-2026/254101 is not present in works.
+unmatched_expenditure_work_id,expenditure,work_id,24.0,PB-EXP-000023,1.0,work_id=WS/MP381/2025-2026/254101 is not present in works.
+unmatched_expenditure_work_id,expenditure,work_id,25.0,PB-EXP-000024,1.0,work_id=WS/MP381/2026-2027/275558 is not present in works.
+unmatched_expenditure_work_id,expenditure,work_id,26.0,PB-EXP-000025,1.0,work_id=WS/MP381/2026-2027/278069 is not present in works.
+unmatched_expenditure_work_id,expenditure,work_id,27.0,PB-EXP-000026,1.0,work_id=WS/MP18311/2024-2025/142721 is not present in works.
+unmatched_expenditure_work_id,expenditure,work_id,28.0,PB-EXP-000027,1.0,work_id=WS/MP18311/2024-2025/142721 is not present in works.
+unmatched_expenditure_work_id,expenditure,work_id,29.0,PB-EXP-000028,1.0,work_id=WS/MP18311/2024-2025/142721 is not present in works.
+unmatched_expenditure_work_id,expenditure,work_id,30.0,PB-EXP-000029,1.0,work_id=WS/MP18311/2024-2025/142721 is not present in works.
+unmatched_expenditure_work_id,expenditure,work_id,31.0,PB-EXP-000030,1.0,work_id=WS/MP18311/2024-2025/142721 is not present in works.
+unmatched_expenditure_work_id,expenditure,work_id,32.0,PB-EXP-000031,1.0,work_id=WS/MP18311/2024-2025/143228 is not present in works.
+unmatched_expenditure_work_id,expenditure,work_id,33.0,PB-EXP-000032,1.0,work_id=WS/MP18311/2024-2025/149557 is not present in works.
+unmatched_expenditure_work_id,expenditure,work_id,34.0,PB-EXP-000033,1.0,work_id=WS/MP18311/2024-2025/149557 is not present in works.
+unmatched_expenditure_work_id,expenditure,work_id,35.0,PB-EXP-000034,1.0,work_id=WS/MP18311/2024-2025/149557 is not present in works.
+unmatched_expenditure_work_id,expenditure,work_id,36.0,PB-EXP-000035,1.0,work_id=WS/MP18311/2024-2025/149557 is not present in works.
+unmatched_expenditure_work_id,expenditure,work_id,37.0,PB-EXP-000036,1.0,work_id=WS/MP18311/2024-2025/149557 is not present in works.
+unmatched_expenditure_work_id,expenditure,work_id,38.0,PB-EXP-000037,1.0,work_id=WS/MP18311/2024-2025/149557 is not present in works.
+unmatched_expenditure_work_id,expenditure,work_id,39.0,PB-EXP-000038,1.0,work_id=WS/MP18311/2024-2025/149557 is not present in works.
+unmatched_expenditure_work_id,expenditure,work_id,40.0,PB-EXP-000039,1.0,work_id=WS/MP18311/2024-2025/149557 is not present in works.
 every_expenditure_work_id_exists_in_works,expenditure,work_id,,,0.0,1 means all matched; 0 means unmatched records are present
 unmatched_expenditure_record_count,expenditure,work_id,,,38.0,
 matched_expenditure_record_count,expenditure,work_id,,,414.0,
 distinct_unmatched_expenditure_work_id_count,expenditure,work_id,,,14.0,
 distinct_matched_expenditure_work_id_count,expenditure,work_id,,,123.0,
-exact_duplicate_transaction_row,expenditure,,7.0,EXP-000006,1.0,"Group DUP-1AA0707E68D867E1; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,8.0,EXP-000007,1.0,"Group DUP-1AA0707E68D867E1; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,10.0,EXP-000009,1.0,"Group DUP-F7E2ABD5677579B8; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,11.0,EXP-000010,1.0,"Group DUP-F7E2ABD5677579B8; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,65.0,EXP-000064,1.0,"Group DUP-F2B7F00BAFF32A94; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,76.0,EXP-000075,1.0,"Group DUP-F2B7F00BAFF32A94; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,81.0,EXP-000080,1.0,"Group DUP-E84310EF68E9EB25; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,82.0,EXP-000081,1.0,"Group DUP-E84310EF68E9EB25; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,83.0,EXP-000082,1.0,"Group DUP-27B0AD5608A7D29E; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,84.0,EXP-000083,1.0,"Group DUP-27B0AD5608A7D29E; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,85.0,EXP-000084,1.0,"Group DUP-27B0AD5608A7D29E; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,103.0,EXP-000102,1.0,"Group DUP-778C03D32B990C89; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,104.0,EXP-000103,1.0,"Group DUP-778C03D32B990C89; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,106.0,EXP-000105,1.0,"Group DUP-149A1C0570CAAE76; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,107.0,EXP-000106,1.0,"Group DUP-05145B1AA36D1B8A; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,108.0,EXP-000107,1.0,"Group DUP-05145B1AA36D1B8A; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,109.0,EXP-000108,1.0,"Group DUP-05145B1AA36D1B8A; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,110.0,EXP-000109,1.0,"Group DUP-149A1C0570CAAE76; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,111.0,EXP-000110,1.0,"Group DUP-05145B1AA36D1B8A; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,112.0,EXP-000111,1.0,"Group DUP-05145B1AA36D1B8A; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,113.0,EXP-000112,1.0,"Group DUP-05145B1AA36D1B8A; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,118.0,EXP-000117,1.0,"Group DUP-149A1C0570CAAE76; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,119.0,EXP-000118,1.0,"Group DUP-05145B1AA36D1B8A; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,120.0,EXP-000119,1.0,"Group DUP-05145B1AA36D1B8A; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,121.0,EXP-000120,1.0,"Group DUP-05145B1AA36D1B8A; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,122.0,EXP-000121,1.0,"Group DUP-05145B1AA36D1B8A; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,135.0,EXP-000134,1.0,"Group DUP-3027E68FDDFBBC48; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,136.0,EXP-000135,1.0,"Group DUP-3027E68FDDFBBC48; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,137.0,EXP-000136,1.0,"Group DUP-3027E68FDDFBBC48; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,138.0,EXP-000137,1.0,"Group DUP-3027E68FDDFBBC48; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,139.0,EXP-000138,1.0,"Group DUP-3027E68FDDFBBC48; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,143.0,EXP-000142,1.0,"Group DUP-FD53E604BEAD02C9; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,144.0,EXP-000143,1.0,"Group DUP-7EFDB8B3D614EBCB; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,145.0,EXP-000144,1.0,"Group DUP-FD53E604BEAD02C9; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,146.0,EXP-000145,1.0,"Group DUP-FD53E604BEAD02C9; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,147.0,EXP-000146,1.0,"Group DUP-7EFDB8B3D614EBCB; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,148.0,EXP-000147,1.0,"Group DUP-FD53E604BEAD02C9; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,149.0,EXP-000148,1.0,"Group DUP-FD53E604BEAD02C9; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,150.0,EXP-000149,1.0,"Group DUP-FD53E604BEAD02C9; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,151.0,EXP-000150,1.0,"Group DUP-FD53E604BEAD02C9; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,154.0,EXP-000153,1.0,"Group DUP-4F224A9DAF39497D; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,155.0,EXP-000154,1.0,"Group DUP-4F224A9DAF39497D; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,156.0,EXP-000155,1.0,"Group DUP-4F224A9DAF39497D; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,157.0,EXP-000156,1.0,"Group DUP-4F224A9DAF39497D; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,159.0,EXP-000158,1.0,"Group DUP-4F224A9DAF39497D; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,161.0,EXP-000160,1.0,"Group DUP-4F224A9DAF39497D; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,163.0,EXP-000162,1.0,"Group DUP-165805E68540A7A0; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,164.0,EXP-000163,1.0,"Group DUP-165805E68540A7A0; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,165.0,EXP-000164,1.0,"Group DUP-165805E68540A7A0; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,166.0,EXP-000165,1.0,"Group DUP-165805E68540A7A0; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,167.0,EXP-000166,1.0,"Group DUP-165805E68540A7A0; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,168.0,EXP-000167,1.0,"Group DUP-165805E68540A7A0; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,169.0,EXP-000168,1.0,"Group DUP-165805E68540A7A0; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,170.0,EXP-000169,1.0,"Group DUP-165805E68540A7A0; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,171.0,EXP-000170,1.0,"Group DUP-165805E68540A7A0; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,172.0,EXP-000171,1.0,"Group DUP-165805E68540A7A0; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,175.0,EXP-000174,1.0,"Group DUP-BE838D72481686AB; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,176.0,EXP-000175,1.0,"Group DUP-BE838D72481686AB; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,178.0,EXP-000177,1.0,"Group DUP-BE838D72481686AB; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,179.0,EXP-000178,1.0,"Group DUP-BE838D72481686AB; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,180.0,EXP-000179,1.0,"Group DUP-BE838D72481686AB; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,181.0,EXP-000180,1.0,"Group DUP-063BDD6862BD7DB5; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,182.0,EXP-000181,1.0,"Group DUP-BE838D72481686AB; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,183.0,EXP-000182,1.0,"Group DUP-BE838D72481686AB; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,184.0,EXP-000183,1.0,"Group DUP-BE838D72481686AB; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,185.0,EXP-000184,1.0,"Group DUP-D1F1AD55B880FDF0; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,186.0,EXP-000185,1.0,"Group DUP-BE838D72481686AB; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,187.0,EXP-000186,1.0,"Group DUP-063BDD6862BD7DB5; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,188.0,EXP-000187,1.0,"Group DUP-BE838D72481686AB; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,189.0,EXP-000188,1.0,"Group DUP-D1F1AD55B880FDF0; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,190.0,EXP-000189,1.0,"Group DUP-BE838D72481686AB; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,203.0,EXP-000202,1.0,"Group DUP-E381DFC6BDA1CC37; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,204.0,EXP-000203,1.0,"Group DUP-E381DFC6BDA1CC37; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,216.0,EXP-000215,1.0,"Group DUP-8CFBA01D587F05F7; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,217.0,EXP-000216,1.0,"Group DUP-8CFBA01D587F05F7; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,230.0,EXP-000229,1.0,"Group DUP-BD8625FDB9EE2646; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,231.0,EXP-000230,1.0,"Group DUP-BD8625FDB9EE2646; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,232.0,EXP-000231,1.0,"Group DUP-BD8625FDB9EE2646; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,292.0,EXP-000291,1.0,"Group DUP-1CD321AB13B74D22; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,293.0,EXP-000292,1.0,"Group DUP-1CD321AB13B74D22; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,301.0,EXP-000300,1.0,"Group DUP-2ECB12F3D45E2DDF; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,302.0,EXP-000301,1.0,"Group DUP-2ECB12F3D45E2DDF; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,309.0,EXP-000308,1.0,"Group DUP-62A76821B7482A4E; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,310.0,EXP-000309,1.0,"Group DUP-62A76821B7482A4E; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,311.0,EXP-000310,1.0,"Group DUP-62A76821B7482A4E; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,312.0,EXP-000311,1.0,"Group DUP-62A76821B7482A4E; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,313.0,EXP-000312,1.0,"Group DUP-62A76821B7482A4E; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,319.0,EXP-000318,1.0,"Group DUP-7D7220889263FA2A; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,320.0,EXP-000319,1.0,"Group DUP-7D7220889263FA2A; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,321.0,EXP-000320,1.0,"Group DUP-D7C11FA892FCC0CE; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,322.0,EXP-000321,1.0,"Group DUP-D7C11FA892FCC0CE; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,396.0,EXP-000395,1.0,"Group DUP-D7A1043A1E774E6F; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,397.0,EXP-000396,1.0,"Group DUP-D7A1043A1E774E6F; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,398.0,EXP-000397,1.0,"Group DUP-D7A1043A1E774E6F; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,427.0,EXP-000426,1.0,"Group DUP-C9750A7FC9D6DA8B; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,428.0,EXP-000427,1.0,"Group DUP-C9750A7FC9D6DA8B; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,429.0,EXP-000428,1.0,"Group DUP-C9750A7FC9D6DA8B; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,430.0,EXP-000429,1.0,"Group DUP-C9750A7FC9D6DA8B; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,437.0,EXP-000436,1.0,"Group DUP-69F55D9477B46E25; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,438.0,EXP-000437,1.0,"Group DUP-69F55D9477B46E25; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,7.0,PB-EXP-000006,1.0,"Group DUP-1AA0707E68D867E1; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,8.0,PB-EXP-000007,1.0,"Group DUP-1AA0707E68D867E1; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,10.0,PB-EXP-000009,1.0,"Group DUP-F7E2ABD5677579B8; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,11.0,PB-EXP-000010,1.0,"Group DUP-F7E2ABD5677579B8; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,65.0,PB-EXP-000064,1.0,"Group DUP-F2B7F00BAFF32A94; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,76.0,PB-EXP-000075,1.0,"Group DUP-F2B7F00BAFF32A94; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,81.0,PB-EXP-000080,1.0,"Group DUP-E84310EF68E9EB25; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,82.0,PB-EXP-000081,1.0,"Group DUP-E84310EF68E9EB25; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,83.0,PB-EXP-000082,1.0,"Group DUP-27B0AD5608A7D29E; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,84.0,PB-EXP-000083,1.0,"Group DUP-27B0AD5608A7D29E; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,85.0,PB-EXP-000084,1.0,"Group DUP-27B0AD5608A7D29E; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,103.0,PB-EXP-000102,1.0,"Group DUP-778C03D32B990C89; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,104.0,PB-EXP-000103,1.0,"Group DUP-778C03D32B990C89; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,106.0,PB-EXP-000105,1.0,"Group DUP-149A1C0570CAAE76; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,107.0,PB-EXP-000106,1.0,"Group DUP-05145B1AA36D1B8A; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,108.0,PB-EXP-000107,1.0,"Group DUP-05145B1AA36D1B8A; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,109.0,PB-EXP-000108,1.0,"Group DUP-05145B1AA36D1B8A; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,110.0,PB-EXP-000109,1.0,"Group DUP-149A1C0570CAAE76; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,111.0,PB-EXP-000110,1.0,"Group DUP-05145B1AA36D1B8A; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,112.0,PB-EXP-000111,1.0,"Group DUP-05145B1AA36D1B8A; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,113.0,PB-EXP-000112,1.0,"Group DUP-05145B1AA36D1B8A; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,118.0,PB-EXP-000117,1.0,"Group DUP-149A1C0570CAAE76; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,119.0,PB-EXP-000118,1.0,"Group DUP-05145B1AA36D1B8A; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,120.0,PB-EXP-000119,1.0,"Group DUP-05145B1AA36D1B8A; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,121.0,PB-EXP-000120,1.0,"Group DUP-05145B1AA36D1B8A; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,122.0,PB-EXP-000121,1.0,"Group DUP-05145B1AA36D1B8A; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,135.0,PB-EXP-000134,1.0,"Group DUP-3027E68FDDFBBC48; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,136.0,PB-EXP-000135,1.0,"Group DUP-3027E68FDDFBBC48; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,137.0,PB-EXP-000136,1.0,"Group DUP-3027E68FDDFBBC48; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,138.0,PB-EXP-000137,1.0,"Group DUP-3027E68FDDFBBC48; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,139.0,PB-EXP-000138,1.0,"Group DUP-3027E68FDDFBBC48; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,143.0,PB-EXP-000142,1.0,"Group DUP-FD53E604BEAD02C9; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,144.0,PB-EXP-000143,1.0,"Group DUP-7EFDB8B3D614EBCB; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,145.0,PB-EXP-000144,1.0,"Group DUP-FD53E604BEAD02C9; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,146.0,PB-EXP-000145,1.0,"Group DUP-FD53E604BEAD02C9; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,147.0,PB-EXP-000146,1.0,"Group DUP-7EFDB8B3D614EBCB; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,148.0,PB-EXP-000147,1.0,"Group DUP-FD53E604BEAD02C9; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,149.0,PB-EXP-000148,1.0,"Group DUP-FD53E604BEAD02C9; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,150.0,PB-EXP-000149,1.0,"Group DUP-FD53E604BEAD02C9; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,151.0,PB-EXP-000150,1.0,"Group DUP-FD53E604BEAD02C9; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,154.0,PB-EXP-000153,1.0,"Group DUP-4F224A9DAF39497D; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,155.0,PB-EXP-000154,1.0,"Group DUP-4F224A9DAF39497D; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,156.0,PB-EXP-000155,1.0,"Group DUP-4F224A9DAF39497D; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,157.0,PB-EXP-000156,1.0,"Group DUP-4F224A9DAF39497D; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,159.0,PB-EXP-000158,1.0,"Group DUP-4F224A9DAF39497D; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,161.0,PB-EXP-000160,1.0,"Group DUP-4F224A9DAF39497D; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,163.0,PB-EXP-000162,1.0,"Group DUP-165805E68540A7A0; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,164.0,PB-EXP-000163,1.0,"Group DUP-165805E68540A7A0; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,165.0,PB-EXP-000164,1.0,"Group DUP-165805E68540A7A0; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,166.0,PB-EXP-000165,1.0,"Group DUP-165805E68540A7A0; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,167.0,PB-EXP-000166,1.0,"Group DUP-165805E68540A7A0; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,168.0,PB-EXP-000167,1.0,"Group DUP-165805E68540A7A0; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,169.0,PB-EXP-000168,1.0,"Group DUP-165805E68540A7A0; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,170.0,PB-EXP-000169,1.0,"Group DUP-165805E68540A7A0; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,171.0,PB-EXP-000170,1.0,"Group DUP-165805E68540A7A0; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,172.0,PB-EXP-000171,1.0,"Group DUP-165805E68540A7A0; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,175.0,PB-EXP-000174,1.0,"Group DUP-BE838D72481686AB; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,176.0,PB-EXP-000175,1.0,"Group DUP-BE838D72481686AB; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,178.0,PB-EXP-000177,1.0,"Group DUP-BE838D72481686AB; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,179.0,PB-EXP-000178,1.0,"Group DUP-BE838D72481686AB; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,180.0,PB-EXP-000179,1.0,"Group DUP-BE838D72481686AB; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,181.0,PB-EXP-000180,1.0,"Group DUP-063BDD6862BD7DB5; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,182.0,PB-EXP-000181,1.0,"Group DUP-BE838D72481686AB; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,183.0,PB-EXP-000182,1.0,"Group DUP-BE838D72481686AB; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,184.0,PB-EXP-000183,1.0,"Group DUP-BE838D72481686AB; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,185.0,PB-EXP-000184,1.0,"Group DUP-D1F1AD55B880FDF0; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,186.0,PB-EXP-000185,1.0,"Group DUP-BE838D72481686AB; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,187.0,PB-EXP-000186,1.0,"Group DUP-063BDD6862BD7DB5; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,188.0,PB-EXP-000187,1.0,"Group DUP-BE838D72481686AB; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,189.0,PB-EXP-000188,1.0,"Group DUP-D1F1AD55B880FDF0; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,190.0,PB-EXP-000189,1.0,"Group DUP-BE838D72481686AB; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,203.0,PB-EXP-000202,1.0,"Group DUP-E381DFC6BDA1CC37; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,204.0,PB-EXP-000203,1.0,"Group DUP-E381DFC6BDA1CC37; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,216.0,PB-EXP-000215,1.0,"Group DUP-8CFBA01D587F05F7; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,217.0,PB-EXP-000216,1.0,"Group DUP-8CFBA01D587F05F7; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,230.0,PB-EXP-000229,1.0,"Group DUP-BD8625FDB9EE2646; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,231.0,PB-EXP-000230,1.0,"Group DUP-BD8625FDB9EE2646; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,232.0,PB-EXP-000231,1.0,"Group DUP-BD8625FDB9EE2646; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,292.0,PB-EXP-000291,1.0,"Group DUP-1CD321AB13B74D22; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,293.0,PB-EXP-000292,1.0,"Group DUP-1CD321AB13B74D22; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,301.0,PB-EXP-000300,1.0,"Group DUP-2ECB12F3D45E2DDF; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,302.0,PB-EXP-000301,1.0,"Group DUP-2ECB12F3D45E2DDF; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,309.0,PB-EXP-000308,1.0,"Group DUP-62A76821B7482A4E; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,310.0,PB-EXP-000309,1.0,"Group DUP-62A76821B7482A4E; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,311.0,PB-EXP-000310,1.0,"Group DUP-62A76821B7482A4E; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,312.0,PB-EXP-000311,1.0,"Group DUP-62A76821B7482A4E; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,313.0,PB-EXP-000312,1.0,"Group DUP-62A76821B7482A4E; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,319.0,PB-EXP-000318,1.0,"Group DUP-7D7220889263FA2A; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,320.0,PB-EXP-000319,1.0,"Group DUP-7D7220889263FA2A; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,321.0,PB-EXP-000320,1.0,"Group DUP-D7C11FA892FCC0CE; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,322.0,PB-EXP-000321,1.0,"Group DUP-D7C11FA892FCC0CE; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,396.0,PB-EXP-000395,1.0,"Group DUP-D7A1043A1E774E6F; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,397.0,PB-EXP-000396,1.0,"Group DUP-D7A1043A1E774E6F; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,398.0,PB-EXP-000397,1.0,"Group DUP-D7A1043A1E774E6F; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,427.0,PB-EXP-000426,1.0,"Group DUP-C9750A7FC9D6DA8B; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,428.0,PB-EXP-000427,1.0,"Group DUP-C9750A7FC9D6DA8B; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,429.0,PB-EXP-000428,1.0,"Group DUP-C9750A7FC9D6DA8B; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,430.0,PB-EXP-000429,1.0,"Group DUP-C9750A7FC9D6DA8B; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,437.0,PB-EXP-000436,1.0,"Group DUP-69F55D9477B46E25; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,438.0,PB-EXP-000437,1.0,"Group DUP-69F55D9477B46E25; retained, not removed."
 duplicate_comparison_fields,expenditure,,,,8.0,"[""work_id"", ""state"", ""mp_name"", ""constituency"", ""expenditure_date"", ""vendor_name"", ""payment_status"", ""fund_disbursed_amount""]"
 output_expenditure_transaction_count,expenditure,,,,452.0,
 exact_duplicate_transaction_row_count,expenditure,,,,100.0,Rows are retained; this is not a removal count.

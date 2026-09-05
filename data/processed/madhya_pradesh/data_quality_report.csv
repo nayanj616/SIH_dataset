@@ -55,18 +55,18 @@ unmatched_expenditure_record_count,expenditure,work_id,,,0.0,
 matched_expenditure_record_count,expenditure,work_id,,,251.0,
 distinct_unmatched_expenditure_work_id_count,expenditure,work_id,,,0.0,
 distinct_matched_expenditure_work_id_count,expenditure,work_id,,,150.0,
-exact_duplicate_transaction_row,expenditure,,3.0,EXP-000002,1.0,"Group DUP-B6520139F4A44D08; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,4.0,EXP-000003,1.0,"Group DUP-B6520139F4A44D08; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,5.0,EXP-000004,1.0,"Group DUP-29BEF5423D7C8025; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,6.0,EXP-000005,1.0,"Group DUP-29BEF5423D7C8025; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,7.0,EXP-000006,1.0,"Group DUP-80A8186B172B8FFE; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,8.0,EXP-000007,1.0,"Group DUP-80A8186B172B8FFE; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,9.0,EXP-000008,1.0,"Group DUP-794DF38C3A94EC33; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,10.0,EXP-000009,1.0,"Group DUP-794DF38C3A94EC33; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,13.0,EXP-000012,1.0,"Group DUP-2CCB995ED1B8073E; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,14.0,EXP-000013,1.0,"Group DUP-2CCB995ED1B8073E; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,216.0,EXP-000215,1.0,"Group DUP-451B86348C3C0FDE; retained, not removed."
-exact_duplicate_transaction_row,expenditure,,219.0,EXP-000218,1.0,"Group DUP-451B86348C3C0FDE; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,3.0,MP-EXP-000002,1.0,"Group DUP-B6520139F4A44D08; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,4.0,MP-EXP-000003,1.0,"Group DUP-B6520139F4A44D08; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,5.0,MP-EXP-000004,1.0,"Group DUP-29BEF5423D7C8025; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,6.0,MP-EXP-000005,1.0,"Group DUP-29BEF5423D7C8025; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,7.0,MP-EXP-000006,1.0,"Group DUP-80A8186B172B8FFE; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,8.0,MP-EXP-000007,1.0,"Group DUP-80A8186B172B8FFE; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,9.0,MP-EXP-000008,1.0,"Group DUP-794DF38C3A94EC33; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,10.0,MP-EXP-000009,1.0,"Group DUP-794DF38C3A94EC33; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,13.0,MP-EXP-000012,1.0,"Group DUP-2CCB995ED1B8073E; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,14.0,MP-EXP-000013,1.0,"Group DUP-2CCB995ED1B8073E; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,216.0,MP-EXP-000215,1.0,"Group DUP-451B86348C3C0FDE; retained, not removed."
+exact_duplicate_transaction_row,expenditure,,219.0,MP-EXP-000218,1.0,"Group DUP-451B86348C3C0FDE; retained, not removed."
 duplicate_comparison_fields,expenditure,,,,8.0,"[""work_id"", ""state"", ""mp_name"", ""constituency"", ""expenditure_date"", ""vendor_name"", ""payment_status"", ""fund_disbursed_amount""]"
 output_expenditure_transaction_count,expenditure,,,,251.0,
 exact_duplicate_transaction_row_count,expenditure,,,,12.0,Rows are retained; this is not a removal count.

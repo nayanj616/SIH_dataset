@@ -25,6 +25,19 @@ import pandas as pd
 REFERENCE_DATE = "2026-09-05"
 HIGH_TRANSACTION_COUNT_THRESHOLD = 5
 
+# Explicit two-letter prefix per state.  IDs are generated as <PREFIX>-EXP-<N:06d>.
+# Because every state has a unique prefix the full ID is globally unique across all
+# five state datasets even though the numeric counter restarts within each state.
+# The prefix must NEVER be used for duplicate detection — that logic relies
+# exclusively on original transaction attributes (see DUPLICATE_COMPARISON_BASE_FIELDS).
+STATE_ID_PREFIXES: dict[str, str] = {
+    "Andhra Pradesh": "AP",
+    "Madhya Pradesh": "MP",
+    "Punjab":         "PB",
+    "Telangana":      "TG",
+    "Uttarakhand":    "UK",
+}
+
 SHEET_ROLE_TOKENS = {
     "works": "works_master",
     "expenditure": "expenditure_transactions",
@@ -435,7 +448,25 @@ def main() -> None:
             )
             add_summary_finding(findings, "invalid_non_numeric_monetary_value_count", table, field, count)
     # Deterministic IDs make reruns reproducible while retaining every source row.
-    expenditure.insert(0, "expenditure_id", [f"EXP-{index:06d}" for index in range(1, len(expenditure) + 1)])
+    # Each ID includes a two-letter state prefix (from STATE_ID_PREFIXES) so that
+    # combined across all five state datasets every expenditure_id is globally unique
+    # even though the numeric counter restarts at 1 within each state's file.
+    # These generated IDs are database-identity keys ONLY and must NEVER be used
+    # for duplicate detection — see add_duplicate_features() which operates
+    # exclusively on DUPLICATE_COMPARISON_BASE_FIELDS (original transaction attributes).
+    unknown_states = sorted(set(expenditure["state"].dropna().unique()) - set(STATE_ID_PREFIXES))
+    if unknown_states:
+        raise ValueError(
+            f"expenditure_id generation: unexpected state(s) {unknown_states!r}. "
+            f"Add them to STATE_ID_PREFIXES before re-running."
+        )
+    state_counters: dict[str, int] = {}
+    exp_ids: list[str] = []
+    for state_value in expenditure["state"]:
+        prefix = STATE_ID_PREFIXES[state_value]
+        state_counters[prefix] = state_counters.get(prefix, 0) + 1
+        exp_ids.append(f"{prefix}-EXP-{state_counters[prefix]:06d}")
+    expenditure.insert(0, "expenditure_id", exp_ids)
     expenditure, duplicate_comparison_fields = add_duplicate_features(expenditure)
 
     duplicate_works = works[works["work_id"].duplicated(keep=False)]

@@ -1,453 +1,453 @@
 expenditure_id,work_id,state,mp_name,constituency,expenditure_date,vendor_name,payment_status,fund_disbursed_amount,data_notes,is_exact_duplicate,duplicate_group_id,duplicate_group_size,potential_duplicate_amount,expenditure_without_matching_work
-EXP-000001,WS/MP381/2024-2025/153012,Punjab,Shri Gurjeet Singh Aujla,AMRITSAR,2025-01-02,THE CHAWINDA COOPRATIVE LABOUR AND CONSTRUCTION SOCIETY,Payment Success,492600.0,,False,,,0.0,False
-EXP-000002,WS/MP381/2024-2025/153036,Punjab,Shri Gurjeet Singh Aujla,AMRITSAR,2025-03-06,SURINDER TRADERS,Payment Success,143320.0,,False,,,0.0,True
-EXP-000003,WS/MP381/2024-2025/164560,Punjab,Shri Gurjeet Singh Aujla,AMRITSAR,2025-04-24,SARPANCH GRAM PANCHAYAT JAUNS,Payment Success,100585.0,,False,,,0.0,True
-EXP-000004,WS/MP381/2024-2025/164560,Punjab,Shri Gurjeet Singh Aujla,AMRITSAR,2025-04-24,SARPANCH GRAM PANCHAYAT JAUNS,Payment Success,99415.0,,False,,,0.0,True
-EXP-000005,WS/MP381/2025-2026/184099,Punjab,Shri Gurjeet Singh Aujla,AMRITSAR,2025-05-08,Pspcl West Sub Div Chheharta,Payment Success,20602.0,,False,,,0.0,True
-EXP-000006,WS/MP381/2025-2026/203253,Punjab,Shri Gurjeet Singh Aujla,AMRITSAR,2025-09-01,SARPANCH GRAM PANCHAYAT JHANDEY,Payment Success,35000.0,"Exact duplicate transaction record appears 2x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-1AA0707E68D867E1,2,0.0,True
-EXP-000007,WS/MP381/2025-2026/203253,Punjab,Shri Gurjeet Singh Aujla,AMRITSAR,2025-09-01,SARPANCH GRAM PANCHAYAT JHANDEY,Payment Success,35000.0,"Exact duplicate transaction record appears 2x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-1AA0707E68D867E1,2,35000.0,True
-EXP-000008,WS/MP381/2025-2026/203253,Punjab,Shri Gurjeet Singh Aujla,AMRITSAR,2025-09-02,SARPANCH GRAM PANCHAYAT JHANDEY,Payment Success,170000.0,,False,,,0.0,True
-EXP-000009,WS/MP381/2025-2026/203253,Punjab,Shri Gurjeet Singh Aujla,AMRITSAR,2025-09-02,SARPANCH GRAM PANCHAYAT JHANDEY,Payment Success,39000.0,"Exact duplicate transaction record appears 2x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-F7E2ABD5677579B8,2,0.0,True
-EXP-000010,WS/MP381/2025-2026/203253,Punjab,Shri Gurjeet Singh Aujla,AMRITSAR,2025-09-02,SARPANCH GRAM PANCHAYAT JHANDEY,Payment Success,39000.0,"Exact duplicate transaction record appears 2x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-F7E2ABD5677579B8,2,39000.0,True
-EXP-000011,WS/MP381/2025-2026/203253,Punjab,Shri Gurjeet Singh Aujla,AMRITSAR,2025-09-02,SARPANCH GRAM PANCHAYAT JHANDEY,Payment Success,49500.0,,False,,,0.0,True
-EXP-000012,WS/MP381/2025-2026/203253,Punjab,Shri Gurjeet Singh Aujla,AMRITSAR,2025-09-02,SARPANCH GRAM PANCHAYAT JHANDEY,Payment Success,32500.0,,False,,,0.0,True
-EXP-000013,WS/MP381/2025-2026/203216,Punjab,Shri Gurjeet Singh Aujla,AMRITSAR,2025-11-24,THE CHAWINDA COOPRATIVE LABOUR AND CONSTRUCTION SOCIETY,Payment Success,499998.0,,False,,,0.0,True
-EXP-000014,WS/MP381/2025-2026/203216,Punjab,Shri Gurjeet Singh Aujla,AMRITSAR,2026-01-23,THE CHAWINDA COOPRATIVE LABOUR AND CONSTRUCTION SOCIETY,Payment Success,487925.0,,False,,,0.0,True
-EXP-000015,WS/MP381/2025-2026/227441,Punjab,Shri Gurjeet Singh Aujla,AMRITSAR,2026-06-19,N S CONTRACTOR,Payment Success,925835.0,,False,,,0.0,True
-EXP-000016,WS/MP381/2025-2026/262032,Punjab,Shri Gurjeet Singh Aujla,AMRITSAR,2026-04-10,SURINDER TRADERS,Payment Success,391488.0,,False,,,0.0,True
-EXP-000017,WS/MP381/2025-2026/254856,Punjab,Shri Gurjeet Singh Aujla,AMRITSAR,2026-06-15,Sahota Building Material,Payment Success,309750.0,,False,,,0.0,True
-EXP-000018,WS/MP381/2025-2026/254856,Punjab,Shri Gurjeet Singh Aujla,AMRITSAR,2026-06-15,Nangali Enterprises,Payment Success,389980.0,,False,,,0.0,True
-EXP-000019,WS/MP381/2025-2026/254101,Punjab,Shri Gurjeet Singh Aujla,AMRITSAR,2026-07-13,JJ ENTERPRISES,Payment Success,614569.0,,False,,,0.0,True
-EXP-000020,WS/MP381/2025-2026/254101,Punjab,Shri Gurjeet Singh Aujla,AMRITSAR,2026-07-13,JJ ENTERPRISES,Payment Success,303164.0,,False,,,0.0,True
-EXP-000021,WS/MP381/2025-2026/254101,Punjab,Shri Gurjeet Singh Aujla,AMRITSAR,2026-07-13,JJ ENTERPRISES,Payment Success,546360.0,,False,,,0.0,True
-EXP-000022,WS/MP381/2025-2026/254101,Punjab,Shri Gurjeet Singh Aujla,AMRITSAR,2026-07-15,JJ ENTERPRISES,Payment Success,582111.0,,False,,,0.0,True
-EXP-000023,WS/MP381/2025-2026/254101,Punjab,Shri Gurjeet Singh Aujla,AMRITSAR,2026-05-21,JJ ENTERPRISES,Payment Success,439736.0,,False,,,0.0,True
-EXP-000024,WS/MP381/2026-2027/275558,Punjab,Shri Gurjeet Singh Aujla,AMRITSAR,2026-07-29,THE CHAWINDA COOPRATIVE LABOUR AND CONSTRUCTION SOCIETY,Payment Success,489349.0,,False,,,0.0,True
-EXP-000025,WS/MP381/2026-2027/278069,Punjab,Shri Gurjeet Singh Aujla,AMRITSAR,2026-07-30,SHEIKH FARID AGRO TECH,Payment Success,150000.0,,False,,,0.0,True
-EXP-000026,WS/MP18311/2024-2025/142721,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2026-09-03,Jagdish Singh,Payment In-Progress,24128.0,,False,,,0.0,True
-EXP-000027,WS/MP18311/2024-2025/142721,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2025-05-15,Saini Cement and Shuttering Store,Payment Success,20000.0,,False,,,0.0,True
-EXP-000028,WS/MP18311/2024-2025/142721,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2025-05-15,Saini Cement and Shuttering Store,Payment Success,6300.0,,False,,,0.0,True
-EXP-000029,WS/MP18311/2024-2025/142721,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2025-05-15,Saini Cement and Shuttering Store,Payment Success,9450.0,,False,,,0.0,True
-EXP-000030,WS/MP18311/2024-2025/142721,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2025-05-15,Saini Cement and Shuttering Store,Payment Success,41976.0,,False,,,0.0,True
-EXP-000031,WS/MP18311/2024-2025/143228,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2025-06-06,TAKIAR GYM INDUSTRY,Payment Success,118662.0,,False,,,0.0,True
-EXP-000032,WS/MP18311/2024-2025/149557,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2025-02-24,Ms R B Construction Co,Payment Success,93220.0,,False,,,0.0,True
-EXP-000033,WS/MP18311/2024-2025/149557,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2025-02-24,Ms R B Construction Co,Payment Success,92866.0,,False,,,0.0,True
-EXP-000034,WS/MP18311/2024-2025/149557,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2025-02-24,Ms R B Construction Co,Payment Success,84134.0,,False,,,0.0,True
-EXP-000035,WS/MP18311/2024-2025/149557,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2025-02-24,Ms R B Construction Co,Payment Success,33342.0,,False,,,0.0,True
-EXP-000036,WS/MP18311/2024-2025/149557,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2025-02-24,Ms R B Construction Co,Payment Success,18880.0,,False,,,0.0,True
-EXP-000037,WS/MP18311/2024-2025/149557,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2025-02-24,Ms R B Construction Co,Payment Success,37520.0,,False,,,0.0,True
-EXP-000038,WS/MP18311/2024-2025/149557,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2025-02-24,NURAIN MIYAN,Payment Success,76560.0,,False,,,0.0,True
-EXP-000039,WS/MP18311/2024-2025/149557,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2025-02-24,NURAIN MIYAN,Payment Success,63478.0,,False,,,0.0,True
-EXP-000040,WS/MP18311/2024-2025/149556,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2026-04-23,The Nawanshahar janta coop L C Society LTD,Payment Success,152429.0,,False,,,0.0,False
-EXP-000041,WS/MP18311/2024-2025/149556,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2025-12-31,The Nawanshahar janta coop L C Society LTD,Payment Success,847571.0,,False,,,0.0,False
-EXP-000042,WS/MP18311/2024-2025/161353,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2026-05-13,PAWAN ENTERPRISES,Payment Success,156332.0,,False,,,0.0,False
-EXP-000043,WS/MP18311/2024-2025/161353,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2026-05-13,GURU NANAK TRACTOR WORKS,Payment Success,43668.0,,False,,,0.0,False
-EXP-000044,WS/MP18311/2025-2026/194233,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2026-02-05,THE GHAGGAR COP L C SOCIETY LTD ROPAR R,Payment Success,526743.0,,False,,,0.0,False
-EXP-000045,WS/MP18311/2025-2026/194233,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2026-03-27,THE GHAGGAR COP L C SOCIETY LTD ROPAR R,Payment Success,432792.0,,False,,,0.0,False
-EXP-000046,WS/MP18311/2025-2026/219463,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2026-05-13,Punjab Energy Development Agency,Payment Success,293025.0,,False,,,0.0,False
-EXP-000047,WS/MP18311/2025-2026/221460,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2025-12-29,Shiva Builders,Payment Success,67578.0,,False,,,0.0,False
-EXP-000048,WS/MP18311/2025-2026/221460,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2025-12-03,Shiva Builders,Payment Success,314378.0,,False,,,0.0,False
-EXP-000049,WS/MP18311/2025-2026/221460,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2025-09-26,Shiva Builders,Payment Success,263174.0,,False,,,0.0,False
-EXP-000050,WS/MP18311/2025-2026/219477,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2026-06-11,The Kitab Arr Publication,Payment Success,100000.0,,False,,,0.0,False
-EXP-000051,WS/MP18311/2025-2026/231208,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2026-05-11,CRYSTAL GROUP OF CONSTRUCTION,Payment Success,15941.0,,False,,,0.0,False
-EXP-000052,WS/MP18311/2025-2026/231208,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2026-05-11,rohit kumar,Payment Success,35874.0,,False,,,0.0,False
-EXP-000053,WS/MP18311/2025-2026/231208,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2026-02-02,MS NEW LUXMI ELECTRIC CO,Payment Success,54817.0,,False,,,0.0,False
-EXP-000054,WS/MP18311/2025-2026/231208,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2026-02-02,MS NEW LUXMI ELECTRIC CO,Payment Success,51744.0,,False,,,0.0,False
-EXP-000055,WS/MP18311/2025-2026/231208,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2026-02-02,MS NEW LUXMI ELECTRIC CO,Payment Success,56782.0,,False,,,0.0,False
-EXP-000056,WS/MP18311/2025-2026/231208,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2026-02-02,MS NEW LUXMI ELECTRIC CO,Payment Success,84842.0,,False,,,0.0,False
-EXP-000057,WS/MP18311/2025-2026/231210,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2026-06-11,RS Industries,Payment Success,300000.0,,False,,,0.0,False
-EXP-000058,WS/MP18311/2025-2026/234422,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2026-02-26,NIGAH WELDING WORKS RAHON,Payment Success,165420.0,,False,,,0.0,False
-EXP-000059,WS/MP18311/2025-2026/255123,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2026-04-29,MODERN METAL CRAFTS,Payment Success,300000.0,,False,,,0.0,False
-EXP-000060,WS/MP18311/2025-2026/259393,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2026-04-16,SADANAND,Payment Success,42600.0,,False,,,0.0,False
-EXP-000061,WS/MP18311/2025-2026/259393,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2026-04-16,SADANAND,Payment Success,46800.0,,False,,,0.0,False
-EXP-000062,WS/MP18311/2025-2026/259393,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2026-04-16,SADANAND,Payment Success,6600.0,,False,,,0.0,False
-EXP-000063,WS/MP18311/2025-2026/259393,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2026-04-16,SADANAND,Payment Success,20800.0,,False,,,0.0,False
-EXP-000064,WS/MP18311/2025-2026/259393,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2026-04-16,Shahi Brothers,Payment Success,30528.0,"Exact duplicate transaction record appears 2x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-F2B7F00BAFF32A94,2,0.0,False
-EXP-000065,WS/MP18311/2025-2026/259393,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2026-04-16,SINGLA Cement Building Material Store,Payment Success,14000.0,,False,,,0.0,False
-EXP-000066,WS/MP18311/2025-2026/259393,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2026-04-16,SINGLA Cement Building Material Store,Payment Success,15550.0,,False,,,0.0,False
-EXP-000067,WS/MP18311/2025-2026/259393,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2026-04-16,SINGLA Cement Building Material Store,Payment Success,23400.0,,False,,,0.0,False
-EXP-000068,WS/MP18311/2025-2026/259393,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2026-04-16,SINGLA Cement Building Material Store,Payment Success,42480.0,,False,,,0.0,False
-EXP-000069,WS/MP18311/2025-2026/259393,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2026-04-16,Sohal Fabricators and Engg Works,Payment Success,21000.0,,False,,,0.0,False
-EXP-000070,WS/MP18311/2025-2026/259393,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2026-04-16,JK Hardware Cement Store,Payment Success,29430.0,,False,,,0.0,False
-EXP-000071,WS/MP18311/2025-2026/259393,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2026-04-16,JK Hardware Cement Store,Payment Success,41301.0,,False,,,0.0,False
-EXP-000072,WS/MP18311/2025-2026/259393,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2026-04-16,JK Hardware Cement Store,Payment Success,24412.0,,False,,,0.0,False
-EXP-000073,WS/MP18311/2025-2026/259393,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2026-04-16,JK Hardware Cement Store,Payment Success,39154.0,,False,,,0.0,False
-EXP-000074,WS/MP18311/2025-2026/259393,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2026-04-16,JK Hardware Cement Store,Payment Success,12800.0,,False,,,0.0,False
-EXP-000075,WS/MP18311/2025-2026/259393,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2026-04-16,Shahi Brothers,Payment Success,30528.0,"Exact duplicate transaction record appears 2x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-F2B7F00BAFF32A94,2,30528.0,False
-EXP-000076,WS/MP18311/2025-2026/272270,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2026-07-04,KASANA BULIDING MATERIAL SUPPLIERS,Payment Success,49400.0,,False,,,0.0,False
-EXP-000077,WS/MP18311/2025-2026/272270,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2026-07-04,PURI TRADERS,Payment Success,33587.0,,False,,,0.0,False
-EXP-000078,WS/MP18311/2025-2026/272270,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2026-07-04,PURI TRADERS,Payment Success,41949.0,,False,,,0.0,False
-EXP-000079,WS/MP18311/2025-2026/272270,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2026-07-04,PURI TRADERS,Payment Success,47622.0,,False,,,0.0,False
-EXP-000080,WS/MP18311/2025-2026/272270,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2026-07-04,MS rAJESH KUMAR,Payment Success,28500.0,"Exact duplicate transaction record appears 2x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-E84310EF68E9EB25,2,0.0,False
-EXP-000081,WS/MP18311/2025-2026/272270,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2026-07-04,MS rAJESH KUMAR,Payment Success,28500.0,"Exact duplicate transaction record appears 2x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-E84310EF68E9EB25,2,28500.0,False
-EXP-000082,WS/MP18311/2025-2026/272270,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2026-07-04,RAKESH KUMAR PANDHI,Payment Success,45000.0,"Exact duplicate transaction record appears 3x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-27B0AD5608A7D29E,3,0.0,False
-EXP-000083,WS/MP18311/2025-2026/272270,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2026-07-04,RAKESH KUMAR PANDHI,Payment Success,45000.0,"Exact duplicate transaction record appears 3x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-27B0AD5608A7D29E,3,45000.0,False
-EXP-000084,WS/MP18311/2025-2026/272270,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2026-07-04,RAKESH KUMAR PANDHI,Payment Success,45000.0,"Exact duplicate transaction record appears 3x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-27B0AD5608A7D29E,3,45000.0,False
-EXP-000085,WS/MP716/2024-2025/140237,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2025-02-01,Sanjeev Choudhary Contractor,Payment Success,373000.0,,False,,,0.0,False
-EXP-000086,WS/MP716/2024-2025/141305,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2025-04-24,Dhan Guru Nanak Tiles Hub,Payment Success,78000.0,,False,,,0.0,False
-EXP-000087,WS/MP716/2025-2026/203936,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-05-05,Sai Enterprises,Payment Success,50882.0,,False,,,0.0,False
-EXP-000088,WS/MP716/2025-2026/203936,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-05-05,MS Satkar BKO,Payment Success,23600.0,,False,,,0.0,False
-EXP-000089,WS/MP716/2025-2026/203936,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-05-05,Rajnish Hardware Store,Payment Success,22865.0,,False,,,0.0,False
-EXP-000090,WS/MP716/2025-2026/203936,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-05-05,Labh Singh,Payment Success,23812.0,,False,,,0.0,False
-EXP-000091,WS/MP716/2025-2026/203936,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-05-05,Prem Sagar,Payment Success,43174.0,,False,,,0.0,False
-EXP-000092,WS/MP716/2025-2026/203936,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-05-05,Rajvinder Singh,Payment Success,35667.0,,False,,,0.0,False
-EXP-000093,WS/MP716/2025-2026/210122,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-04-15,GD GALAXY INFRA,Payment Success,115388.0,,False,,,0.0,False
-EXP-000094,WS/MP716/2025-2026/210122,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-04-15,Municipal Corporation Bathinda,Payment Success,20362.0,,False,,,0.0,False
-EXP-000095,WS/MP716/2025-2026/210123,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-06-22,MANJOT ENTERPRISES COMPANY,Payment Success,38400.0,,False,,,0.0,False
-EXP-000096,WS/MP716/2025-2026/210356,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-02-02,Shiv Shakti Iron and Cement Store,Payment Success,45941.0,,False,,,0.0,False
-EXP-000097,WS/MP716/2025-2026/210356,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-02-02,Shiv Shakti Iron and Cement Store,Payment Success,49500.0,,False,,,0.0,False
-EXP-000098,WS/MP716/2025-2026/210356,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-02-02,Shiv Shakti Iron and Cement Store,Payment Success,47657.0,,False,,,0.0,False
-EXP-000099,WS/MP716/2025-2026/210356,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-02-02,Shiv Shakti Iron and Cement Store,Payment Success,42240.0,,False,,,0.0,False
-EXP-000100,WS/MP716/2025-2026/210356,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-02-02,Shiv Shakti Iron and Cement Store,Payment Success,18240.0,,False,,,0.0,False
-EXP-000101,WS/MP716/2025-2026/210356,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-02-02,Guru Nanak Bricks Industries,Payment Success,8922.0,,False,,,0.0,False
-EXP-000102,WS/MP716/2025-2026/210356,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-02-02,Varinder Kumar Contractor,Payment Success,114600.0,"Exact duplicate transaction record appears 2x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-778C03D32B990C89,2,0.0,False
-EXP-000103,WS/MP716/2025-2026/210356,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-02-02,Varinder Kumar Contractor,Payment Success,114600.0,"Exact duplicate transaction record appears 2x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-778C03D32B990C89,2,114600.0,False
-EXP-000104,WS/MP716/2025-2026/210356,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-02-02,Varinder Kumar Contractor,Payment Success,57300.0,,False,,,0.0,False
-EXP-000105,WS/MP716/2025-2026/212401,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-05-04,SHAHEED BABA DHARAM SINGH SEKHON TRADERS,Payment Success,57750.0,"Exact duplicate transaction record appears 3x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-149A1C0570CAAE76,3,0.0,False
-EXP-000106,WS/MP716/2025-2026/212401,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-05-04,SHAHEED BABA DHARAM SINGH SEKHON TRADERS,Payment Success,68400.0,"Exact duplicate transaction record appears 10x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-05145B1AA36D1B8A,10,0.0,False
-EXP-000107,WS/MP716/2025-2026/212401,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-05-04,SHAHEED BABA DHARAM SINGH SEKHON TRADERS,Payment Success,68400.0,"Exact duplicate transaction record appears 10x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-05145B1AA36D1B8A,10,68400.0,False
-EXP-000108,WS/MP716/2025-2026/212401,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-05-04,SHAHEED BABA DHARAM SINGH SEKHON TRADERS,Payment Success,68400.0,"Exact duplicate transaction record appears 10x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-05145B1AA36D1B8A,10,68400.0,False
-EXP-000109,WS/MP716/2025-2026/212401,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-05-04,SHAHEED BABA DHARAM SINGH SEKHON TRADERS,Payment Success,57750.0,"Exact duplicate transaction record appears 3x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-149A1C0570CAAE76,3,57750.0,False
-EXP-000110,WS/MP716/2025-2026/212401,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-05-04,SHAHEED BABA DHARAM SINGH SEKHON TRADERS,Payment Success,68400.0,"Exact duplicate transaction record appears 10x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-05145B1AA36D1B8A,10,68400.0,False
-EXP-000111,WS/MP716/2025-2026/212401,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-05-04,SHAHEED BABA DHARAM SINGH SEKHON TRADERS,Payment Success,68400.0,"Exact duplicate transaction record appears 10x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-05145B1AA36D1B8A,10,68400.0,False
-EXP-000112,WS/MP716/2025-2026/212401,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-05-04,SHAHEED BABA DHARAM SINGH SEKHON TRADERS,Payment Success,68400.0,"Exact duplicate transaction record appears 10x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-05145B1AA36D1B8A,10,68400.0,False
-EXP-000113,WS/MP716/2025-2026/212401,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-05-04,SHAHEED BABA DHARAM SINGH SEKHON TRADERS,Payment Success,10100.0,,False,,,0.0,False
-EXP-000114,WS/MP716/2025-2026/212401,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-05-04,PUNEET KUMAR SO HEM RAJ,Payment Success,132088.0,,False,,,0.0,False
-EXP-000115,WS/MP716/2025-2026/212401,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-05-04,SHIVA BRICK KILN,Payment Success,96000.0,,False,,,0.0,False
-EXP-000116,WS/MP716/2025-2026/212401,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-05-04,SHAHEED BABA DHARAM SINGH SEKHON TRADERS,Payment Success,45600.0,,False,,,0.0,False
-EXP-000117,WS/MP716/2025-2026/212401,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-05-04,SHAHEED BABA DHARAM SINGH SEKHON TRADERS,Payment Success,57750.0,"Exact duplicate transaction record appears 3x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-149A1C0570CAAE76,3,57750.0,False
-EXP-000118,WS/MP716/2025-2026/212401,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-05-04,SHAHEED BABA DHARAM SINGH SEKHON TRADERS,Payment Success,68400.0,"Exact duplicate transaction record appears 10x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-05145B1AA36D1B8A,10,68400.0,False
-EXP-000119,WS/MP716/2025-2026/212401,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-05-04,SHAHEED BABA DHARAM SINGH SEKHON TRADERS,Payment Success,68400.0,"Exact duplicate transaction record appears 10x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-05145B1AA36D1B8A,10,68400.0,False
-EXP-000120,WS/MP716/2025-2026/212401,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-05-04,SHAHEED BABA DHARAM SINGH SEKHON TRADERS,Payment Success,68400.0,"Exact duplicate transaction record appears 10x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-05145B1AA36D1B8A,10,68400.0,False
-EXP-000121,WS/MP716/2025-2026/212401,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-05-04,SHAHEED BABA DHARAM SINGH SEKHON TRADERS,Payment Success,68400.0,"Exact duplicate transaction record appears 10x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-05145B1AA36D1B8A,10,68400.0,False
-EXP-000122,WS/MP716/2025-2026/210098,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-04-21,garg iron and hardware store,Payment Success,36000.0,,False,,,0.0,False
-EXP-000123,WS/MP716/2025-2026/210098,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-04-21,garg iron and hardware store,Payment Success,47717.0,,False,,,0.0,False
-EXP-000124,WS/MP716/2025-2026/210098,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-04-21,garg iron and hardware store,Payment Success,34200.0,,False,,,0.0,False
-EXP-000125,WS/MP716/2025-2026/210098,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-04-21,chouhan brick company,Payment Success,34000.0,,False,,,0.0,False
-EXP-000126,WS/MP716/2025-2026/210098,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-04-21,ARIHANT TRADERS,Payment Success,725344.0,,False,,,0.0,False
-EXP-000127,WS/MP716/2025-2026/210098,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-04-21,Sarabjit Singh,Payment Success,26152.0,,False,,,0.0,False
-EXP-000128,WS/MP716/2025-2026/210098,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-04-21,hari ram,Payment Success,26152.0,,False,,,0.0,False
-EXP-000129,WS/MP716/2025-2026/256575,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-03-19,GR ENTERPRISES SAS Nagar MOHALI,Payment Success,45000.0,,False,,,0.0,False
-EXP-000130,WS/MP716/2025-2026/268216,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-03-17,Sham Lal Gurpta,Payment Success,678179.0,,False,,,0.0,False
-EXP-000131,WS/MP716/2026-2027/273833,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-04-13,Sham Lal Gurpta,Payment Success,407918.0,,False,,,0.0,False
-EXP-000132,WS/MP716/2026-2027/293027,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-09-02,Shinder pal Singh,Payment In-Progress,17613.0,,False,,,0.0,False
-EXP-000133,WS/MP716/2026-2027/293027,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-09-02,Shinder pal Singh,Payment In-Progress,121053.0,,False,,,0.0,False
-EXP-000134,WS/MP716/2026-2027/293027,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-09-02,SHRI RAM INTERLOCK TILE INDUSTRY,Payment In-Progress,45840.0,"Exact duplicate transaction record appears 5x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-3027E68FDDFBBC48,5,0.0,False
-EXP-000135,WS/MP716/2026-2027/293027,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-09-02,SHRI RAM INTERLOCK TILE INDUSTRY,Payment In-Progress,45840.0,"Exact duplicate transaction record appears 5x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-3027E68FDDFBBC48,5,45840.0,False
-EXP-000136,WS/MP716/2026-2027/293027,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-09-02,SHRI RAM INTERLOCK TILE INDUSTRY,Payment In-Progress,45840.0,"Exact duplicate transaction record appears 5x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-3027E68FDDFBBC48,5,45840.0,False
-EXP-000137,WS/MP716/2026-2027/293027,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-09-02,SHRI RAM INTERLOCK TILE INDUSTRY,Payment In-Progress,45840.0,"Exact duplicate transaction record appears 5x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-3027E68FDDFBBC48,5,45840.0,False
-EXP-000138,WS/MP716/2026-2027/293027,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-09-02,SHRI RAM INTERLOCK TILE INDUSTRY,Payment In-Progress,45840.0,"Exact duplicate transaction record appears 5x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-3027E68FDDFBBC48,5,45840.0,False
-EXP-000139,WS/MP18152/2024-2025/140030,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2026-01-28,RAJA CHIPS CHUGATH HOUSE,Payment Success,100000.0,,False,,,0.0,False
-EXP-000140,WS/MP18152/2024-2025/163195,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2026-03-12,KSS Enterprises,Payment Success,148200.0,,False,,,0.0,False
-EXP-000141,WS/MP18152/2024-2025/176303,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2025-08-26,MODERN METAL CRAFTS,Payment Success,993982.0,,False,,,0.0,False
-EXP-000142,WS/MP18152/2025-2026/220386,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2025-10-17,JAI INTERLOCK and BUILDING MATERIAL STORE,Payment Success,45880.0,"Exact duplicate transaction record appears 7x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-FD53E604BEAD02C9,7,0.0,False
-EXP-000143,WS/MP18152/2025-2026/220386,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2025-10-17,JAI INTERLOCK and BUILDING MATERIAL STORE,Payment Success,40145.0,"Exact duplicate transaction record appears 2x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-7EFDB8B3D614EBCB,2,0.0,False
-EXP-000144,WS/MP18152/2025-2026/220386,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2025-10-17,JAI INTERLOCK and BUILDING MATERIAL STORE,Payment Success,45880.0,"Exact duplicate transaction record appears 7x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-FD53E604BEAD02C9,7,45880.0,False
-EXP-000145,WS/MP18152/2025-2026/220386,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2025-10-17,JAI INTERLOCK and BUILDING MATERIAL STORE,Payment Success,45880.0,"Exact duplicate transaction record appears 7x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-FD53E604BEAD02C9,7,45880.0,False
-EXP-000146,WS/MP18152/2025-2026/220386,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2025-10-17,JAI INTERLOCK and BUILDING MATERIAL STORE,Payment Success,40145.0,"Exact duplicate transaction record appears 2x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-7EFDB8B3D614EBCB,2,40145.0,False
-EXP-000147,WS/MP18152/2025-2026/220386,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2025-10-17,JAI INTERLOCK and BUILDING MATERIAL STORE,Payment Success,45880.0,"Exact duplicate transaction record appears 7x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-FD53E604BEAD02C9,7,45880.0,False
-EXP-000148,WS/MP18152/2025-2026/220386,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2025-10-17,JAI INTERLOCK and BUILDING MATERIAL STORE,Payment Success,45880.0,"Exact duplicate transaction record appears 7x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-FD53E604BEAD02C9,7,45880.0,False
-EXP-000149,WS/MP18152/2025-2026/220386,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2025-10-17,JAI INTERLOCK and BUILDING MATERIAL STORE,Payment Success,45880.0,"Exact duplicate transaction record appears 7x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-FD53E604BEAD02C9,7,45880.0,False
-EXP-000150,WS/MP18152/2025-2026/220386,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2025-10-17,JAI INTERLOCK and BUILDING MATERIAL STORE,Payment Success,45880.0,"Exact duplicate transaction record appears 7x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-FD53E604BEAD02C9,7,45880.0,False
-EXP-000151,WS/MP18152/2025-2026/220386,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2025-10-17,jasvir singh so bant singh,Payment Success,104400.0,,False,,,0.0,False
-EXP-000152,WS/MP18152/2025-2026/220386,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2026-07-01,jasvir singh so bant singh,Payment Success,150050.0,,False,,,0.0,False
-EXP-000153,WS/MP18152/2025-2026/220386,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2026-06-26,JAI INTERLOCK and BUILDING MATERIAL STORE,Payment Success,40145.0,"Exact duplicate transaction record appears 6x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-4F224A9DAF39497D,6,0.0,False
-EXP-000154,WS/MP18152/2025-2026/220386,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2026-06-26,JAI INTERLOCK and BUILDING MATERIAL STORE,Payment Success,40145.0,"Exact duplicate transaction record appears 6x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-4F224A9DAF39497D,6,40145.0,False
-EXP-000155,WS/MP18152/2025-2026/220386,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2026-06-26,JAI INTERLOCK and BUILDING MATERIAL STORE,Payment Success,40145.0,"Exact duplicate transaction record appears 6x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-4F224A9DAF39497D,6,40145.0,False
-EXP-000156,WS/MP18152/2025-2026/220386,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2026-06-26,JAI INTERLOCK and BUILDING MATERIAL STORE,Payment Success,40145.0,"Exact duplicate transaction record appears 6x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-4F224A9DAF39497D,6,40145.0,False
-EXP-000157,WS/MP18152/2025-2026/220386,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2026-06-26,JAI INTERLOCK and BUILDING MATERIAL STORE,Payment Success,34410.0,,False,,,0.0,False
-EXP-000158,WS/MP18152/2025-2026/220386,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2026-06-26,JAI INTERLOCK and BUILDING MATERIAL STORE,Payment Success,40145.0,"Exact duplicate transaction record appears 6x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-4F224A9DAF39497D,6,40145.0,False
-EXP-000159,WS/MP18152/2025-2026/220386,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2026-06-26,JAI INTERLOCK and BUILDING MATERIAL STORE,Payment Success,45880.0,,False,,,0.0,False
-EXP-000160,WS/MP18152/2025-2026/220386,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2026-06-26,JAI INTERLOCK and BUILDING MATERIAL STORE,Payment Success,40145.0,"Exact duplicate transaction record appears 6x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-4F224A9DAF39497D,6,40145.0,False
-EXP-000161,WS/MP18152/2025-2026/220386,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2026-06-26,JAI INTERLOCK and BUILDING MATERIAL STORE,Payment Success,22940.0,,False,,,0.0,False
-EXP-000162,WS/MP18152/2025-2026/220384,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2025-10-30,JAI INTERLOCK and BUILDING MATERIAL STORE,Payment Success,45880.0,"Exact duplicate transaction record appears 10x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-165805E68540A7A0,10,0.0,False
-EXP-000163,WS/MP18152/2025-2026/220384,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2025-10-30,JAI INTERLOCK and BUILDING MATERIAL STORE,Payment Success,45880.0,"Exact duplicate transaction record appears 10x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-165805E68540A7A0,10,45880.0,False
-EXP-000164,WS/MP18152/2025-2026/220384,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2025-10-30,JAI INTERLOCK and BUILDING MATERIAL STORE,Payment Success,45880.0,"Exact duplicate transaction record appears 10x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-165805E68540A7A0,10,45880.0,False
-EXP-000165,WS/MP18152/2025-2026/220384,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2025-10-30,JAI INTERLOCK and BUILDING MATERIAL STORE,Payment Success,45880.0,"Exact duplicate transaction record appears 10x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-165805E68540A7A0,10,45880.0,False
-EXP-000166,WS/MP18152/2025-2026/220384,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2025-10-30,JAI INTERLOCK and BUILDING MATERIAL STORE,Payment Success,45880.0,"Exact duplicate transaction record appears 10x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-165805E68540A7A0,10,45880.0,False
-EXP-000167,WS/MP18152/2025-2026/220384,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2025-10-30,JAI INTERLOCK and BUILDING MATERIAL STORE,Payment Success,45880.0,"Exact duplicate transaction record appears 10x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-165805E68540A7A0,10,45880.0,False
-EXP-000168,WS/MP18152/2025-2026/220384,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2025-10-30,JAI INTERLOCK and BUILDING MATERIAL STORE,Payment Success,45880.0,"Exact duplicate transaction record appears 10x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-165805E68540A7A0,10,45880.0,False
-EXP-000169,WS/MP18152/2025-2026/220384,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2025-10-30,JAI INTERLOCK and BUILDING MATERIAL STORE,Payment Success,45880.0,"Exact duplicate transaction record appears 10x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-165805E68540A7A0,10,45880.0,False
-EXP-000170,WS/MP18152/2025-2026/220384,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2025-10-30,JAI INTERLOCK and BUILDING MATERIAL STORE,Payment Success,45880.0,"Exact duplicate transaction record appears 10x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-165805E68540A7A0,10,45880.0,False
-EXP-000171,WS/MP18152/2025-2026/220384,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2025-10-30,JAI INTERLOCK and BUILDING MATERIAL STORE,Payment Success,45880.0,"Exact duplicate transaction record appears 10x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-165805E68540A7A0,10,45880.0,False
-EXP-000172,WS/MP18152/2025-2026/220384,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2026-08-05,jasvir singh so bant singh,Payment Success,145280.0,,False,,,0.0,False
-EXP-000173,WS/MP18152/2025-2026/220384,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2026-08-05,jasvir singh so bant singh,Payment Success,173310.0,,False,,,0.0,False
-EXP-000174,WS/MP18152/2025-2026/220384,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2026-08-05,JAI INTERLOCK and BUILDING MATERIAL STORE,Payment Success,45880.0,"Exact duplicate transaction record appears 11x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-BE838D72481686AB,11,0.0,False
-EXP-000175,WS/MP18152/2025-2026/220384,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2026-08-05,JAI INTERLOCK and BUILDING MATERIAL STORE,Payment Success,45880.0,"Exact duplicate transaction record appears 11x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-BE838D72481686AB,11,45880.0,False
-EXP-000176,WS/MP18152/2025-2026/220384,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2026-08-05,jasvir singh so bant singh,Payment Success,45880.0,,False,,,0.0,False
-EXP-000177,WS/MP18152/2025-2026/220384,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2026-08-05,JAI INTERLOCK and BUILDING MATERIAL STORE,Payment Success,45880.0,"Exact duplicate transaction record appears 11x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-BE838D72481686AB,11,45880.0,False
-EXP-000178,WS/MP18152/2025-2026/220384,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2026-08-05,JAI INTERLOCK and BUILDING MATERIAL STORE,Payment Success,45880.0,"Exact duplicate transaction record appears 11x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-BE838D72481686AB,11,45880.0,False
-EXP-000179,WS/MP18152/2025-2026/220384,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2026-08-05,JAI INTERLOCK and BUILDING MATERIAL STORE,Payment Success,45880.0,"Exact duplicate transaction record appears 11x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-BE838D72481686AB,11,45880.0,False
-EXP-000180,WS/MP18152/2025-2026/220384,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2026-08-05,JAI INTERLOCK and BUILDING MATERIAL STORE,Payment Success,34410.0,"Exact duplicate transaction record appears 2x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-063BDD6862BD7DB5,2,0.0,False
-EXP-000181,WS/MP18152/2025-2026/220384,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2026-08-05,JAI INTERLOCK and BUILDING MATERIAL STORE,Payment Success,45880.0,"Exact duplicate transaction record appears 11x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-BE838D72481686AB,11,45880.0,False
-EXP-000182,WS/MP18152/2025-2026/220384,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2026-08-05,JAI INTERLOCK and BUILDING MATERIAL STORE,Payment Success,45880.0,"Exact duplicate transaction record appears 11x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-BE838D72481686AB,11,45880.0,False
-EXP-000183,WS/MP18152/2025-2026/220384,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2026-08-05,JAI INTERLOCK and BUILDING MATERIAL STORE,Payment Success,45880.0,"Exact duplicate transaction record appears 11x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-BE838D72481686AB,11,45880.0,False
-EXP-000184,WS/MP18152/2025-2026/220384,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2026-08-05,JAI INTERLOCK and BUILDING MATERIAL STORE,Payment Success,40145.0,"Exact duplicate transaction record appears 2x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-D1F1AD55B880FDF0,2,0.0,False
-EXP-000185,WS/MP18152/2025-2026/220384,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2026-08-05,JAI INTERLOCK and BUILDING MATERIAL STORE,Payment Success,45880.0,"Exact duplicate transaction record appears 11x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-BE838D72481686AB,11,45880.0,False
-EXP-000186,WS/MP18152/2025-2026/220384,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2026-08-05,JAI INTERLOCK and BUILDING MATERIAL STORE,Payment Success,34410.0,"Exact duplicate transaction record appears 2x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-063BDD6862BD7DB5,2,34410.0,False
-EXP-000187,WS/MP18152/2025-2026/220384,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2026-08-05,JAI INTERLOCK and BUILDING MATERIAL STORE,Payment Success,45880.0,"Exact duplicate transaction record appears 11x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-BE838D72481686AB,11,45880.0,False
-EXP-000188,WS/MP18152/2025-2026/220384,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2026-08-05,JAI INTERLOCK and BUILDING MATERIAL STORE,Payment Success,40145.0,"Exact duplicate transaction record appears 2x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-D1F1AD55B880FDF0,2,40145.0,False
-EXP-000189,WS/MP18152/2025-2026/220384,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2026-08-05,JAI INTERLOCK and BUILDING MATERIAL STORE,Payment Success,45880.0,"Exact duplicate transaction record appears 11x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-BE838D72481686AB,11,45880.0,False
-EXP-000190,WS/MP18152/2025-2026/220384,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2026-08-05,JAI INTERLOCK and BUILDING MATERIAL STORE,Payment Success,22940.0,,False,,,0.0,False
-EXP-000191,WS/MP18152/2025-2026/239727,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2026-04-16,GILL TRADING COMPANY,Payment Success,198000.0,,False,,,0.0,False
-EXP-000192,WS/MP18152/2025-2026/239748,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2026-03-09,SHEIKH FARID AGRO TECH,Payment Success,200000.0,,False,,,0.0,False
-EXP-000193,WS/MP18152/2025-2026/258374,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2026-02-28,GILL TRADING COMPANY,Payment Success,99000.0,,False,,,0.0,False
-EXP-000194,WS/MP18152/2026-2027/293508,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2026-09-02,GILL TRADING COMPANY,Payment In-Progress,249000.0,,False,,,0.0,False
-EXP-000195,WS/MP380/2024-2025/167363,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2026-02-25,Goyal construction,Payment Success,495000.0,,False,,,0.0,False
-EXP-000196,WS/MP380/2025-2026/193121,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2026-05-18,SARDAR INTERLOCK TILES,Payment Success,36833.0,,False,,,0.0,False
-EXP-000197,WS/MP380/2025-2026/193121,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2025-12-29,GORKHA KHAN,Payment Success,20484.0,,False,,,0.0,False
-EXP-000198,WS/MP380/2025-2026/193121,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2025-12-22,GURU NANAK AGRI HARDWARE AND SANITARY STORE,Payment Success,44000.0,,False,,,0.0,False
-EXP-000199,WS/MP380/2025-2026/193121,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2025-12-22,SOAMI INTERLOCK TILE FACTORY,Payment Success,116500.0,,False,,,0.0,False
-EXP-000200,WS/MP380/2025-2026/193121,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2025-12-22,SATJIT TRACTOR TROLLY JCB CRANE SERVICE,Payment Success,20532.0,,False,,,0.0,False
-EXP-000201,WS/MP380/2025-2026/193121,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2025-11-24,PUNJAB BRICK INDUSTRIES,Payment Success,28800.0,,False,,,0.0,False
-EXP-000202,WS/MP380/2025-2026/193121,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2025-11-24,HARRAI BELDING WORKS,Payment Success,50000.0,"Exact duplicate transaction record appears 2x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-E381DFC6BDA1CC37,2,0.0,False
-EXP-000203,WS/MP380/2025-2026/193121,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2025-11-24,HARRAI BELDING WORKS,Payment Success,50000.0,"Exact duplicate transaction record appears 2x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-E381DFC6BDA1CC37,2,50000.0,False
-EXP-000204,WS/MP380/2025-2026/193121,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2025-12-08,SOAMI INTERLOCK TILE FACTORY,Payment Success,140850.0,,False,,,0.0,False
-EXP-000205,WS/MP380/2025-2026/193121,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2025-11-24,KK BUILDING MATERIAL STORE,Payment Success,45000.0,,False,,,0.0,False
-EXP-000206,WS/MP380/2025-2026/193121,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2025-11-24,KK BUILDING MATERIAL STORE,Payment Success,47001.0,,False,,,0.0,False
-EXP-000207,WS/MP380/2025-2026/209170,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2026-07-31,HARVINDER SINGH BRAR,Payment Success,79880.0,,False,,,0.0,False
-EXP-000208,WS/MP380/2025-2026/209170,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2026-08-02,SURJIT SINGH BKO,Payment Success,25098.0,,False,,,0.0,False
-EXP-000209,WS/MP380/2025-2026/209170,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2026-08-05,Waheguru steel shuttering store,Payment Success,25922.0,,False,,,0.0,False
-EXP-000210,WS/MP380/2025-2026/209170,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2025-11-26,Waheguru steel shuttering store,Payment Success,118300.0,,False,,,0.0,False
-EXP-000211,WS/MP380/2025-2026/209170,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2025-11-26,Waheguru steel shuttering store,Payment Success,50800.0,,False,,,0.0,False
-EXP-000212,WS/MP380/2025-2026/209175,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2026-03-16,Tatla Departmental Store,Payment Success,49416.0,,False,,,0.0,False
-EXP-000213,WS/MP380/2025-2026/209175,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2026-03-19,Tatla Departmental Store,Payment Success,23600.0,,False,,,0.0,False
-EXP-000214,WS/MP380/2025-2026/209175,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2026-03-19,SB Bricks Gram Udyog,Payment Success,37498.0,,False,,,0.0,False
-EXP-000215,WS/MP380/2025-2026/209175,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2026-03-19,Tatla Departmental Store,Payment Success,49416.0,"Exact duplicate transaction record appears 2x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-8CFBA01D587F05F7,2,0.0,False
-EXP-000216,WS/MP380/2025-2026/209175,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2026-03-19,Tatla Departmental Store,Payment Success,49416.0,"Exact duplicate transaction record appears 2x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-8CFBA01D587F05F7,2,49416.0,False
-EXP-000217,WS/MP380/2025-2026/209175,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2026-03-19,Tatla Departmental Store,Payment Success,22152.0,,False,,,0.0,False
-EXP-000218,WS/MP380/2025-2026/209175,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2026-03-19,Tatla Departmental Store,Payment Success,48400.0,,False,,,0.0,False
-EXP-000219,WS/MP380/2025-2026/209159,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2026-07-27,boparai building material,Payment Success,27487.0,,False,,,0.0,False
-EXP-000220,WS/MP380/2025-2026/209159,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2026-07-27,boparai building material,Payment Success,9199.0,,False,,,0.0,False
-EXP-000221,WS/MP380/2025-2026/209159,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2026-07-27,RAM KALAN LOHA BHANDAR,Payment Success,30000.0,,False,,,0.0,False
-EXP-000222,WS/MP380/2025-2026/209159,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2026-07-27,BALVIR SINGH,Payment Success,23190.0,,False,,,0.0,False
-EXP-000223,WS/MP380/2025-2026/209159,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2026-03-18,Dhillon Brick,Payment Success,22500.0,,False,,,0.0,False
-EXP-000224,WS/MP380/2025-2026/209159,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2026-03-18,BALVIR SINGH,Payment Success,23190.0,,False,,,0.0,False
-EXP-000225,WS/MP380/2025-2026/209159,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2025-12-30,boparai building material,Payment Success,40099.0,,False,,,0.0,False
-EXP-000226,WS/MP380/2025-2026/209159,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2025-12-30,RAM KALAN LOHA BHANDAR,Payment Success,74775.0,,False,,,0.0,False
-EXP-000227,WS/MP380/2025-2026/209159,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2025-12-30,BALVIR SINGH,Payment Success,46380.0,,False,,,0.0,False
-EXP-000228,WS/MP380/2025-2026/213878,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2026-02-03,Khalsa Tiles Industry,Payment Success,34950.0,,False,,,0.0,False
-EXP-000229,WS/MP380/2025-2026/213878,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2026-02-03,Khalsa Tiles Industry,Payment Success,46600.0,"Exact duplicate transaction record appears 3x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-BD8625FDB9EE2646,3,0.0,False
-EXP-000230,WS/MP380/2025-2026/213878,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2026-02-03,Khalsa Tiles Industry,Payment Success,46600.0,"Exact duplicate transaction record appears 3x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-BD8625FDB9EE2646,3,46600.0,False
-EXP-000231,WS/MP380/2025-2026/213878,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2026-02-03,Khalsa Tiles Industry,Payment Success,46600.0,"Exact duplicate transaction record appears 3x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-BD8625FDB9EE2646,3,46600.0,False
-EXP-000232,WS/MP380/2025-2026/213878,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2026-02-03,Khalsa Building Materials,Payment Success,25250.0,,False,,,0.0,False
-EXP-000233,WS/MP380/2025-2026/220672,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2025-09-12,LUDHIANA SALES CORPORATION PRIVATE LIMITED,Payment Success,999992.0,,False,,,0.0,False
-EXP-000234,WS/MP380/2025-2026/220672,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2025-09-12,LUDHIANA SALES CORPORATION PRIVATE LIMITED,Payment Success,328009.0,,False,,,0.0,False
-EXP-000235,WS/MP380/2025-2026/220672,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2025-09-12,LUDHIANA SALES CORPORATION PRIVATE LIMITED,Payment Success,597464.0,,False,,,0.0,False
-EXP-000236,WS/MP380/2025-2026/219271,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2026-04-13,Rajat Sharma Contractor,Payment Success,12562.0,,False,,,0.0,False
-EXP-000237,WS/MP380/2025-2026/235033,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2026-06-24,BALAJI BUILDERS,Payment Success,181873.0,,False,,,0.0,False
-EXP-000238,WS/MP380/2025-2026/235033,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2026-04-20,BALAJI BUILDERS,Payment Success,863208.0,,False,,,0.0,False
-EXP-000239,WS/MP380/2025-2026/238122,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2026-02-15,WELCOM BUILDING MATERIAL,Payment Success,24750.0,,False,,,0.0,False
-EXP-000240,WS/MP380/2025-2026/238122,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2026-02-15,WELCOM BUILDING MATERIAL,Payment Success,6000.0,,False,,,0.0,False
-EXP-000241,WS/MP380/2025-2026/238122,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2026-02-15,Punjab iron store,Payment Success,261249.0,,False,,,0.0,False
-EXP-000242,WS/MP380/2025-2026/238122,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2026-02-15,MAAN CONCRETE,Payment Success,168000.0,,False,,,0.0,False
-EXP-000243,WS/MP380/2025-2026/238122,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2026-02-15,MISTRI BALWINDER SINGH,Payment Success,25586.0,,False,,,0.0,False
-EXP-000244,WS/MP380/2025-2026/238122,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2026-02-15,MISTRI BALWINDER SINGH,Payment Success,14414.0,,False,,,0.0,False
-EXP-000245,WS/MP380/2025-2026/216855,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2026-02-13,Singh Building Material,Payment Success,615000.0,,False,,,0.0,False
-EXP-000246,WS/MP380/2026-2027/279582,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2026-07-26,Sidhu and Company,Payment Success,763557.0,,False,,,0.0,False
-EXP-000247,WS/MP380/2026-2027/279582,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2026-07-26,MS KANSAL CEMENT AND MACHINERY STORE,Payment Success,63200.0,,False,,,0.0,False
-EXP-000248,WS/MP380/2026-2027/279201,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2026-08-07,ZAKHMI SCIENCE AND SPORTS GOODS,Payment Success,200000.0,,False,,,0.0,False
-EXP-000249,WS/MP18153/2024-2025/135260,Punjab,SHER SINGH GHUBAYA,FIROZPUR,2024-10-29,The Gill Sehkari Kirat te Ussari Sabha Ltd,Payment Success,197800.0,,False,,,0.0,False
-EXP-000250,WS/MP18153/2024-2025/135260,Punjab,SHER SINGH GHUBAYA,FIROZPUR,2024-12-19,The Gill Sehkari Kirat te Ussari Sabha Ltd,Payment Success,34615.0,,False,,,0.0,False
-EXP-000251,WS/MP18153/2024-2025/167828,Punjab,SHER SINGH GHUBAYA,FIROZPUR,2025-05-16,Ritesh Traders,Payment Success,400000.0,,False,,,0.0,False
-EXP-000252,WS/MP18153/2024-2025/167828,Punjab,SHER SINGH GHUBAYA,FIROZPUR,2025-03-27,Ritesh Traders,Payment Success,503625.0,,False,,,0.0,False
-EXP-000253,WS/MP18153/2024-2025/183043,Punjab,SHER SINGH GHUBAYA,FIROZPUR,2026-05-12,The Sidhu Kirat te Usari Sehkari Sabha ltd,Payment Success,240327.0,,False,,,0.0,False
-EXP-000254,WS/MP18153/2025-2026/216816,Punjab,SHER SINGH GHUBAYA,FIROZPUR,2026-04-06,SHREE GURU RAM DASS AUTO SALES,Payment Success,432475.0,,False,,,0.0,False
-EXP-000255,WS/MP18153/2025-2026/216816,Punjab,SHER SINGH GHUBAYA,FIROZPUR,2026-02-05,Sharda Enterprises,Payment Success,567525.0,,False,,,0.0,False
-EXP-000256,WS/MP18153/2025-2026/238124,Punjab,SHER SINGH GHUBAYA,FIROZPUR,2026-05-14,SAT NARAIN MODI AND SONS,Payment Success,124800.0,,False,,,0.0,False
-EXP-000257,WS/MP18153/2025-2026/238124,Punjab,SHER SINGH GHUBAYA,FIROZPUR,2026-05-14,Jaspal9855924367,Payment Success,25200.0,,False,,,0.0,False
-EXP-000258,WS/MP18153/2025-2026/247298,Punjab,SHER SINGH GHUBAYA,FIROZPUR,2026-03-25,CHOUDHRY IRON STORE,Payment Success,50000.0,,False,,,0.0,False
-EXP-000259,WS/MP18153/2025-2026/247298,Punjab,SHER SINGH GHUBAYA,FIROZPUR,2026-03-25,CHOUDHRY IRON STORE,Payment Success,27160.0,,False,,,0.0,False
-EXP-000260,WS/MP18153/2025-2026/247298,Punjab,SHER SINGH GHUBAYA,FIROZPUR,2026-03-25,CHOUDHRY IRON STORE,Payment Success,47480.0,,False,,,0.0,False
-EXP-000261,WS/MP18153/2025-2026/274494,Punjab,SHER SINGH GHUBAYA,FIROZPUR,2026-05-22,Ganotra Communications,Payment Success,198500.0,,False,,,0.0,False
-EXP-000262,WS/MP18153/2026-2027/274487,Punjab,SHER SINGH GHUBAYA,FIROZPUR,2026-08-12,The Gill Sehkari Kirat te Ussari Sabha Ltd,Payment Success,246261.0,,False,,,0.0,False
-EXP-000263,WS/MP18153/2026-2027/273973,Punjab,SHER SINGH GHUBAYA,FIROZPUR,2026-05-12,H S AGRO,Payment Success,240667.0,,False,,,0.0,False
-EXP-000264,WS/MP18153/2026-2027/274486,Punjab,SHER SINGH GHUBAYA,FIROZPUR,2026-05-12,H S AGRO,Payment Success,240862.0,,False,,,0.0,False
-EXP-000265,WS/MP18154/2025-2026/166556,Punjab,SUKHJINDER SINGH RANDHAWA,GURDASPUR,2026-05-25,Bajwa Interlock Tile Factory Building Material,Payment Success,95100.0,,False,,,0.0,False
-EXP-000266,WS/MP18154/2025-2026/166556,Punjab,SUKHJINDER SINGH RANDHAWA,GURDASPUR,2026-02-02,Bajwa Interlock Tile Factory Building Material,Payment Success,204900.0,,False,,,0.0,False
-EXP-000267,WS/MP18154/2025-2026/166557,Punjab,SUKHJINDER SINGH RANDHAWA,GURDASPUR,2026-02-15,Bajwa Interlock Tile Factory Building Material,Payment Success,90200.0,,False,,,0.0,False
-EXP-000268,WS/MP18154/2025-2026/166557,Punjab,SUKHJINDER SINGH RANDHAWA,GURDASPUR,2026-02-12,Guru Nanak Tiles Factory,Payment Success,114700.0,,False,,,0.0,False
-EXP-000269,WS/MP18154/2025-2026/196161,Punjab,SUKHJINDER SINGH RANDHAWA,GURDASPUR,2025-10-08,The Karam Singh Co op Ltd,Payment Success,189536.0,,False,,,0.0,False
-EXP-000270,WS/MP18154/2025-2026/196161,Punjab,SUKHJINDER SINGH RANDHAWA,GURDASPUR,2025-10-08,The Karam Singh Co op Ltd,Payment Success,159896.0,,False,,,0.0,False
-EXP-000271,WS/MP18154/2025-2026/196161,Punjab,SUKHJINDER SINGH RANDHAWA,GURDASPUR,2025-10-08,The Karam Singh Co op Ltd,Payment Success,396902.0,,False,,,0.0,False
-EXP-000272,WS/MP18154/2025-2026/192238,Punjab,SUKHJINDER SINGH RANDHAWA,GURDASPUR,2026-03-26,R K Enterprises,Payment Success,354595.0,,False,,,0.0,False
-EXP-000273,WS/MP18154/2025-2026/199726,Punjab,SUKHJINDER SINGH RANDHAWA,GURDASPUR,2026-02-10,Rakesh Kumar,Payment Success,50000.0,,False,,,0.0,False
-EXP-000274,WS/MP18154/2025-2026/199726,Punjab,SUKHJINDER SINGH RANDHAWA,GURDASPUR,2026-02-08,Kesho Ram Aggarwal and sons,Payment Success,105000.0,,False,,,0.0,False
-EXP-000275,WS/MP18154/2025-2026/199726,Punjab,SUKHJINDER SINGH RANDHAWA,GURDASPUR,2026-02-08,Satpal and Sons,Payment Success,52900.0,,False,,,0.0,False
-EXP-000276,WS/MP18154/2025-2026/199726,Punjab,SUKHJINDER SINGH RANDHAWA,GURDASPUR,2026-02-08,Deepak Cement and Hardware Store,Payment Success,42090.0,,False,,,0.0,False
-EXP-000277,WS/MP18154/2025-2026/196159,Punjab,SUKHJINDER SINGH RANDHAWA,GURDASPUR,2025-10-27,Talibpur Pandori Cooperative labour and construction society ltd,Payment Success,482323.0,,False,,,0.0,False
-EXP-000278,WS/MP18154/2025-2026/196159,Punjab,SUKHJINDER SINGH RANDHAWA,GURDASPUR,2025-07-26,Talibpur Pandori Cooperative labour and construction society ltd,Payment Success,476677.0,,False,,,0.0,False
-EXP-000279,WS/MP18154/2025-2026/250965,Punjab,SUKHJINDER SINGH RANDHAWA,GURDASPUR,2026-02-26,KULDEEP WELDING AND TRACTOR WORKSHOP,Payment Success,23035.0,,False,,,0.0,False
-EXP-000280,WS/MP18154/2025-2026/250965,Punjab,SUKHJINDER SINGH RANDHAWA,GURDASPUR,2026-02-10,MOHAN SPORTS,Payment Success,40520.0,,False,,,0.0,False
-EXP-000281,WS/MP18154/2025-2026/250965,Punjab,SUKHJINDER SINGH RANDHAWA,GURDASPUR,2026-02-10,MOHAN SPORTS,Payment Success,29390.0,,False,,,0.0,False
-EXP-000282,WS/MP18154/2025-2026/250965,Punjab,SUKHJINDER SINGH RANDHAWA,GURDASPUR,2026-02-23,SINGH SAHUB FERBRICATORS,Payment Success,84286.0,,False,,,0.0,False
-EXP-000283,WS/MP18154/2025-2026/250965,Punjab,SUKHJINDER SINGH RANDHAWA,GURDASPUR,2026-02-25,UNIVE TILES,Payment Success,163075.0,,False,,,0.0,False
-EXP-000284,WS/MP18154/2025-2026/250965,Punjab,SUKHJINDER SINGH RANDHAWA,GURDASPUR,2026-01-29,SINGH SAHUB FERBRICATORS,Payment Success,264545.0,,False,,,0.0,False
-EXP-000285,WS/MP18154/2025-2026/250965,Punjab,SUKHJINDER SINGH RANDHAWA,GURDASPUR,2026-05-09,Satnam Singh,Payment Success,28920.0,,False,,,0.0,False
-EXP-000286,WS/MP18154/2025-2026/250965,Punjab,SUKHJINDER SINGH RANDHAWA,GURDASPUR,2026-05-11,LOVELY TRADING CO,Payment Success,66229.0,,False,,,0.0,False
-EXP-000287,WS/MP18154/2025-2026/256975,Punjab,SUKHJINDER SINGH RANDHAWA,GURDASPUR,2026-05-19,The Mallowal Cooprative LC Society,Payment Success,422066.0,,False,,,0.0,False
-EXP-000288,WS/MP18154/2025-2026/259402,Punjab,SUKHJINDER SINGH RANDHAWA,GURDASPUR,2026-04-11,Guru Nanak Tiles Factory,Payment Success,341220.0,,False,,,0.0,False
-EXP-000289,WS/MP18154/2025-2026/259402,Punjab,SUKHJINDER SINGH RANDHAWA,GURDASPUR,2026-04-11,Guru Nanak Raita Bazri Supplier,Payment Success,158780.0,,False,,,0.0,False
-EXP-000290,WS/MP18154/2025-2026/245786,Punjab,SUKHJINDER SINGH RANDHAWA,GURDASPUR,2026-03-17,KAHLOW TRADERS,Payment Success,318000.0,,False,,,0.0,False
-EXP-000291,WS/MP18154/2025-2026/245786,Punjab,SUKHJINDER SINGH RANDHAWA,GURDASPUR,2026-03-17,BAWA BRICKS SUPPLY CO,Payment Success,49000.0,"Exact duplicate transaction record appears 2x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-1CD321AB13B74D22,2,0.0,False
-EXP-000292,WS/MP18154/2025-2026/245786,Punjab,SUKHJINDER SINGH RANDHAWA,GURDASPUR,2026-03-17,BAWA BRICKS SUPPLY CO,Payment Success,49000.0,"Exact duplicate transaction record appears 2x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-1CD321AB13B74D22,2,49000.0,False
-EXP-000293,WS/MP18154/2025-2026/245786,Punjab,SUKHJINDER SINGH RANDHAWA,GURDASPUR,2026-03-17,BAWA BRICKS SUPPLY CO,Payment Success,84000.0,,False,,,0.0,False
-EXP-000294,WS/MP18154/2025-2026/250967,Punjab,SUKHJINDER SINGH RANDHAWA,GURDASPUR,2026-05-13,MITTAL PAVERS,Payment Success,248626.0,,False,,,0.0,False
-EXP-000295,WS/MP18154/2026-2027/274565,Punjab,SUKHJINDER SINGH RANDHAWA,GURDASPUR,2026-07-07,BOBICONSTRUCTIONCOMPANY,Payment Success,239376.0,,False,,,0.0,False
-EXP-000296,WS/MP18155/2024-2025/149131,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2025-03-12,Rakesh kumar Contractor,Payment Success,774300.0,,False,,,0.0,False
-EXP-000297,WS/MP18155/2024-2025/141721,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2026-05-27,NAVNEET SINGH,Payment Success,193500.0,,False,,,0.0,False
-EXP-000298,WS/MP18155/2024-2025/163661,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2025-06-16,United Pipe And Pavers,Payment Success,9030.0,,False,,,0.0,False
-EXP-000299,WS/MP18155/2024-2025/163661,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2025-04-01,United Pipe And Pavers,Payment Success,46138.0,,False,,,0.0,False
-EXP-000300,WS/MP18155/2024-2025/163661,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2025-04-01,United Pipe And Pavers,Payment Success,47141.0,"Exact duplicate transaction record appears 2x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-2ECB12F3D45E2DDF,2,0.0,False
-EXP-000301,WS/MP18155/2024-2025/163661,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2025-04-01,United Pipe And Pavers,Payment Success,47141.0,"Exact duplicate transaction record appears 2x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-2ECB12F3D45E2DDF,2,47141.0,False
-EXP-000302,WS/MP18155/2024-2025/163661,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2025-04-01,United Pipe And Pavers,Payment Success,26550.0,,False,,,0.0,False
-EXP-000303,WS/MP18155/2024-2025/163661,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2025-04-01,Dinesh Singh Massean,Payment Success,4000.0,,False,,,0.0,False
-EXP-000304,WS/MP18155/2024-2025/163661,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2025-04-01,Kashmir Lal Massean,Payment Success,20000.0,,False,,,0.0,False
-EXP-000305,WS/MP18155/2025-2026/193697,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2025-10-29,Harbhjan Singh Massean,Payment Success,25200.0,,False,,,0.0,False
-EXP-000306,WS/MP18155/2025-2026/193697,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2025-10-29,Harbhjan Singh Massean,Payment Success,72000.0,,False,,,0.0,False
-EXP-000307,WS/MP18155/2025-2026/193697,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2025-09-01,Sandeep Cement Store baddon,Payment Success,73000.0,,False,,,0.0,False
-EXP-000308,WS/MP18155/2025-2026/193697,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2025-09-01,Seema Aggarwal,Payment Success,27600.0,"Exact duplicate transaction record appears 5x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-62A76821B7482A4E,5,0.0,False
-EXP-000309,WS/MP18155/2025-2026/193697,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2025-09-01,Seema Aggarwal,Payment Success,27600.0,"Exact duplicate transaction record appears 5x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-62A76821B7482A4E,5,27600.0,False
-EXP-000310,WS/MP18155/2025-2026/193697,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2025-09-01,Seema Aggarwal,Payment Success,27600.0,"Exact duplicate transaction record appears 5x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-62A76821B7482A4E,5,27600.0,False
-EXP-000311,WS/MP18155/2025-2026/193697,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2025-09-01,Seema Aggarwal,Payment Success,27600.0,"Exact duplicate transaction record appears 5x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-62A76821B7482A4E,5,27600.0,False
-EXP-000312,WS/MP18155/2025-2026/193697,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2025-09-01,Seema Aggarwal,Payment Success,27600.0,"Exact duplicate transaction record appears 5x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-62A76821B7482A4E,5,27600.0,False
-EXP-000313,WS/MP18155/2025-2026/193697,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2026-01-16,Sewa kaur Sons,Payment Success,24150.0,,False,,,0.0,False
-EXP-000314,WS/MP18155/2025-2026/193697,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2026-01-16,Sewa kaur Sons,Payment Success,10350.0,,False,,,0.0,False
-EXP-000315,WS/MP18155/2025-2026/193697,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2025-11-19,Sandeep Cement Store baddon,Payment Success,26140.0,,False,,,0.0,False
-EXP-000316,WS/MP18155/2025-2026/193697,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2025-11-19,Sandeep Cement Store baddon,Payment Success,73284.0,,False,,,0.0,False
-EXP-000317,WS/MP18155/2025-2026/193916,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2026-07-27,Gagandeep,Payment Success,24000.0,,False,,,0.0,False
-EXP-000318,WS/MP18155/2025-2026/193916,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2026-08-08,Jai Singh and Sons,Payment Success,48750.0,"Exact duplicate transaction record appears 2x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-7D7220889263FA2A,2,0.0,False
-EXP-000319,WS/MP18155/2025-2026/193916,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2026-08-08,Jai Singh and Sons,Payment Success,48750.0,"Exact duplicate transaction record appears 2x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-7D7220889263FA2A,2,48750.0,False
-EXP-000320,WS/MP18155/2025-2026/193916,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2026-08-08,Jai Singh and Sons,Payment Success,39000.0,"Exact duplicate transaction record appears 2x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-D7C11FA892FCC0CE,2,0.0,False
-EXP-000321,WS/MP18155/2025-2026/193916,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2026-08-08,Jai Singh and Sons,Payment Success,39000.0,"Exact duplicate transaction record appears 2x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-D7C11FA892FCC0CE,2,39000.0,False
-EXP-000322,WS/MP18155/2025-2026/193916,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2025-11-18,Jai Singh and Sons,Payment Success,44400.0,,False,,,0.0,False
-EXP-000323,WS/MP18155/2025-2026/193916,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2025-11-18,Jai Singh and Sons,Payment Success,49967.0,,False,,,0.0,False
-EXP-000324,WS/MP18155/2025-2026/193916,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2025-11-24,Bikram Singh JCB Service,Payment Success,16000.0,,False,,,0.0,False
-EXP-000325,WS/MP18155/2025-2026/193916,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2025-11-24,Bikram Singh JCB Service,Payment Success,14000.0,,False,,,0.0,False
-EXP-000326,WS/MP18155/2025-2026/189291,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2026-08-26,The Boparai Co Op Society Ltd,Payment In-Progress,249000.0,,False,,,0.0,False
-EXP-000327,WS/MP18155/2025-2026/189291,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2025-12-26,Deepak Kumar,Payment Success,641741.0,,False,,,0.0,False
-EXP-000328,WS/MP18155/2025-2026/212567,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2026-03-02,The Nai Abadi Co Op L and C Society Ltd,Payment Success,911592.0,,False,,,0.0,False
-EXP-000329,WS/MP18155/2025-2026/215381,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2026-06-23,Ramgarhia Construction Works,Payment Success,1000000.0,,False,,,0.0,False
-EXP-000330,WS/MP18155/2025-2026/234976,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2026-01-08,Kumar Traders,Payment Success,49059.0,,False,,,0.0,False
-EXP-000331,WS/MP18155/2025-2026/238468,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2025-11-19,Bharat Solar And Mechanical Works,Payment Success,129000.0,,False,,,0.0,False
-EXP-000332,WS/MP18155/2025-2026/239008,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2025-11-20,Tiwari Electricals,Payment Success,129000.0,,False,,,0.0,False
-EXP-000333,WS/MP18155/2025-2026/249579,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2026-03-10,Kalzidhar Cement,Payment Success,27750.0,,False,,,0.0,False
-EXP-000334,WS/MP18155/2025-2026/249579,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2026-03-10,Manju Bala Massn,Payment Success,31200.0,,False,,,0.0,False
-EXP-000335,WS/MP18155/2025-2026/249579,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2026-02-20,United Pipe And Pavers Inds,Payment Success,136785.0,,False,,,0.0,False
-EXP-000336,WS/MP18155/2025-2026/249579,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2026-02-20,Thind Enterprise,Payment Success,12000.0,,False,,,0.0,False
-EXP-000337,WS/MP18155/2025-2026/249579,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2026-02-20,Seema Aggarwal,Payment Success,96000.0,,False,,,0.0,False
-EXP-000338,WS/MP18155/2025-2026/249579,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2026-04-27,Bawa Interlock Tiles,Payment Success,68400.0,,False,,,0.0,False
-EXP-000339,WS/MP18155/2025-2026/249579,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2026-04-27,SAHOTA CEMENT PIPE WORKS,Payment Success,68393.0,,False,,,0.0,False
-EXP-000340,WS/MP18155/2025-2026/249579,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2026-04-27,Thind Enterprise,Payment Success,24600.0,,False,,,0.0,False
-EXP-000341,WS/MP18155/2025-2026/249579,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2026-04-27,Kalzidhar Cement,Payment Success,18000.0,,False,,,0.0,False
-EXP-000342,WS/MP18155/2025-2026/249579,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2026-04-27,Manju Bala Massn,Payment Success,16872.0,,False,,,0.0,False
-EXP-000343,WS/MP18155/2025-2026/249974,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2026-06-12,Heer Paint Store,Payment Success,37535.0,,False,,,0.0,False
-EXP-000344,WS/MP18155/2025-2026/249974,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2026-06-12,Jaswinder Singh,Payment Success,58500.0,,False,,,0.0,False
-EXP-000345,WS/MP18155/2025-2026/249974,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2026-06-12,Saini Welding Store,Payment Success,22500.0,,False,,,0.0,False
-EXP-000346,WS/MP18155/2025-2026/249974,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2026-06-12,MR BALWINDER,Payment Success,15000.0,,False,,,0.0,False
-EXP-000347,WS/MP18155/2025-2026/249974,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2026-06-24,Jaswinder Singh,Payment Success,3428.0,,False,,,0.0,False
-EXP-000348,WS/MP18155/2025-2026/249974,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2026-06-24,Sewa kaur Sons,Payment Success,9000.0,,False,,,0.0,False
-EXP-000349,WS/MP18155/2025-2026/249974,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2026-06-22,Daljit Kumar Thakerwal,Payment Success,65020.0,,False,,,0.0,False
-EXP-000350,WS/MP18155/2025-2026/249974,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2026-05-11,Daljit Singh XBAS,Payment Success,18144.0,,False,,,0.0,False
-EXP-000351,WS/MP18155/2025-2026/249974,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2026-04-27,Sidhu Hardware Paint Store,Payment Success,24190.0,,False,,,0.0,False
-EXP-000352,WS/MP18155/2025-2026/249974,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2026-04-27,Sewa kaur Sons,Payment Success,16200.0,,False,,,0.0,False
-EXP-000353,WS/MP18155/2025-2026/249974,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2026-04-27,SATGURU SANITATION,Payment Success,32033.0,,False,,,0.0,False
-EXP-000354,WS/MP18155/2025-2026/249974,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2026-04-27,Jaswinder Singh,Payment Success,48450.0,,False,,,0.0,False
-EXP-000355,WS/MP18155/2025-2026/245961,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2026-06-22,Ram Ji Dass,Payment Success,383767.0,,False,,,0.0,False
-EXP-000356,WS/MP18155/2025-2026/245574,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2026-03-03,Anil Electric Works,Payment Success,386946.0,,False,,,0.0,False
-EXP-000357,WS/MP18155/2025-2026/245651,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2026-03-03,Sunny Electrical Co,Payment Success,188993.0,,False,,,0.0,False
-EXP-000358,WS/MP18156/2025-2026/185310,Punjab,CHARANJIT SINGH CHANNI,JALANDHAR(SC),2025-09-26,Suman Construction Company,Payment Success,2390636.0,,False,,,0.0,False
-EXP-000359,WS/MP18156/2025-2026/185310,Punjab,CHARANJIT SINGH CHANNI,JALANDHAR(SC),2025-07-08,SATISH AGGARWAL AND COMPANY,Payment Success,444908.0,,False,,,0.0,False
-EXP-000360,WS/MP18156/2025-2026/201764,Punjab,CHARANJIT SINGH CHANNI,JALANDHAR(SC),2025-09-26,The New Punjab Cooperative L C Society LTD,Payment Success,300039.0,,False,,,0.0,False
-EXP-000361,WS/MP18156/2025-2026/201764,Punjab,CHARANJIT SINGH CHANNI,JALANDHAR(SC),2025-09-30,The New Punjab Cooperative L C Society LTD,Payment Success,177779.0,,False,,,0.0,False
-EXP-000362,WS/MP18156/2025-2026/211024,Punjab,CHARANJIT SINGH CHANNI,JALANDHAR(SC),2026-01-21,Nav Rattan Industry,Payment Success,100000.0,,False,,,0.0,False
-EXP-000363,WS/MP18156/2025-2026/219859,Punjab,CHARANJIT SINGH CHANNI,JALANDHAR(SC),2026-09-01,Nikhil Enterprises,Payment In-Progress,94817.0,,False,,,0.0,False
-EXP-000364,WS/MP18156/2025-2026/213068,Punjab,CHARANJIT SINGH CHANNI,JALANDHAR(SC),2026-02-10,JVG ENTERPRISES,Payment Success,250000.0,,False,,,0.0,False
-EXP-000365,WS/MP18156/2025-2026/219857,Punjab,CHARANJIT SINGH CHANNI,JALANDHAR(SC),2026-02-25,The New Punjab Cooperative L C Society LTD,Payment Success,192168.0,,False,,,0.0,False
-EXP-000366,WS/MP18156/2025-2026/225098,Punjab,CHARANJIT SINGH CHANNI,JALANDHAR(SC),2026-05-27,CORAL ENGINEERS AND INNOVATIONS,Payment Success,317838.0,,False,,,0.0,False
-EXP-000367,WS/MP18156/2025-2026/225723,Punjab,CHARANJIT SINGH CHANNI,JALANDHAR(SC),2026-07-14,The Majhot COOP LANDC Society Ltd,Payment Success,187571.0,,False,,,0.0,False
-EXP-000368,WS/MP18156/2025-2026/185312,Punjab,CHARANJIT SINGH CHANNI,JALANDHAR(SC),2026-05-12,Su Solartech Systems Pvt Ltd,Payment Success,953445.0,,False,,,0.0,False
-EXP-000369,WS/MP18156/2025-2026/225107,Punjab,CHARANJIT SINGH CHANNI,JALANDHAR(SC),2026-02-13,MOHIT CONSTRUCTOR,Payment Success,386131.0,,False,,,0.0,False
-EXP-000370,WS/MP18156/2025-2026/225107,Punjab,CHARANJIT SINGH CHANNI,JALANDHAR(SC),2026-06-22,MOHIT CONSTRUCTOR,Payment Success,95215.0,,False,,,0.0,False
-EXP-000371,WS/MP18156/2026-2027/273840,Punjab,CHARANJIT SINGH CHANNI,JALANDHAR(SC),2026-05-13,Harnoor Singh,Payment Success,193609.0,,False,,,0.0,False
-EXP-000372,WS/MP18156/2026-2027/273854,Punjab,CHARANJIT SINGH CHANNI,JALANDHAR(SC),2026-05-13,Harnoor Singh,Payment Success,96707.0,,False,,,0.0,False
-EXP-000373,WS/MP18157/2024-2025/163206,Punjab,AMRINDER SINGH RAJA WARRING,LUDHIANA,2025-07-17,Garden Gym,Payment Success,399178.0,,False,,,0.0,False
-EXP-000374,WS/MP18157/2025-2026/198805,Punjab,AMRINDER SINGH RAJA WARRING,LUDHIANA,2025-09-17,DAVINDER SINGH,Payment Success,68000.0,,False,,,0.0,False
-EXP-000375,WS/MP18157/2025-2026/198805,Punjab,AMRINDER SINGH RAJA WARRING,LUDHIANA,2025-08-25,G N SANITARY AND TILE STORE,Payment Success,23860.0,,False,,,0.0,False
-EXP-000376,WS/MP18157/2025-2026/198805,Punjab,AMRINDER SINGH RAJA WARRING,LUDHIANA,2025-08-25,G N SANITARY AND TILE STORE,Payment Success,37140.0,,False,,,0.0,False
-EXP-000377,WS/MP18157/2025-2026/198805,Punjab,AMRINDER SINGH RAJA WARRING,LUDHIANA,2025-08-25,G N SANITARY AND TILE STORE,Payment Success,46064.0,,False,,,0.0,False
-EXP-000378,WS/MP18157/2025-2026/198805,Punjab,AMRINDER SINGH RAJA WARRING,LUDHIANA,2025-08-25,G N SANITARY AND TILE STORE,Payment Success,49400.0,,False,,,0.0,False
-EXP-000379,WS/MP18157/2025-2026/198805,Punjab,AMRINDER SINGH RAJA WARRING,LUDHIANA,2025-08-25,G N SANITARY AND TILE STORE,Payment Success,8536.0,,False,,,0.0,False
-EXP-000380,WS/MP18157/2025-2026/198805,Punjab,AMRINDER SINGH RAJA WARRING,LUDHIANA,2025-08-25,UBHI STEEL WORK,Payment Success,6998.0,,False,,,0.0,False
-EXP-000381,WS/MP18157/2025-2026/198805,Punjab,AMRINDER SINGH RAJA WARRING,LUDHIANA,2025-08-25,SURJAN CEMENT AGENCY,Payment Success,40002.0,,False,,,0.0,False
-EXP-000382,WS/MP18157/2025-2026/198805,Punjab,AMRINDER SINGH RAJA WARRING,LUDHIANA,2025-09-15,UBHI STEEL WORK,Payment Success,20000.0,,False,,,0.0,False
-EXP-000383,WS/MP18157/2025-2026/232177,Punjab,AMRINDER SINGH RAJA WARRING,LUDHIANA,2026-03-21,MITTAL TILES,Payment Success,100000.0,,False,,,0.0,False
-EXP-000384,WS/MP18157/2025-2026/239559,Punjab,AMRINDER SINGH RAJA WARRING,LUDHIANA,2026-05-25,SGP Aligarh,Payment Success,18250.0,,False,,,0.0,False
-EXP-000385,WS/MP18157/2025-2026/239559,Punjab,AMRINDER SINGH RAJA WARRING,LUDHIANA,2026-05-25,BS CONCRETE INDUSTRY,Payment Success,59150.0,,False,,,0.0,False
-EXP-000386,WS/MP18157/2025-2026/239559,Punjab,AMRINDER SINGH RAJA WARRING,LUDHIANA,2026-02-10,J and T CONCRETE INDUSTRY,Payment Success,100000.0,,False,,,0.0,False
-EXP-000387,WS/MP18157/2025-2026/239559,Punjab,AMRINDER SINGH RAJA WARRING,LUDHIANA,2026-02-10,SGP Aligarh,Payment Success,86000.0,,False,,,0.0,False
-EXP-000388,WS/MP18157/2025-2026/239559,Punjab,AMRINDER SINGH RAJA WARRING,LUDHIANA,2026-02-17,BS CONCRETE INDUSTRY,Payment Success,236600.0,,False,,,0.0,False
-EXP-000389,WS/MP18157/2025-2026/241166,Punjab,AMRINDER SINGH RAJA WARRING,LUDHIANA,2026-08-13,Su Solartech Systems Pvt Ltd,Payment Success,235557.0,,False,,,0.0,False
-EXP-000390,WS/MP18157/2025-2026/241170,Punjab,AMRINDER SINGH RAJA WARRING,LUDHIANA,2026-08-13,Su Solartech Systems Pvt Ltd,Payment Success,100953.0,,False,,,0.0,False
-EXP-000391,WS/MP18157/2025-2026/251538,Punjab,AMRINDER SINGH RAJA WARRING,LUDHIANA,2026-04-02,BOSS FITNESS EQUIPMENTS and FOODS,Payment Success,300000.0,,False,,,0.0,False
-EXP-000392,WS/MP18157/2025-2026/267152,Punjab,AMRINDER SINGH RAJA WARRING,LUDHIANA,2026-09-01,MS JAY BEE AND COMPANY,Payment In-Progress,18375.0,,False,,,0.0,False
-EXP-000393,WS/MP18157/2025-2026/267152,Punjab,AMRINDER SINGH RAJA WARRING,LUDHIANA,2026-09-01,BROTHER BUILDCON,Payment In-Progress,57992.0,,False,,,0.0,False
-EXP-000394,WS/MP18157/2025-2026/267152,Punjab,AMRINDER SINGH RAJA WARRING,LUDHIANA,2026-09-01,MR BOOTA SINGH,Payment In-Progress,64711.0,,False,,,0.0,False
-EXP-000395,WS/MP18157/2025-2026/267152,Punjab,AMRINDER SINGH RAJA WARRING,LUDHIANA,2026-06-26,MS JAY BEE AND COMPANY,Payment Success,44100.0,"Exact duplicate transaction record appears 3x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-D7A1043A1E774E6F,3,0.0,False
-EXP-000396,WS/MP18157/2025-2026/267152,Punjab,AMRINDER SINGH RAJA WARRING,LUDHIANA,2026-06-26,MS JAY BEE AND COMPANY,Payment Success,44100.0,"Exact duplicate transaction record appears 3x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-D7A1043A1E774E6F,3,44100.0,False
-EXP-000397,WS/MP18157/2025-2026/267152,Punjab,AMRINDER SINGH RAJA WARRING,LUDHIANA,2026-06-26,MS JAY BEE AND COMPANY,Payment Success,44100.0,"Exact duplicate transaction record appears 3x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-D7A1043A1E774E6F,3,44100.0,False
-EXP-000398,WS/MP18157/2025-2026/267152,Punjab,AMRINDER SINGH RAJA WARRING,LUDHIANA,2026-06-26,MANGAL SINGH,Payment Success,48048.0,,False,,,0.0,False
-EXP-000399,WS/MP18158/2025-2026/203151,Punjab,DR DHARAMVIRA GANDHI,PATIALA,2026-01-21,Fateh Agro Works,Payment Success,12000.0,,False,,,0.0,False
-EXP-000400,WS/MP18158/2025-2026/203151,Punjab,DR DHARAMVIRA GANDHI,PATIALA,2026-01-21,Gurpreet Singh,Payment Success,94380.0,,False,,,0.0,False
-EXP-000401,WS/MP18158/2025-2026/203151,Punjab,DR DHARAMVIRA GANDHI,PATIALA,2026-01-21,Gurpreet Singh,Payment Success,61710.0,,False,,,0.0,False
-EXP-000402,WS/MP18158/2025-2026/203151,Punjab,DR DHARAMVIRA GANDHI,PATIALA,2026-01-15,MUKHTIAR SINGH AND BROS,Payment Success,12450.0,,False,,,0.0,False
-EXP-000403,WS/MP18158/2025-2026/203151,Punjab,DR DHARAMVIRA GANDHI,PATIALA,2026-01-15,Bharpur Singh,Payment Success,44891.0,,False,,,0.0,False
-EXP-000404,WS/MP18158/2025-2026/199785,Punjab,DR DHARAMVIRA GANDHI,PATIALA,2025-12-12,MK INFRA,Payment Success,934831.0,,False,,,0.0,False
-EXP-000405,WS/MP18158/2025-2026/199794,Punjab,DR DHARAMVIRA GANDHI,PATIALA,2026-02-03,MK INFRA,Payment Success,83150.0,,False,,,0.0,False
-EXP-000406,WS/MP18158/2025-2026/199794,Punjab,DR DHARAMVIRA GANDHI,PATIALA,2026-03-03,MK INFRA,Payment Success,886138.0,,False,,,0.0,False
-EXP-000407,WS/MP18158/2025-2026/225709,Punjab,DR DHARAMVIRA GANDHI,PATIALA,2025-12-08,BEANT SINGH,Payment Success,16016.0,,False,,,0.0,False
-EXP-000408,WS/MP18158/2025-2026/225709,Punjab,DR DHARAMVIRA GANDHI,PATIALA,2025-12-08,BEANT SINGH,Payment Success,6084.0,,False,,,0.0,False
-EXP-000409,WS/MP18158/2025-2026/225709,Punjab,DR DHARAMVIRA GANDHI,PATIALA,2025-10-27,khalsa Tiles industries,Payment Success,50000.0,,False,,,0.0,False
-EXP-000410,WS/MP18158/2025-2026/225709,Punjab,DR DHARAMVIRA GANDHI,PATIALA,2025-11-29,BEANT SINGH,Payment Success,17000.0,,False,,,0.0,False
-EXP-000411,WS/MP18158/2025-2026/225709,Punjab,DR DHARAMVIRA GANDHI,PATIALA,2025-11-28,khalsa Tiles industries,Payment Success,44800.0,,False,,,0.0,False
-EXP-000412,WS/MP18158/2025-2026/225709,Punjab,DR DHARAMVIRA GANDHI,PATIALA,2025-11-24,GURMUKH SINGH,Payment Success,3600.0,,False,,,0.0,False
-EXP-000413,WS/MP18158/2025-2026/225709,Punjab,DR DHARAMVIRA GANDHI,PATIALA,2025-11-24,GURPREET TRADING CO,Payment Success,12500.0,,False,,,0.0,False
-EXP-000414,WS/MP18158/2025-2026/217344,Punjab,DR DHARAMVIRA GANDHI,PATIALA,2026-01-16,G S Contractor,Payment Success,244600.0,,False,,,0.0,False
-EXP-000415,WS/MP18158/2025-2026/231540,Punjab,DR DHARAMVIRA GANDHI,PATIALA,2026-08-13,UPPAL BUILDING MATERIAL,Payment Success,236183.0,,False,,,0.0,False
-EXP-000416,WS/MP18158/2025-2026/231540,Punjab,DR DHARAMVIRA GANDHI,PATIALA,2026-08-13,PANKAJ ELECTRICALS,Payment Success,29965.0,,False,,,0.0,False
-EXP-000417,WS/MP18158/2025-2026/231540,Punjab,DR DHARAMVIRA GANDHI,PATIALA,2026-08-06,Singla brick kiln,Payment Success,212583.0,,False,,,0.0,False
-EXP-000418,WS/MP18158/2025-2026/231540,Punjab,DR DHARAMVIRA GANDHI,PATIALA,2026-08-06,SINGLA IRON STORE,Payment Success,108158.0,,False,,,0.0,False
-EXP-000419,WS/MP18158/2025-2026/242834,Punjab,DR DHARAMVIRA GANDHI,PATIALA,2026-06-22,AMBEY BRICKS KILN CO,Payment Success,28800.0,,False,,,0.0,False
-EXP-000420,WS/MP18158/2025-2026/242834,Punjab,DR DHARAMVIRA GANDHI,PATIALA,2026-06-22,SHREE GANESH TRADING CO,Payment Success,28100.0,,False,,,0.0,False
-EXP-000421,WS/MP18158/2026-2027/222870,Punjab,DR DHARAMVIRA GANDHI,PATIALA,2026-04-15,Surinder Kumar Gupta,Payment Success,686892.0,,False,,,0.0,False
-EXP-000422,WS/MP18158/2026-2027/240352,Punjab,DR DHARAMVIRA GANDHI,PATIALA,2026-07-23,Baljeet Singh,Payment Success,267366.0,,False,,,0.0,False
-EXP-000423,WS/MP18314/2024-2025/141074,Punjab,GURMEET SINGH MEET HAYER,SANGRUR,2025-03-03,The Mahavir Society,Payment Success,72105.0,,False,,,0.0,False
-EXP-000424,WS/MP18314/2025-2026/190975,Punjab,GURMEET SINGH MEET HAYER,SANGRUR,2026-02-03,Sidhu Cement Store Fatehgarh Channa,Payment Success,47100.0,,False,,,0.0,False
-EXP-000425,WS/MP18314/2025-2026/190975,Punjab,GURMEET SINGH MEET HAYER,SANGRUR,2026-02-03,Sidhu Cement Store Fatehgarh Channa,Payment Success,39739.0,,False,,,0.0,False
-EXP-000426,WS/MP18314/2025-2026/190975,Punjab,GURMEET SINGH MEET HAYER,SANGRUR,2026-02-03,Dhanaula BKO,Payment Success,20400.0,"Exact duplicate transaction record appears 4x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-C9750A7FC9D6DA8B,4,0.0,False
-EXP-000427,WS/MP18314/2025-2026/190975,Punjab,GURMEET SINGH MEET HAYER,SANGRUR,2026-02-03,Dhanaula BKO,Payment Success,20400.0,"Exact duplicate transaction record appears 4x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-C9750A7FC9D6DA8B,4,20400.0,False
-EXP-000428,WS/MP18314/2025-2026/190975,Punjab,GURMEET SINGH MEET HAYER,SANGRUR,2026-02-03,Dhanaula BKO,Payment Success,20400.0,"Exact duplicate transaction record appears 4x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-C9750A7FC9D6DA8B,4,20400.0,False
-EXP-000429,WS/MP18314/2025-2026/190975,Punjab,GURMEET SINGH MEET HAYER,SANGRUR,2026-02-03,Dhanaula BKO,Payment Success,20400.0,"Exact duplicate transaction record appears 4x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-C9750A7FC9D6DA8B,4,20400.0,False
-EXP-000430,WS/MP18314/2025-2026/190975,Punjab,GURMEET SINGH MEET HAYER,SANGRUR,2026-02-03,Dhanaula BKO,Payment Success,6800.0,,False,,,0.0,False
-EXP-000431,WS/MP18314/2025-2026/219612,Punjab,GURMEET SINGH MEET HAYER,SANGRUR,2026-02-20,R K Traders,Payment Success,471780.0,,False,,,0.0,False
-EXP-000432,WS/MP18314/2025-2026/219612,Punjab,GURMEET SINGH MEET HAYER,SANGRUR,2026-05-08,SHREE RAM ENTERPRISES,Payment Success,156400.0,,False,,,0.0,False
-EXP-000433,WS/MP18314/2025-2026/219612,Punjab,GURMEET SINGH MEET HAYER,SANGRUR,2026-05-08,AH BUILDER AND CONTRACTOR,Payment Success,171820.0,,False,,,0.0,False
-EXP-000434,WS/MP18314/2025-2026/219612,Punjab,GURMEET SINGH MEET HAYER,SANGRUR,2026-03-17,JAGSEER SINGH,Payment Success,200000.0,,False,,,0.0,False
-EXP-000435,WS/MP18314/2025-2026/219458,Punjab,GURMEET SINGH MEET HAYER,SANGRUR,2026-07-14,Bhatia Tading Co,Payment Success,36451.0,,False,,,0.0,False
-EXP-000436,WS/MP18314/2025-2026/219458,Punjab,GURMEET SINGH MEET HAYER,SANGRUR,2026-04-01,Rayia bricks co,Payment Success,34000.0,"Exact duplicate transaction record appears 2x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-69F55D9477B46E25,2,0.0,False
-EXP-000437,WS/MP18314/2025-2026/219458,Punjab,GURMEET SINGH MEET HAYER,SANGRUR,2026-04-01,Rayia bricks co,Payment Success,34000.0,"Exact duplicate transaction record appears 2x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-69F55D9477B46E25,2,34000.0,False
-EXP-000438,WS/MP18314/2025-2026/219458,Punjab,GURMEET SINGH MEET HAYER,SANGRUR,2026-04-01,MS Ganesh cement store,Payment Success,9000.0,,False,,,0.0,False
-EXP-000439,WS/MP18314/2025-2026/219458,Punjab,GURMEET SINGH MEET HAYER,SANGRUR,2026-04-01,Shaina iron store ritu,Payment Success,13360.0,,False,,,0.0,False
-EXP-000440,WS/MP18314/2025-2026/219458,Punjab,GURMEET SINGH MEET HAYER,SANGRUR,2026-04-01,MS Ganesh cement store,Payment Success,73500.0,,False,,,0.0,False
-EXP-000441,WS/MP18314/2025-2026/219458,Punjab,GURMEET SINGH MEET HAYER,SANGRUR,2026-04-01,Krishna Marbles,Payment Success,8975.0,,False,,,0.0,False
-EXP-000442,WS/MP18314/2025-2026/219458,Punjab,GURMEET SINGH MEET HAYER,SANGRUR,2026-04-01,MS Ganesh cement store,Payment Success,6300.0,,False,,,0.0,False
-EXP-000443,WS/MP18314/2025-2026/219458,Punjab,GURMEET SINGH MEET HAYER,SANGRUR,2026-04-01,Ram krishan singh,Payment Success,84414.0,,False,,,0.0,False
-EXP-000444,WS/MP18314/2025-2026/219595,Punjab,GURMEET SINGH MEET HAYER,SANGRUR,2026-05-08,Dhanaula Pump Store,Payment Success,35530.0,,False,,,0.0,False
-EXP-000445,WS/MP18314/2025-2026/219595,Punjab,GURMEET SINGH MEET HAYER,SANGRUR,2026-05-08,Dhanaula Pump Store,Payment Success,34470.0,,False,,,0.0,False
-EXP-000446,WS/MP18314/2025-2026/219677,Punjab,GURMEET SINGH MEET HAYER,SANGRUR,2026-08-20,Ashoka Solar Energy Service Ludhiana,Payment Success,150000.0,,False,,,0.0,False
-EXP-000447,WS/MP18314/2025-2026/219470,Punjab,GURMEET SINGH MEET HAYER,SANGRUR,2026-06-25,ISHWAR Steel Industries,Payment Success,143617.0,,False,,,0.0,False
-EXP-000448,WS/MP18314/2025-2026/219470,Punjab,GURMEET SINGH MEET HAYER,SANGRUR,2026-06-25,Shere Punjab Trading Co,Payment Success,22656.0,,False,,,0.0,False
-EXP-000449,WS/MP18314/2025-2026/219470,Punjab,GURMEET SINGH MEET HAYER,SANGRUR,2026-06-25,Lakhvir Singh,Payment Success,22360.0,,False,,,0.0,False
-EXP-000450,WS/MP18314/2025-2026/262903,Punjab,GURMEET SINGH MEET HAYER,SANGRUR,2026-08-11,Goyal Sports And Trophy House,Payment Success,45000.0,,False,,,0.0,False
-EXP-000451,WS/MP18314/2026-2027/273533,Punjab,GURMEET SINGH MEET HAYER,SANGRUR,2026-08-17,Medica Enterprises,Payment Success,2092800.0,,False,,,0.0,False
-EXP-000452,WS/MP18314/2026-2027/273533,Punjab,GURMEET SINGH MEET HAYER,SANGRUR,2026-08-17,SKYBOAT MARKETING,Payment Success,156900.0,,False,,,0.0,False
+PB-EXP-000001,WS/MP381/2024-2025/153012,Punjab,Shri Gurjeet Singh Aujla,AMRITSAR,2025-01-02,THE CHAWINDA COOPRATIVE LABOUR AND CONSTRUCTION SOCIETY,Payment Success,492600.0,,False,,,0.0,False
+PB-EXP-000002,WS/MP381/2024-2025/153036,Punjab,Shri Gurjeet Singh Aujla,AMRITSAR,2025-03-06,SURINDER TRADERS,Payment Success,143320.0,,False,,,0.0,True
+PB-EXP-000003,WS/MP381/2024-2025/164560,Punjab,Shri Gurjeet Singh Aujla,AMRITSAR,2025-04-24,SARPANCH GRAM PANCHAYAT JAUNS,Payment Success,100585.0,,False,,,0.0,True
+PB-EXP-000004,WS/MP381/2024-2025/164560,Punjab,Shri Gurjeet Singh Aujla,AMRITSAR,2025-04-24,SARPANCH GRAM PANCHAYAT JAUNS,Payment Success,99415.0,,False,,,0.0,True
+PB-EXP-000005,WS/MP381/2025-2026/184099,Punjab,Shri Gurjeet Singh Aujla,AMRITSAR,2025-05-08,Pspcl West Sub Div Chheharta,Payment Success,20602.0,,False,,,0.0,True
+PB-EXP-000006,WS/MP381/2025-2026/203253,Punjab,Shri Gurjeet Singh Aujla,AMRITSAR,2025-09-01,SARPANCH GRAM PANCHAYAT JHANDEY,Payment Success,35000.0,"Exact duplicate transaction record appears 2x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-1AA0707E68D867E1,2,0.0,True
+PB-EXP-000007,WS/MP381/2025-2026/203253,Punjab,Shri Gurjeet Singh Aujla,AMRITSAR,2025-09-01,SARPANCH GRAM PANCHAYAT JHANDEY,Payment Success,35000.0,"Exact duplicate transaction record appears 2x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-1AA0707E68D867E1,2,35000.0,True
+PB-EXP-000008,WS/MP381/2025-2026/203253,Punjab,Shri Gurjeet Singh Aujla,AMRITSAR,2025-09-02,SARPANCH GRAM PANCHAYAT JHANDEY,Payment Success,170000.0,,False,,,0.0,True
+PB-EXP-000009,WS/MP381/2025-2026/203253,Punjab,Shri Gurjeet Singh Aujla,AMRITSAR,2025-09-02,SARPANCH GRAM PANCHAYAT JHANDEY,Payment Success,39000.0,"Exact duplicate transaction record appears 2x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-F7E2ABD5677579B8,2,0.0,True
+PB-EXP-000010,WS/MP381/2025-2026/203253,Punjab,Shri Gurjeet Singh Aujla,AMRITSAR,2025-09-02,SARPANCH GRAM PANCHAYAT JHANDEY,Payment Success,39000.0,"Exact duplicate transaction record appears 2x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-F7E2ABD5677579B8,2,39000.0,True
+PB-EXP-000011,WS/MP381/2025-2026/203253,Punjab,Shri Gurjeet Singh Aujla,AMRITSAR,2025-09-02,SARPANCH GRAM PANCHAYAT JHANDEY,Payment Success,49500.0,,False,,,0.0,True
+PB-EXP-000012,WS/MP381/2025-2026/203253,Punjab,Shri Gurjeet Singh Aujla,AMRITSAR,2025-09-02,SARPANCH GRAM PANCHAYAT JHANDEY,Payment Success,32500.0,,False,,,0.0,True
+PB-EXP-000013,WS/MP381/2025-2026/203216,Punjab,Shri Gurjeet Singh Aujla,AMRITSAR,2025-11-24,THE CHAWINDA COOPRATIVE LABOUR AND CONSTRUCTION SOCIETY,Payment Success,499998.0,,False,,,0.0,True
+PB-EXP-000014,WS/MP381/2025-2026/203216,Punjab,Shri Gurjeet Singh Aujla,AMRITSAR,2026-01-23,THE CHAWINDA COOPRATIVE LABOUR AND CONSTRUCTION SOCIETY,Payment Success,487925.0,,False,,,0.0,True
+PB-EXP-000015,WS/MP381/2025-2026/227441,Punjab,Shri Gurjeet Singh Aujla,AMRITSAR,2026-06-19,N S CONTRACTOR,Payment Success,925835.0,,False,,,0.0,True
+PB-EXP-000016,WS/MP381/2025-2026/262032,Punjab,Shri Gurjeet Singh Aujla,AMRITSAR,2026-04-10,SURINDER TRADERS,Payment Success,391488.0,,False,,,0.0,True
+PB-EXP-000017,WS/MP381/2025-2026/254856,Punjab,Shri Gurjeet Singh Aujla,AMRITSAR,2026-06-15,Sahota Building Material,Payment Success,309750.0,,False,,,0.0,True
+PB-EXP-000018,WS/MP381/2025-2026/254856,Punjab,Shri Gurjeet Singh Aujla,AMRITSAR,2026-06-15,Nangali Enterprises,Payment Success,389980.0,,False,,,0.0,True
+PB-EXP-000019,WS/MP381/2025-2026/254101,Punjab,Shri Gurjeet Singh Aujla,AMRITSAR,2026-07-13,JJ ENTERPRISES,Payment Success,614569.0,,False,,,0.0,True
+PB-EXP-000020,WS/MP381/2025-2026/254101,Punjab,Shri Gurjeet Singh Aujla,AMRITSAR,2026-07-13,JJ ENTERPRISES,Payment Success,303164.0,,False,,,0.0,True
+PB-EXP-000021,WS/MP381/2025-2026/254101,Punjab,Shri Gurjeet Singh Aujla,AMRITSAR,2026-07-13,JJ ENTERPRISES,Payment Success,546360.0,,False,,,0.0,True
+PB-EXP-000022,WS/MP381/2025-2026/254101,Punjab,Shri Gurjeet Singh Aujla,AMRITSAR,2026-07-15,JJ ENTERPRISES,Payment Success,582111.0,,False,,,0.0,True
+PB-EXP-000023,WS/MP381/2025-2026/254101,Punjab,Shri Gurjeet Singh Aujla,AMRITSAR,2026-05-21,JJ ENTERPRISES,Payment Success,439736.0,,False,,,0.0,True
+PB-EXP-000024,WS/MP381/2026-2027/275558,Punjab,Shri Gurjeet Singh Aujla,AMRITSAR,2026-07-29,THE CHAWINDA COOPRATIVE LABOUR AND CONSTRUCTION SOCIETY,Payment Success,489349.0,,False,,,0.0,True
+PB-EXP-000025,WS/MP381/2026-2027/278069,Punjab,Shri Gurjeet Singh Aujla,AMRITSAR,2026-07-30,SHEIKH FARID AGRO TECH,Payment Success,150000.0,,False,,,0.0,True
+PB-EXP-000026,WS/MP18311/2024-2025/142721,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2026-09-03,Jagdish Singh,Payment In-Progress,24128.0,,False,,,0.0,True
+PB-EXP-000027,WS/MP18311/2024-2025/142721,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2025-05-15,Saini Cement and Shuttering Store,Payment Success,20000.0,,False,,,0.0,True
+PB-EXP-000028,WS/MP18311/2024-2025/142721,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2025-05-15,Saini Cement and Shuttering Store,Payment Success,6300.0,,False,,,0.0,True
+PB-EXP-000029,WS/MP18311/2024-2025/142721,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2025-05-15,Saini Cement and Shuttering Store,Payment Success,9450.0,,False,,,0.0,True
+PB-EXP-000030,WS/MP18311/2024-2025/142721,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2025-05-15,Saini Cement and Shuttering Store,Payment Success,41976.0,,False,,,0.0,True
+PB-EXP-000031,WS/MP18311/2024-2025/143228,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2025-06-06,TAKIAR GYM INDUSTRY,Payment Success,118662.0,,False,,,0.0,True
+PB-EXP-000032,WS/MP18311/2024-2025/149557,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2025-02-24,Ms R B Construction Co,Payment Success,93220.0,,False,,,0.0,True
+PB-EXP-000033,WS/MP18311/2024-2025/149557,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2025-02-24,Ms R B Construction Co,Payment Success,92866.0,,False,,,0.0,True
+PB-EXP-000034,WS/MP18311/2024-2025/149557,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2025-02-24,Ms R B Construction Co,Payment Success,84134.0,,False,,,0.0,True
+PB-EXP-000035,WS/MP18311/2024-2025/149557,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2025-02-24,Ms R B Construction Co,Payment Success,33342.0,,False,,,0.0,True
+PB-EXP-000036,WS/MP18311/2024-2025/149557,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2025-02-24,Ms R B Construction Co,Payment Success,18880.0,,False,,,0.0,True
+PB-EXP-000037,WS/MP18311/2024-2025/149557,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2025-02-24,Ms R B Construction Co,Payment Success,37520.0,,False,,,0.0,True
+PB-EXP-000038,WS/MP18311/2024-2025/149557,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2025-02-24,NURAIN MIYAN,Payment Success,76560.0,,False,,,0.0,True
+PB-EXP-000039,WS/MP18311/2024-2025/149557,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2025-02-24,NURAIN MIYAN,Payment Success,63478.0,,False,,,0.0,True
+PB-EXP-000040,WS/MP18311/2024-2025/149556,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2026-04-23,The Nawanshahar janta coop L C Society LTD,Payment Success,152429.0,,False,,,0.0,False
+PB-EXP-000041,WS/MP18311/2024-2025/149556,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2025-12-31,The Nawanshahar janta coop L C Society LTD,Payment Success,847571.0,,False,,,0.0,False
+PB-EXP-000042,WS/MP18311/2024-2025/161353,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2026-05-13,PAWAN ENTERPRISES,Payment Success,156332.0,,False,,,0.0,False
+PB-EXP-000043,WS/MP18311/2024-2025/161353,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2026-05-13,GURU NANAK TRACTOR WORKS,Payment Success,43668.0,,False,,,0.0,False
+PB-EXP-000044,WS/MP18311/2025-2026/194233,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2026-02-05,THE GHAGGAR COP L C SOCIETY LTD ROPAR R,Payment Success,526743.0,,False,,,0.0,False
+PB-EXP-000045,WS/MP18311/2025-2026/194233,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2026-03-27,THE GHAGGAR COP L C SOCIETY LTD ROPAR R,Payment Success,432792.0,,False,,,0.0,False
+PB-EXP-000046,WS/MP18311/2025-2026/219463,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2026-05-13,Punjab Energy Development Agency,Payment Success,293025.0,,False,,,0.0,False
+PB-EXP-000047,WS/MP18311/2025-2026/221460,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2025-12-29,Shiva Builders,Payment Success,67578.0,,False,,,0.0,False
+PB-EXP-000048,WS/MP18311/2025-2026/221460,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2025-12-03,Shiva Builders,Payment Success,314378.0,,False,,,0.0,False
+PB-EXP-000049,WS/MP18311/2025-2026/221460,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2025-09-26,Shiva Builders,Payment Success,263174.0,,False,,,0.0,False
+PB-EXP-000050,WS/MP18311/2025-2026/219477,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2026-06-11,The Kitab Arr Publication,Payment Success,100000.0,,False,,,0.0,False
+PB-EXP-000051,WS/MP18311/2025-2026/231208,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2026-05-11,CRYSTAL GROUP OF CONSTRUCTION,Payment Success,15941.0,,False,,,0.0,False
+PB-EXP-000052,WS/MP18311/2025-2026/231208,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2026-05-11,rohit kumar,Payment Success,35874.0,,False,,,0.0,False
+PB-EXP-000053,WS/MP18311/2025-2026/231208,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2026-02-02,MS NEW LUXMI ELECTRIC CO,Payment Success,54817.0,,False,,,0.0,False
+PB-EXP-000054,WS/MP18311/2025-2026/231208,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2026-02-02,MS NEW LUXMI ELECTRIC CO,Payment Success,51744.0,,False,,,0.0,False
+PB-EXP-000055,WS/MP18311/2025-2026/231208,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2026-02-02,MS NEW LUXMI ELECTRIC CO,Payment Success,56782.0,,False,,,0.0,False
+PB-EXP-000056,WS/MP18311/2025-2026/231208,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2026-02-02,MS NEW LUXMI ELECTRIC CO,Payment Success,84842.0,,False,,,0.0,False
+PB-EXP-000057,WS/MP18311/2025-2026/231210,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2026-06-11,RS Industries,Payment Success,300000.0,,False,,,0.0,False
+PB-EXP-000058,WS/MP18311/2025-2026/234422,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2026-02-26,NIGAH WELDING WORKS RAHON,Payment Success,165420.0,,False,,,0.0,False
+PB-EXP-000059,WS/MP18311/2025-2026/255123,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2026-04-29,MODERN METAL CRAFTS,Payment Success,300000.0,,False,,,0.0,False
+PB-EXP-000060,WS/MP18311/2025-2026/259393,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2026-04-16,SADANAND,Payment Success,42600.0,,False,,,0.0,False
+PB-EXP-000061,WS/MP18311/2025-2026/259393,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2026-04-16,SADANAND,Payment Success,46800.0,,False,,,0.0,False
+PB-EXP-000062,WS/MP18311/2025-2026/259393,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2026-04-16,SADANAND,Payment Success,6600.0,,False,,,0.0,False
+PB-EXP-000063,WS/MP18311/2025-2026/259393,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2026-04-16,SADANAND,Payment Success,20800.0,,False,,,0.0,False
+PB-EXP-000064,WS/MP18311/2025-2026/259393,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2026-04-16,Shahi Brothers,Payment Success,30528.0,"Exact duplicate transaction record appears 2x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-F2B7F00BAFF32A94,2,0.0,False
+PB-EXP-000065,WS/MP18311/2025-2026/259393,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2026-04-16,SINGLA Cement Building Material Store,Payment Success,14000.0,,False,,,0.0,False
+PB-EXP-000066,WS/MP18311/2025-2026/259393,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2026-04-16,SINGLA Cement Building Material Store,Payment Success,15550.0,,False,,,0.0,False
+PB-EXP-000067,WS/MP18311/2025-2026/259393,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2026-04-16,SINGLA Cement Building Material Store,Payment Success,23400.0,,False,,,0.0,False
+PB-EXP-000068,WS/MP18311/2025-2026/259393,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2026-04-16,SINGLA Cement Building Material Store,Payment Success,42480.0,,False,,,0.0,False
+PB-EXP-000069,WS/MP18311/2025-2026/259393,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2026-04-16,Sohal Fabricators and Engg Works,Payment Success,21000.0,,False,,,0.0,False
+PB-EXP-000070,WS/MP18311/2025-2026/259393,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2026-04-16,JK Hardware Cement Store,Payment Success,29430.0,,False,,,0.0,False
+PB-EXP-000071,WS/MP18311/2025-2026/259393,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2026-04-16,JK Hardware Cement Store,Payment Success,41301.0,,False,,,0.0,False
+PB-EXP-000072,WS/MP18311/2025-2026/259393,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2026-04-16,JK Hardware Cement Store,Payment Success,24412.0,,False,,,0.0,False
+PB-EXP-000073,WS/MP18311/2025-2026/259393,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2026-04-16,JK Hardware Cement Store,Payment Success,39154.0,,False,,,0.0,False
+PB-EXP-000074,WS/MP18311/2025-2026/259393,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2026-04-16,JK Hardware Cement Store,Payment Success,12800.0,,False,,,0.0,False
+PB-EXP-000075,WS/MP18311/2025-2026/259393,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2026-04-16,Shahi Brothers,Payment Success,30528.0,"Exact duplicate transaction record appears 2x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-F2B7F00BAFF32A94,2,30528.0,False
+PB-EXP-000076,WS/MP18311/2025-2026/272270,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2026-07-04,KASANA BULIDING MATERIAL SUPPLIERS,Payment Success,49400.0,,False,,,0.0,False
+PB-EXP-000077,WS/MP18311/2025-2026/272270,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2026-07-04,PURI TRADERS,Payment Success,33587.0,,False,,,0.0,False
+PB-EXP-000078,WS/MP18311/2025-2026/272270,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2026-07-04,PURI TRADERS,Payment Success,41949.0,,False,,,0.0,False
+PB-EXP-000079,WS/MP18311/2025-2026/272270,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2026-07-04,PURI TRADERS,Payment Success,47622.0,,False,,,0.0,False
+PB-EXP-000080,WS/MP18311/2025-2026/272270,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2026-07-04,MS rAJESH KUMAR,Payment Success,28500.0,"Exact duplicate transaction record appears 2x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-E84310EF68E9EB25,2,0.0,False
+PB-EXP-000081,WS/MP18311/2025-2026/272270,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2026-07-04,MS rAJESH KUMAR,Payment Success,28500.0,"Exact duplicate transaction record appears 2x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-E84310EF68E9EB25,2,28500.0,False
+PB-EXP-000082,WS/MP18311/2025-2026/272270,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2026-07-04,RAKESH KUMAR PANDHI,Payment Success,45000.0,"Exact duplicate transaction record appears 3x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-27B0AD5608A7D29E,3,0.0,False
+PB-EXP-000083,WS/MP18311/2025-2026/272270,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2026-07-04,RAKESH KUMAR PANDHI,Payment Success,45000.0,"Exact duplicate transaction record appears 3x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-27B0AD5608A7D29E,3,45000.0,False
+PB-EXP-000084,WS/MP18311/2025-2026/272270,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,2026-07-04,RAKESH KUMAR PANDHI,Payment Success,45000.0,"Exact duplicate transaction record appears 3x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-27B0AD5608A7D29E,3,45000.0,False
+PB-EXP-000085,WS/MP716/2024-2025/140237,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2025-02-01,Sanjeev Choudhary Contractor,Payment Success,373000.0,,False,,,0.0,False
+PB-EXP-000086,WS/MP716/2024-2025/141305,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2025-04-24,Dhan Guru Nanak Tiles Hub,Payment Success,78000.0,,False,,,0.0,False
+PB-EXP-000087,WS/MP716/2025-2026/203936,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-05-05,Sai Enterprises,Payment Success,50882.0,,False,,,0.0,False
+PB-EXP-000088,WS/MP716/2025-2026/203936,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-05-05,MS Satkar BKO,Payment Success,23600.0,,False,,,0.0,False
+PB-EXP-000089,WS/MP716/2025-2026/203936,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-05-05,Rajnish Hardware Store,Payment Success,22865.0,,False,,,0.0,False
+PB-EXP-000090,WS/MP716/2025-2026/203936,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-05-05,Labh Singh,Payment Success,23812.0,,False,,,0.0,False
+PB-EXP-000091,WS/MP716/2025-2026/203936,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-05-05,Prem Sagar,Payment Success,43174.0,,False,,,0.0,False
+PB-EXP-000092,WS/MP716/2025-2026/203936,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-05-05,Rajvinder Singh,Payment Success,35667.0,,False,,,0.0,False
+PB-EXP-000093,WS/MP716/2025-2026/210122,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-04-15,GD GALAXY INFRA,Payment Success,115388.0,,False,,,0.0,False
+PB-EXP-000094,WS/MP716/2025-2026/210122,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-04-15,Municipal Corporation Bathinda,Payment Success,20362.0,,False,,,0.0,False
+PB-EXP-000095,WS/MP716/2025-2026/210123,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-06-22,MANJOT ENTERPRISES COMPANY,Payment Success,38400.0,,False,,,0.0,False
+PB-EXP-000096,WS/MP716/2025-2026/210356,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-02-02,Shiv Shakti Iron and Cement Store,Payment Success,45941.0,,False,,,0.0,False
+PB-EXP-000097,WS/MP716/2025-2026/210356,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-02-02,Shiv Shakti Iron and Cement Store,Payment Success,49500.0,,False,,,0.0,False
+PB-EXP-000098,WS/MP716/2025-2026/210356,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-02-02,Shiv Shakti Iron and Cement Store,Payment Success,47657.0,,False,,,0.0,False
+PB-EXP-000099,WS/MP716/2025-2026/210356,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-02-02,Shiv Shakti Iron and Cement Store,Payment Success,42240.0,,False,,,0.0,False
+PB-EXP-000100,WS/MP716/2025-2026/210356,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-02-02,Shiv Shakti Iron and Cement Store,Payment Success,18240.0,,False,,,0.0,False
+PB-EXP-000101,WS/MP716/2025-2026/210356,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-02-02,Guru Nanak Bricks Industries,Payment Success,8922.0,,False,,,0.0,False
+PB-EXP-000102,WS/MP716/2025-2026/210356,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-02-02,Varinder Kumar Contractor,Payment Success,114600.0,"Exact duplicate transaction record appears 2x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-778C03D32B990C89,2,0.0,False
+PB-EXP-000103,WS/MP716/2025-2026/210356,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-02-02,Varinder Kumar Contractor,Payment Success,114600.0,"Exact duplicate transaction record appears 2x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-778C03D32B990C89,2,114600.0,False
+PB-EXP-000104,WS/MP716/2025-2026/210356,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-02-02,Varinder Kumar Contractor,Payment Success,57300.0,,False,,,0.0,False
+PB-EXP-000105,WS/MP716/2025-2026/212401,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-05-04,SHAHEED BABA DHARAM SINGH SEKHON TRADERS,Payment Success,57750.0,"Exact duplicate transaction record appears 3x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-149A1C0570CAAE76,3,0.0,False
+PB-EXP-000106,WS/MP716/2025-2026/212401,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-05-04,SHAHEED BABA DHARAM SINGH SEKHON TRADERS,Payment Success,68400.0,"Exact duplicate transaction record appears 10x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-05145B1AA36D1B8A,10,0.0,False
+PB-EXP-000107,WS/MP716/2025-2026/212401,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-05-04,SHAHEED BABA DHARAM SINGH SEKHON TRADERS,Payment Success,68400.0,"Exact duplicate transaction record appears 10x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-05145B1AA36D1B8A,10,68400.0,False
+PB-EXP-000108,WS/MP716/2025-2026/212401,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-05-04,SHAHEED BABA DHARAM SINGH SEKHON TRADERS,Payment Success,68400.0,"Exact duplicate transaction record appears 10x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-05145B1AA36D1B8A,10,68400.0,False
+PB-EXP-000109,WS/MP716/2025-2026/212401,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-05-04,SHAHEED BABA DHARAM SINGH SEKHON TRADERS,Payment Success,57750.0,"Exact duplicate transaction record appears 3x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-149A1C0570CAAE76,3,57750.0,False
+PB-EXP-000110,WS/MP716/2025-2026/212401,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-05-04,SHAHEED BABA DHARAM SINGH SEKHON TRADERS,Payment Success,68400.0,"Exact duplicate transaction record appears 10x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-05145B1AA36D1B8A,10,68400.0,False
+PB-EXP-000111,WS/MP716/2025-2026/212401,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-05-04,SHAHEED BABA DHARAM SINGH SEKHON TRADERS,Payment Success,68400.0,"Exact duplicate transaction record appears 10x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-05145B1AA36D1B8A,10,68400.0,False
+PB-EXP-000112,WS/MP716/2025-2026/212401,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-05-04,SHAHEED BABA DHARAM SINGH SEKHON TRADERS,Payment Success,68400.0,"Exact duplicate transaction record appears 10x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-05145B1AA36D1B8A,10,68400.0,False
+PB-EXP-000113,WS/MP716/2025-2026/212401,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-05-04,SHAHEED BABA DHARAM SINGH SEKHON TRADERS,Payment Success,10100.0,,False,,,0.0,False
+PB-EXP-000114,WS/MP716/2025-2026/212401,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-05-04,PUNEET KUMAR SO HEM RAJ,Payment Success,132088.0,,False,,,0.0,False
+PB-EXP-000115,WS/MP716/2025-2026/212401,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-05-04,SHIVA BRICK KILN,Payment Success,96000.0,,False,,,0.0,False
+PB-EXP-000116,WS/MP716/2025-2026/212401,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-05-04,SHAHEED BABA DHARAM SINGH SEKHON TRADERS,Payment Success,45600.0,,False,,,0.0,False
+PB-EXP-000117,WS/MP716/2025-2026/212401,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-05-04,SHAHEED BABA DHARAM SINGH SEKHON TRADERS,Payment Success,57750.0,"Exact duplicate transaction record appears 3x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-149A1C0570CAAE76,3,57750.0,False
+PB-EXP-000118,WS/MP716/2025-2026/212401,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-05-04,SHAHEED BABA DHARAM SINGH SEKHON TRADERS,Payment Success,68400.0,"Exact duplicate transaction record appears 10x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-05145B1AA36D1B8A,10,68400.0,False
+PB-EXP-000119,WS/MP716/2025-2026/212401,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-05-04,SHAHEED BABA DHARAM SINGH SEKHON TRADERS,Payment Success,68400.0,"Exact duplicate transaction record appears 10x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-05145B1AA36D1B8A,10,68400.0,False
+PB-EXP-000120,WS/MP716/2025-2026/212401,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-05-04,SHAHEED BABA DHARAM SINGH SEKHON TRADERS,Payment Success,68400.0,"Exact duplicate transaction record appears 10x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-05145B1AA36D1B8A,10,68400.0,False
+PB-EXP-000121,WS/MP716/2025-2026/212401,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-05-04,SHAHEED BABA DHARAM SINGH SEKHON TRADERS,Payment Success,68400.0,"Exact duplicate transaction record appears 10x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-05145B1AA36D1B8A,10,68400.0,False
+PB-EXP-000122,WS/MP716/2025-2026/210098,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-04-21,garg iron and hardware store,Payment Success,36000.0,,False,,,0.0,False
+PB-EXP-000123,WS/MP716/2025-2026/210098,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-04-21,garg iron and hardware store,Payment Success,47717.0,,False,,,0.0,False
+PB-EXP-000124,WS/MP716/2025-2026/210098,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-04-21,garg iron and hardware store,Payment Success,34200.0,,False,,,0.0,False
+PB-EXP-000125,WS/MP716/2025-2026/210098,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-04-21,chouhan brick company,Payment Success,34000.0,,False,,,0.0,False
+PB-EXP-000126,WS/MP716/2025-2026/210098,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-04-21,ARIHANT TRADERS,Payment Success,725344.0,,False,,,0.0,False
+PB-EXP-000127,WS/MP716/2025-2026/210098,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-04-21,Sarabjit Singh,Payment Success,26152.0,,False,,,0.0,False
+PB-EXP-000128,WS/MP716/2025-2026/210098,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-04-21,hari ram,Payment Success,26152.0,,False,,,0.0,False
+PB-EXP-000129,WS/MP716/2025-2026/256575,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-03-19,GR ENTERPRISES SAS Nagar MOHALI,Payment Success,45000.0,,False,,,0.0,False
+PB-EXP-000130,WS/MP716/2025-2026/268216,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-03-17,Sham Lal Gurpta,Payment Success,678179.0,,False,,,0.0,False
+PB-EXP-000131,WS/MP716/2026-2027/273833,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-04-13,Sham Lal Gurpta,Payment Success,407918.0,,False,,,0.0,False
+PB-EXP-000132,WS/MP716/2026-2027/293027,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-09-02,Shinder pal Singh,Payment In-Progress,17613.0,,False,,,0.0,False
+PB-EXP-000133,WS/MP716/2026-2027/293027,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-09-02,Shinder pal Singh,Payment In-Progress,121053.0,,False,,,0.0,False
+PB-EXP-000134,WS/MP716/2026-2027/293027,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-09-02,SHRI RAM INTERLOCK TILE INDUSTRY,Payment In-Progress,45840.0,"Exact duplicate transaction record appears 5x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-3027E68FDDFBBC48,5,0.0,False
+PB-EXP-000135,WS/MP716/2026-2027/293027,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-09-02,SHRI RAM INTERLOCK TILE INDUSTRY,Payment In-Progress,45840.0,"Exact duplicate transaction record appears 5x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-3027E68FDDFBBC48,5,45840.0,False
+PB-EXP-000136,WS/MP716/2026-2027/293027,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-09-02,SHRI RAM INTERLOCK TILE INDUSTRY,Payment In-Progress,45840.0,"Exact duplicate transaction record appears 5x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-3027E68FDDFBBC48,5,45840.0,False
+PB-EXP-000137,WS/MP716/2026-2027/293027,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-09-02,SHRI RAM INTERLOCK TILE INDUSTRY,Payment In-Progress,45840.0,"Exact duplicate transaction record appears 5x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-3027E68FDDFBBC48,5,45840.0,False
+PB-EXP-000138,WS/MP716/2026-2027/293027,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,2026-09-02,SHRI RAM INTERLOCK TILE INDUSTRY,Payment In-Progress,45840.0,"Exact duplicate transaction record appears 5x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-3027E68FDDFBBC48,5,45840.0,False
+PB-EXP-000139,WS/MP18152/2024-2025/140030,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2026-01-28,RAJA CHIPS CHUGATH HOUSE,Payment Success,100000.0,,False,,,0.0,False
+PB-EXP-000140,WS/MP18152/2024-2025/163195,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2026-03-12,KSS Enterprises,Payment Success,148200.0,,False,,,0.0,False
+PB-EXP-000141,WS/MP18152/2024-2025/176303,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2025-08-26,MODERN METAL CRAFTS,Payment Success,993982.0,,False,,,0.0,False
+PB-EXP-000142,WS/MP18152/2025-2026/220386,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2025-10-17,JAI INTERLOCK and BUILDING MATERIAL STORE,Payment Success,45880.0,"Exact duplicate transaction record appears 7x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-FD53E604BEAD02C9,7,0.0,False
+PB-EXP-000143,WS/MP18152/2025-2026/220386,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2025-10-17,JAI INTERLOCK and BUILDING MATERIAL STORE,Payment Success,40145.0,"Exact duplicate transaction record appears 2x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-7EFDB8B3D614EBCB,2,0.0,False
+PB-EXP-000144,WS/MP18152/2025-2026/220386,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2025-10-17,JAI INTERLOCK and BUILDING MATERIAL STORE,Payment Success,45880.0,"Exact duplicate transaction record appears 7x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-FD53E604BEAD02C9,7,45880.0,False
+PB-EXP-000145,WS/MP18152/2025-2026/220386,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2025-10-17,JAI INTERLOCK and BUILDING MATERIAL STORE,Payment Success,45880.0,"Exact duplicate transaction record appears 7x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-FD53E604BEAD02C9,7,45880.0,False
+PB-EXP-000146,WS/MP18152/2025-2026/220386,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2025-10-17,JAI INTERLOCK and BUILDING MATERIAL STORE,Payment Success,40145.0,"Exact duplicate transaction record appears 2x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-7EFDB8B3D614EBCB,2,40145.0,False
+PB-EXP-000147,WS/MP18152/2025-2026/220386,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2025-10-17,JAI INTERLOCK and BUILDING MATERIAL STORE,Payment Success,45880.0,"Exact duplicate transaction record appears 7x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-FD53E604BEAD02C9,7,45880.0,False
+PB-EXP-000148,WS/MP18152/2025-2026/220386,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2025-10-17,JAI INTERLOCK and BUILDING MATERIAL STORE,Payment Success,45880.0,"Exact duplicate transaction record appears 7x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-FD53E604BEAD02C9,7,45880.0,False
+PB-EXP-000149,WS/MP18152/2025-2026/220386,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2025-10-17,JAI INTERLOCK and BUILDING MATERIAL STORE,Payment Success,45880.0,"Exact duplicate transaction record appears 7x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-FD53E604BEAD02C9,7,45880.0,False
+PB-EXP-000150,WS/MP18152/2025-2026/220386,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2025-10-17,JAI INTERLOCK and BUILDING MATERIAL STORE,Payment Success,45880.0,"Exact duplicate transaction record appears 7x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-FD53E604BEAD02C9,7,45880.0,False
+PB-EXP-000151,WS/MP18152/2025-2026/220386,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2025-10-17,jasvir singh so bant singh,Payment Success,104400.0,,False,,,0.0,False
+PB-EXP-000152,WS/MP18152/2025-2026/220386,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2026-07-01,jasvir singh so bant singh,Payment Success,150050.0,,False,,,0.0,False
+PB-EXP-000153,WS/MP18152/2025-2026/220386,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2026-06-26,JAI INTERLOCK and BUILDING MATERIAL STORE,Payment Success,40145.0,"Exact duplicate transaction record appears 6x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-4F224A9DAF39497D,6,0.0,False
+PB-EXP-000154,WS/MP18152/2025-2026/220386,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2026-06-26,JAI INTERLOCK and BUILDING MATERIAL STORE,Payment Success,40145.0,"Exact duplicate transaction record appears 6x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-4F224A9DAF39497D,6,40145.0,False
+PB-EXP-000155,WS/MP18152/2025-2026/220386,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2026-06-26,JAI INTERLOCK and BUILDING MATERIAL STORE,Payment Success,40145.0,"Exact duplicate transaction record appears 6x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-4F224A9DAF39497D,6,40145.0,False
+PB-EXP-000156,WS/MP18152/2025-2026/220386,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2026-06-26,JAI INTERLOCK and BUILDING MATERIAL STORE,Payment Success,40145.0,"Exact duplicate transaction record appears 6x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-4F224A9DAF39497D,6,40145.0,False
+PB-EXP-000157,WS/MP18152/2025-2026/220386,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2026-06-26,JAI INTERLOCK and BUILDING MATERIAL STORE,Payment Success,34410.0,,False,,,0.0,False
+PB-EXP-000158,WS/MP18152/2025-2026/220386,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2026-06-26,JAI INTERLOCK and BUILDING MATERIAL STORE,Payment Success,40145.0,"Exact duplicate transaction record appears 6x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-4F224A9DAF39497D,6,40145.0,False
+PB-EXP-000159,WS/MP18152/2025-2026/220386,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2026-06-26,JAI INTERLOCK and BUILDING MATERIAL STORE,Payment Success,45880.0,,False,,,0.0,False
+PB-EXP-000160,WS/MP18152/2025-2026/220386,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2026-06-26,JAI INTERLOCK and BUILDING MATERIAL STORE,Payment Success,40145.0,"Exact duplicate transaction record appears 6x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-4F224A9DAF39497D,6,40145.0,False
+PB-EXP-000161,WS/MP18152/2025-2026/220386,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2026-06-26,JAI INTERLOCK and BUILDING MATERIAL STORE,Payment Success,22940.0,,False,,,0.0,False
+PB-EXP-000162,WS/MP18152/2025-2026/220384,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2025-10-30,JAI INTERLOCK and BUILDING MATERIAL STORE,Payment Success,45880.0,"Exact duplicate transaction record appears 10x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-165805E68540A7A0,10,0.0,False
+PB-EXP-000163,WS/MP18152/2025-2026/220384,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2025-10-30,JAI INTERLOCK and BUILDING MATERIAL STORE,Payment Success,45880.0,"Exact duplicate transaction record appears 10x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-165805E68540A7A0,10,45880.0,False
+PB-EXP-000164,WS/MP18152/2025-2026/220384,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2025-10-30,JAI INTERLOCK and BUILDING MATERIAL STORE,Payment Success,45880.0,"Exact duplicate transaction record appears 10x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-165805E68540A7A0,10,45880.0,False
+PB-EXP-000165,WS/MP18152/2025-2026/220384,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2025-10-30,JAI INTERLOCK and BUILDING MATERIAL STORE,Payment Success,45880.0,"Exact duplicate transaction record appears 10x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-165805E68540A7A0,10,45880.0,False
+PB-EXP-000166,WS/MP18152/2025-2026/220384,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2025-10-30,JAI INTERLOCK and BUILDING MATERIAL STORE,Payment Success,45880.0,"Exact duplicate transaction record appears 10x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-165805E68540A7A0,10,45880.0,False
+PB-EXP-000167,WS/MP18152/2025-2026/220384,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2025-10-30,JAI INTERLOCK and BUILDING MATERIAL STORE,Payment Success,45880.0,"Exact duplicate transaction record appears 10x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-165805E68540A7A0,10,45880.0,False
+PB-EXP-000168,WS/MP18152/2025-2026/220384,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2025-10-30,JAI INTERLOCK and BUILDING MATERIAL STORE,Payment Success,45880.0,"Exact duplicate transaction record appears 10x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-165805E68540A7A0,10,45880.0,False
+PB-EXP-000169,WS/MP18152/2025-2026/220384,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2025-10-30,JAI INTERLOCK and BUILDING MATERIAL STORE,Payment Success,45880.0,"Exact duplicate transaction record appears 10x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-165805E68540A7A0,10,45880.0,False
+PB-EXP-000170,WS/MP18152/2025-2026/220384,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2025-10-30,JAI INTERLOCK and BUILDING MATERIAL STORE,Payment Success,45880.0,"Exact duplicate transaction record appears 10x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-165805E68540A7A0,10,45880.0,False
+PB-EXP-000171,WS/MP18152/2025-2026/220384,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2025-10-30,JAI INTERLOCK and BUILDING MATERIAL STORE,Payment Success,45880.0,"Exact duplicate transaction record appears 10x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-165805E68540A7A0,10,45880.0,False
+PB-EXP-000172,WS/MP18152/2025-2026/220384,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2026-08-05,jasvir singh so bant singh,Payment Success,145280.0,,False,,,0.0,False
+PB-EXP-000173,WS/MP18152/2025-2026/220384,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2026-08-05,jasvir singh so bant singh,Payment Success,173310.0,,False,,,0.0,False
+PB-EXP-000174,WS/MP18152/2025-2026/220384,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2026-08-05,JAI INTERLOCK and BUILDING MATERIAL STORE,Payment Success,45880.0,"Exact duplicate transaction record appears 11x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-BE838D72481686AB,11,0.0,False
+PB-EXP-000175,WS/MP18152/2025-2026/220384,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2026-08-05,JAI INTERLOCK and BUILDING MATERIAL STORE,Payment Success,45880.0,"Exact duplicate transaction record appears 11x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-BE838D72481686AB,11,45880.0,False
+PB-EXP-000176,WS/MP18152/2025-2026/220384,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2026-08-05,jasvir singh so bant singh,Payment Success,45880.0,,False,,,0.0,False
+PB-EXP-000177,WS/MP18152/2025-2026/220384,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2026-08-05,JAI INTERLOCK and BUILDING MATERIAL STORE,Payment Success,45880.0,"Exact duplicate transaction record appears 11x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-BE838D72481686AB,11,45880.0,False
+PB-EXP-000178,WS/MP18152/2025-2026/220384,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2026-08-05,JAI INTERLOCK and BUILDING MATERIAL STORE,Payment Success,45880.0,"Exact duplicate transaction record appears 11x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-BE838D72481686AB,11,45880.0,False
+PB-EXP-000179,WS/MP18152/2025-2026/220384,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2026-08-05,JAI INTERLOCK and BUILDING MATERIAL STORE,Payment Success,45880.0,"Exact duplicate transaction record appears 11x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-BE838D72481686AB,11,45880.0,False
+PB-EXP-000180,WS/MP18152/2025-2026/220384,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2026-08-05,JAI INTERLOCK and BUILDING MATERIAL STORE,Payment Success,34410.0,"Exact duplicate transaction record appears 2x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-063BDD6862BD7DB5,2,0.0,False
+PB-EXP-000181,WS/MP18152/2025-2026/220384,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2026-08-05,JAI INTERLOCK and BUILDING MATERIAL STORE,Payment Success,45880.0,"Exact duplicate transaction record appears 11x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-BE838D72481686AB,11,45880.0,False
+PB-EXP-000182,WS/MP18152/2025-2026/220384,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2026-08-05,JAI INTERLOCK and BUILDING MATERIAL STORE,Payment Success,45880.0,"Exact duplicate transaction record appears 11x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-BE838D72481686AB,11,45880.0,False
+PB-EXP-000183,WS/MP18152/2025-2026/220384,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2026-08-05,JAI INTERLOCK and BUILDING MATERIAL STORE,Payment Success,45880.0,"Exact duplicate transaction record appears 11x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-BE838D72481686AB,11,45880.0,False
+PB-EXP-000184,WS/MP18152/2025-2026/220384,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2026-08-05,JAI INTERLOCK and BUILDING MATERIAL STORE,Payment Success,40145.0,"Exact duplicate transaction record appears 2x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-D1F1AD55B880FDF0,2,0.0,False
+PB-EXP-000185,WS/MP18152/2025-2026/220384,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2026-08-05,JAI INTERLOCK and BUILDING MATERIAL STORE,Payment Success,45880.0,"Exact duplicate transaction record appears 11x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-BE838D72481686AB,11,45880.0,False
+PB-EXP-000186,WS/MP18152/2025-2026/220384,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2026-08-05,JAI INTERLOCK and BUILDING MATERIAL STORE,Payment Success,34410.0,"Exact duplicate transaction record appears 2x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-063BDD6862BD7DB5,2,34410.0,False
+PB-EXP-000187,WS/MP18152/2025-2026/220384,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2026-08-05,JAI INTERLOCK and BUILDING MATERIAL STORE,Payment Success,45880.0,"Exact duplicate transaction record appears 11x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-BE838D72481686AB,11,45880.0,False
+PB-EXP-000188,WS/MP18152/2025-2026/220384,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2026-08-05,JAI INTERLOCK and BUILDING MATERIAL STORE,Payment Success,40145.0,"Exact duplicate transaction record appears 2x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-D1F1AD55B880FDF0,2,40145.0,False
+PB-EXP-000189,WS/MP18152/2025-2026/220384,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2026-08-05,JAI INTERLOCK and BUILDING MATERIAL STORE,Payment Success,45880.0,"Exact duplicate transaction record appears 11x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-BE838D72481686AB,11,45880.0,False
+PB-EXP-000190,WS/MP18152/2025-2026/220384,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2026-08-05,JAI INTERLOCK and BUILDING MATERIAL STORE,Payment Success,22940.0,,False,,,0.0,False
+PB-EXP-000191,WS/MP18152/2025-2026/239727,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2026-04-16,GILL TRADING COMPANY,Payment Success,198000.0,,False,,,0.0,False
+PB-EXP-000192,WS/MP18152/2025-2026/239748,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2026-03-09,SHEIKH FARID AGRO TECH,Payment Success,200000.0,,False,,,0.0,False
+PB-EXP-000193,WS/MP18152/2025-2026/258374,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2026-02-28,GILL TRADING COMPANY,Payment Success,99000.0,,False,,,0.0,False
+PB-EXP-000194,WS/MP18152/2026-2027/293508,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),2026-09-02,GILL TRADING COMPANY,Payment In-Progress,249000.0,,False,,,0.0,False
+PB-EXP-000195,WS/MP380/2024-2025/167363,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2026-02-25,Goyal construction,Payment Success,495000.0,,False,,,0.0,False
+PB-EXP-000196,WS/MP380/2025-2026/193121,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2026-05-18,SARDAR INTERLOCK TILES,Payment Success,36833.0,,False,,,0.0,False
+PB-EXP-000197,WS/MP380/2025-2026/193121,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2025-12-29,GORKHA KHAN,Payment Success,20484.0,,False,,,0.0,False
+PB-EXP-000198,WS/MP380/2025-2026/193121,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2025-12-22,GURU NANAK AGRI HARDWARE AND SANITARY STORE,Payment Success,44000.0,,False,,,0.0,False
+PB-EXP-000199,WS/MP380/2025-2026/193121,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2025-12-22,SOAMI INTERLOCK TILE FACTORY,Payment Success,116500.0,,False,,,0.0,False
+PB-EXP-000200,WS/MP380/2025-2026/193121,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2025-12-22,SATJIT TRACTOR TROLLY JCB CRANE SERVICE,Payment Success,20532.0,,False,,,0.0,False
+PB-EXP-000201,WS/MP380/2025-2026/193121,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2025-11-24,PUNJAB BRICK INDUSTRIES,Payment Success,28800.0,,False,,,0.0,False
+PB-EXP-000202,WS/MP380/2025-2026/193121,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2025-11-24,HARRAI BELDING WORKS,Payment Success,50000.0,"Exact duplicate transaction record appears 2x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-E381DFC6BDA1CC37,2,0.0,False
+PB-EXP-000203,WS/MP380/2025-2026/193121,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2025-11-24,HARRAI BELDING WORKS,Payment Success,50000.0,"Exact duplicate transaction record appears 2x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-E381DFC6BDA1CC37,2,50000.0,False
+PB-EXP-000204,WS/MP380/2025-2026/193121,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2025-12-08,SOAMI INTERLOCK TILE FACTORY,Payment Success,140850.0,,False,,,0.0,False
+PB-EXP-000205,WS/MP380/2025-2026/193121,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2025-11-24,KK BUILDING MATERIAL STORE,Payment Success,45000.0,,False,,,0.0,False
+PB-EXP-000206,WS/MP380/2025-2026/193121,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2025-11-24,KK BUILDING MATERIAL STORE,Payment Success,47001.0,,False,,,0.0,False
+PB-EXP-000207,WS/MP380/2025-2026/209170,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2026-07-31,HARVINDER SINGH BRAR,Payment Success,79880.0,,False,,,0.0,False
+PB-EXP-000208,WS/MP380/2025-2026/209170,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2026-08-02,SURJIT SINGH BKO,Payment Success,25098.0,,False,,,0.0,False
+PB-EXP-000209,WS/MP380/2025-2026/209170,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2026-08-05,Waheguru steel shuttering store,Payment Success,25922.0,,False,,,0.0,False
+PB-EXP-000210,WS/MP380/2025-2026/209170,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2025-11-26,Waheguru steel shuttering store,Payment Success,118300.0,,False,,,0.0,False
+PB-EXP-000211,WS/MP380/2025-2026/209170,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2025-11-26,Waheguru steel shuttering store,Payment Success,50800.0,,False,,,0.0,False
+PB-EXP-000212,WS/MP380/2025-2026/209175,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2026-03-16,Tatla Departmental Store,Payment Success,49416.0,,False,,,0.0,False
+PB-EXP-000213,WS/MP380/2025-2026/209175,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2026-03-19,Tatla Departmental Store,Payment Success,23600.0,,False,,,0.0,False
+PB-EXP-000214,WS/MP380/2025-2026/209175,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2026-03-19,SB Bricks Gram Udyog,Payment Success,37498.0,,False,,,0.0,False
+PB-EXP-000215,WS/MP380/2025-2026/209175,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2026-03-19,Tatla Departmental Store,Payment Success,49416.0,"Exact duplicate transaction record appears 2x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-8CFBA01D587F05F7,2,0.0,False
+PB-EXP-000216,WS/MP380/2025-2026/209175,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2026-03-19,Tatla Departmental Store,Payment Success,49416.0,"Exact duplicate transaction record appears 2x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-8CFBA01D587F05F7,2,49416.0,False
+PB-EXP-000217,WS/MP380/2025-2026/209175,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2026-03-19,Tatla Departmental Store,Payment Success,22152.0,,False,,,0.0,False
+PB-EXP-000218,WS/MP380/2025-2026/209175,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2026-03-19,Tatla Departmental Store,Payment Success,48400.0,,False,,,0.0,False
+PB-EXP-000219,WS/MP380/2025-2026/209159,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2026-07-27,boparai building material,Payment Success,27487.0,,False,,,0.0,False
+PB-EXP-000220,WS/MP380/2025-2026/209159,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2026-07-27,boparai building material,Payment Success,9199.0,,False,,,0.0,False
+PB-EXP-000221,WS/MP380/2025-2026/209159,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2026-07-27,RAM KALAN LOHA BHANDAR,Payment Success,30000.0,,False,,,0.0,False
+PB-EXP-000222,WS/MP380/2025-2026/209159,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2026-07-27,BALVIR SINGH,Payment Success,23190.0,,False,,,0.0,False
+PB-EXP-000223,WS/MP380/2025-2026/209159,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2026-03-18,Dhillon Brick,Payment Success,22500.0,,False,,,0.0,False
+PB-EXP-000224,WS/MP380/2025-2026/209159,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2026-03-18,BALVIR SINGH,Payment Success,23190.0,,False,,,0.0,False
+PB-EXP-000225,WS/MP380/2025-2026/209159,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2025-12-30,boparai building material,Payment Success,40099.0,,False,,,0.0,False
+PB-EXP-000226,WS/MP380/2025-2026/209159,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2025-12-30,RAM KALAN LOHA BHANDAR,Payment Success,74775.0,,False,,,0.0,False
+PB-EXP-000227,WS/MP380/2025-2026/209159,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2025-12-30,BALVIR SINGH,Payment Success,46380.0,,False,,,0.0,False
+PB-EXP-000228,WS/MP380/2025-2026/213878,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2026-02-03,Khalsa Tiles Industry,Payment Success,34950.0,,False,,,0.0,False
+PB-EXP-000229,WS/MP380/2025-2026/213878,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2026-02-03,Khalsa Tiles Industry,Payment Success,46600.0,"Exact duplicate transaction record appears 3x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-BD8625FDB9EE2646,3,0.0,False
+PB-EXP-000230,WS/MP380/2025-2026/213878,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2026-02-03,Khalsa Tiles Industry,Payment Success,46600.0,"Exact duplicate transaction record appears 3x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-BD8625FDB9EE2646,3,46600.0,False
+PB-EXP-000231,WS/MP380/2025-2026/213878,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2026-02-03,Khalsa Tiles Industry,Payment Success,46600.0,"Exact duplicate transaction record appears 3x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-BD8625FDB9EE2646,3,46600.0,False
+PB-EXP-000232,WS/MP380/2025-2026/213878,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2026-02-03,Khalsa Building Materials,Payment Success,25250.0,,False,,,0.0,False
+PB-EXP-000233,WS/MP380/2025-2026/220672,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2025-09-12,LUDHIANA SALES CORPORATION PRIVATE LIMITED,Payment Success,999992.0,,False,,,0.0,False
+PB-EXP-000234,WS/MP380/2025-2026/220672,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2025-09-12,LUDHIANA SALES CORPORATION PRIVATE LIMITED,Payment Success,328009.0,,False,,,0.0,False
+PB-EXP-000235,WS/MP380/2025-2026/220672,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2025-09-12,LUDHIANA SALES CORPORATION PRIVATE LIMITED,Payment Success,597464.0,,False,,,0.0,False
+PB-EXP-000236,WS/MP380/2025-2026/219271,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2026-04-13,Rajat Sharma Contractor,Payment Success,12562.0,,False,,,0.0,False
+PB-EXP-000237,WS/MP380/2025-2026/235033,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2026-06-24,BALAJI BUILDERS,Payment Success,181873.0,,False,,,0.0,False
+PB-EXP-000238,WS/MP380/2025-2026/235033,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2026-04-20,BALAJI BUILDERS,Payment Success,863208.0,,False,,,0.0,False
+PB-EXP-000239,WS/MP380/2025-2026/238122,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2026-02-15,WELCOM BUILDING MATERIAL,Payment Success,24750.0,,False,,,0.0,False
+PB-EXP-000240,WS/MP380/2025-2026/238122,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2026-02-15,WELCOM BUILDING MATERIAL,Payment Success,6000.0,,False,,,0.0,False
+PB-EXP-000241,WS/MP380/2025-2026/238122,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2026-02-15,Punjab iron store,Payment Success,261249.0,,False,,,0.0,False
+PB-EXP-000242,WS/MP380/2025-2026/238122,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2026-02-15,MAAN CONCRETE,Payment Success,168000.0,,False,,,0.0,False
+PB-EXP-000243,WS/MP380/2025-2026/238122,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2026-02-15,MISTRI BALWINDER SINGH,Payment Success,25586.0,,False,,,0.0,False
+PB-EXP-000244,WS/MP380/2025-2026/238122,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2026-02-15,MISTRI BALWINDER SINGH,Payment Success,14414.0,,False,,,0.0,False
+PB-EXP-000245,WS/MP380/2025-2026/216855,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2026-02-13,Singh Building Material,Payment Success,615000.0,,False,,,0.0,False
+PB-EXP-000246,WS/MP380/2026-2027/279582,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2026-07-26,Sidhu and Company,Payment Success,763557.0,,False,,,0.0,False
+PB-EXP-000247,WS/MP380/2026-2027/279582,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2026-07-26,MS KANSAL CEMENT AND MACHINERY STORE,Payment Success,63200.0,,False,,,0.0,False
+PB-EXP-000248,WS/MP380/2026-2027/279201,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),2026-08-07,ZAKHMI SCIENCE AND SPORTS GOODS,Payment Success,200000.0,,False,,,0.0,False
+PB-EXP-000249,WS/MP18153/2024-2025/135260,Punjab,SHER SINGH GHUBAYA,FIROZPUR,2024-10-29,The Gill Sehkari Kirat te Ussari Sabha Ltd,Payment Success,197800.0,,False,,,0.0,False
+PB-EXP-000250,WS/MP18153/2024-2025/135260,Punjab,SHER SINGH GHUBAYA,FIROZPUR,2024-12-19,The Gill Sehkari Kirat te Ussari Sabha Ltd,Payment Success,34615.0,,False,,,0.0,False
+PB-EXP-000251,WS/MP18153/2024-2025/167828,Punjab,SHER SINGH GHUBAYA,FIROZPUR,2025-05-16,Ritesh Traders,Payment Success,400000.0,,False,,,0.0,False
+PB-EXP-000252,WS/MP18153/2024-2025/167828,Punjab,SHER SINGH GHUBAYA,FIROZPUR,2025-03-27,Ritesh Traders,Payment Success,503625.0,,False,,,0.0,False
+PB-EXP-000253,WS/MP18153/2024-2025/183043,Punjab,SHER SINGH GHUBAYA,FIROZPUR,2026-05-12,The Sidhu Kirat te Usari Sehkari Sabha ltd,Payment Success,240327.0,,False,,,0.0,False
+PB-EXP-000254,WS/MP18153/2025-2026/216816,Punjab,SHER SINGH GHUBAYA,FIROZPUR,2026-04-06,SHREE GURU RAM DASS AUTO SALES,Payment Success,432475.0,,False,,,0.0,False
+PB-EXP-000255,WS/MP18153/2025-2026/216816,Punjab,SHER SINGH GHUBAYA,FIROZPUR,2026-02-05,Sharda Enterprises,Payment Success,567525.0,,False,,,0.0,False
+PB-EXP-000256,WS/MP18153/2025-2026/238124,Punjab,SHER SINGH GHUBAYA,FIROZPUR,2026-05-14,SAT NARAIN MODI AND SONS,Payment Success,124800.0,,False,,,0.0,False
+PB-EXP-000257,WS/MP18153/2025-2026/238124,Punjab,SHER SINGH GHUBAYA,FIROZPUR,2026-05-14,Jaspal9855924367,Payment Success,25200.0,,False,,,0.0,False
+PB-EXP-000258,WS/MP18153/2025-2026/247298,Punjab,SHER SINGH GHUBAYA,FIROZPUR,2026-03-25,CHOUDHRY IRON STORE,Payment Success,50000.0,,False,,,0.0,False
+PB-EXP-000259,WS/MP18153/2025-2026/247298,Punjab,SHER SINGH GHUBAYA,FIROZPUR,2026-03-25,CHOUDHRY IRON STORE,Payment Success,27160.0,,False,,,0.0,False
+PB-EXP-000260,WS/MP18153/2025-2026/247298,Punjab,SHER SINGH GHUBAYA,FIROZPUR,2026-03-25,CHOUDHRY IRON STORE,Payment Success,47480.0,,False,,,0.0,False
+PB-EXP-000261,WS/MP18153/2025-2026/274494,Punjab,SHER SINGH GHUBAYA,FIROZPUR,2026-05-22,Ganotra Communications,Payment Success,198500.0,,False,,,0.0,False
+PB-EXP-000262,WS/MP18153/2026-2027/274487,Punjab,SHER SINGH GHUBAYA,FIROZPUR,2026-08-12,The Gill Sehkari Kirat te Ussari Sabha Ltd,Payment Success,246261.0,,False,,,0.0,False
+PB-EXP-000263,WS/MP18153/2026-2027/273973,Punjab,SHER SINGH GHUBAYA,FIROZPUR,2026-05-12,H S AGRO,Payment Success,240667.0,,False,,,0.0,False
+PB-EXP-000264,WS/MP18153/2026-2027/274486,Punjab,SHER SINGH GHUBAYA,FIROZPUR,2026-05-12,H S AGRO,Payment Success,240862.0,,False,,,0.0,False
+PB-EXP-000265,WS/MP18154/2025-2026/166556,Punjab,SUKHJINDER SINGH RANDHAWA,GURDASPUR,2026-05-25,Bajwa Interlock Tile Factory Building Material,Payment Success,95100.0,,False,,,0.0,False
+PB-EXP-000266,WS/MP18154/2025-2026/166556,Punjab,SUKHJINDER SINGH RANDHAWA,GURDASPUR,2026-02-02,Bajwa Interlock Tile Factory Building Material,Payment Success,204900.0,,False,,,0.0,False
+PB-EXP-000267,WS/MP18154/2025-2026/166557,Punjab,SUKHJINDER SINGH RANDHAWA,GURDASPUR,2026-02-15,Bajwa Interlock Tile Factory Building Material,Payment Success,90200.0,,False,,,0.0,False
+PB-EXP-000268,WS/MP18154/2025-2026/166557,Punjab,SUKHJINDER SINGH RANDHAWA,GURDASPUR,2026-02-12,Guru Nanak Tiles Factory,Payment Success,114700.0,,False,,,0.0,False
+PB-EXP-000269,WS/MP18154/2025-2026/196161,Punjab,SUKHJINDER SINGH RANDHAWA,GURDASPUR,2025-10-08,The Karam Singh Co op Ltd,Payment Success,189536.0,,False,,,0.0,False
+PB-EXP-000270,WS/MP18154/2025-2026/196161,Punjab,SUKHJINDER SINGH RANDHAWA,GURDASPUR,2025-10-08,The Karam Singh Co op Ltd,Payment Success,159896.0,,False,,,0.0,False
+PB-EXP-000271,WS/MP18154/2025-2026/196161,Punjab,SUKHJINDER SINGH RANDHAWA,GURDASPUR,2025-10-08,The Karam Singh Co op Ltd,Payment Success,396902.0,,False,,,0.0,False
+PB-EXP-000272,WS/MP18154/2025-2026/192238,Punjab,SUKHJINDER SINGH RANDHAWA,GURDASPUR,2026-03-26,R K Enterprises,Payment Success,354595.0,,False,,,0.0,False
+PB-EXP-000273,WS/MP18154/2025-2026/199726,Punjab,SUKHJINDER SINGH RANDHAWA,GURDASPUR,2026-02-10,Rakesh Kumar,Payment Success,50000.0,,False,,,0.0,False
+PB-EXP-000274,WS/MP18154/2025-2026/199726,Punjab,SUKHJINDER SINGH RANDHAWA,GURDASPUR,2026-02-08,Kesho Ram Aggarwal and sons,Payment Success,105000.0,,False,,,0.0,False
+PB-EXP-000275,WS/MP18154/2025-2026/199726,Punjab,SUKHJINDER SINGH RANDHAWA,GURDASPUR,2026-02-08,Satpal and Sons,Payment Success,52900.0,,False,,,0.0,False
+PB-EXP-000276,WS/MP18154/2025-2026/199726,Punjab,SUKHJINDER SINGH RANDHAWA,GURDASPUR,2026-02-08,Deepak Cement and Hardware Store,Payment Success,42090.0,,False,,,0.0,False
+PB-EXP-000277,WS/MP18154/2025-2026/196159,Punjab,SUKHJINDER SINGH RANDHAWA,GURDASPUR,2025-10-27,Talibpur Pandori Cooperative labour and construction society ltd,Payment Success,482323.0,,False,,,0.0,False
+PB-EXP-000278,WS/MP18154/2025-2026/196159,Punjab,SUKHJINDER SINGH RANDHAWA,GURDASPUR,2025-07-26,Talibpur Pandori Cooperative labour and construction society ltd,Payment Success,476677.0,,False,,,0.0,False
+PB-EXP-000279,WS/MP18154/2025-2026/250965,Punjab,SUKHJINDER SINGH RANDHAWA,GURDASPUR,2026-02-26,KULDEEP WELDING AND TRACTOR WORKSHOP,Payment Success,23035.0,,False,,,0.0,False
+PB-EXP-000280,WS/MP18154/2025-2026/250965,Punjab,SUKHJINDER SINGH RANDHAWA,GURDASPUR,2026-02-10,MOHAN SPORTS,Payment Success,40520.0,,False,,,0.0,False
+PB-EXP-000281,WS/MP18154/2025-2026/250965,Punjab,SUKHJINDER SINGH RANDHAWA,GURDASPUR,2026-02-10,MOHAN SPORTS,Payment Success,29390.0,,False,,,0.0,False
+PB-EXP-000282,WS/MP18154/2025-2026/250965,Punjab,SUKHJINDER SINGH RANDHAWA,GURDASPUR,2026-02-23,SINGH SAHUB FERBRICATORS,Payment Success,84286.0,,False,,,0.0,False
+PB-EXP-000283,WS/MP18154/2025-2026/250965,Punjab,SUKHJINDER SINGH RANDHAWA,GURDASPUR,2026-02-25,UNIVE TILES,Payment Success,163075.0,,False,,,0.0,False
+PB-EXP-000284,WS/MP18154/2025-2026/250965,Punjab,SUKHJINDER SINGH RANDHAWA,GURDASPUR,2026-01-29,SINGH SAHUB FERBRICATORS,Payment Success,264545.0,,False,,,0.0,False
+PB-EXP-000285,WS/MP18154/2025-2026/250965,Punjab,SUKHJINDER SINGH RANDHAWA,GURDASPUR,2026-05-09,Satnam Singh,Payment Success,28920.0,,False,,,0.0,False
+PB-EXP-000286,WS/MP18154/2025-2026/250965,Punjab,SUKHJINDER SINGH RANDHAWA,GURDASPUR,2026-05-11,LOVELY TRADING CO,Payment Success,66229.0,,False,,,0.0,False
+PB-EXP-000287,WS/MP18154/2025-2026/256975,Punjab,SUKHJINDER SINGH RANDHAWA,GURDASPUR,2026-05-19,The Mallowal Cooprative LC Society,Payment Success,422066.0,,False,,,0.0,False
+PB-EXP-000288,WS/MP18154/2025-2026/259402,Punjab,SUKHJINDER SINGH RANDHAWA,GURDASPUR,2026-04-11,Guru Nanak Tiles Factory,Payment Success,341220.0,,False,,,0.0,False
+PB-EXP-000289,WS/MP18154/2025-2026/259402,Punjab,SUKHJINDER SINGH RANDHAWA,GURDASPUR,2026-04-11,Guru Nanak Raita Bazri Supplier,Payment Success,158780.0,,False,,,0.0,False
+PB-EXP-000290,WS/MP18154/2025-2026/245786,Punjab,SUKHJINDER SINGH RANDHAWA,GURDASPUR,2026-03-17,KAHLOW TRADERS,Payment Success,318000.0,,False,,,0.0,False
+PB-EXP-000291,WS/MP18154/2025-2026/245786,Punjab,SUKHJINDER SINGH RANDHAWA,GURDASPUR,2026-03-17,BAWA BRICKS SUPPLY CO,Payment Success,49000.0,"Exact duplicate transaction record appears 2x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-1CD321AB13B74D22,2,0.0,False
+PB-EXP-000292,WS/MP18154/2025-2026/245786,Punjab,SUKHJINDER SINGH RANDHAWA,GURDASPUR,2026-03-17,BAWA BRICKS SUPPLY CO,Payment Success,49000.0,"Exact duplicate transaction record appears 2x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-1CD321AB13B74D22,2,49000.0,False
+PB-EXP-000293,WS/MP18154/2025-2026/245786,Punjab,SUKHJINDER SINGH RANDHAWA,GURDASPUR,2026-03-17,BAWA BRICKS SUPPLY CO,Payment Success,84000.0,,False,,,0.0,False
+PB-EXP-000294,WS/MP18154/2025-2026/250967,Punjab,SUKHJINDER SINGH RANDHAWA,GURDASPUR,2026-05-13,MITTAL PAVERS,Payment Success,248626.0,,False,,,0.0,False
+PB-EXP-000295,WS/MP18154/2026-2027/274565,Punjab,SUKHJINDER SINGH RANDHAWA,GURDASPUR,2026-07-07,BOBICONSTRUCTIONCOMPANY,Payment Success,239376.0,,False,,,0.0,False
+PB-EXP-000296,WS/MP18155/2024-2025/149131,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2025-03-12,Rakesh kumar Contractor,Payment Success,774300.0,,False,,,0.0,False
+PB-EXP-000297,WS/MP18155/2024-2025/141721,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2026-05-27,NAVNEET SINGH,Payment Success,193500.0,,False,,,0.0,False
+PB-EXP-000298,WS/MP18155/2024-2025/163661,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2025-06-16,United Pipe And Pavers,Payment Success,9030.0,,False,,,0.0,False
+PB-EXP-000299,WS/MP18155/2024-2025/163661,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2025-04-01,United Pipe And Pavers,Payment Success,46138.0,,False,,,0.0,False
+PB-EXP-000300,WS/MP18155/2024-2025/163661,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2025-04-01,United Pipe And Pavers,Payment Success,47141.0,"Exact duplicate transaction record appears 2x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-2ECB12F3D45E2DDF,2,0.0,False
+PB-EXP-000301,WS/MP18155/2024-2025/163661,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2025-04-01,United Pipe And Pavers,Payment Success,47141.0,"Exact duplicate transaction record appears 2x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-2ECB12F3D45E2DDF,2,47141.0,False
+PB-EXP-000302,WS/MP18155/2024-2025/163661,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2025-04-01,United Pipe And Pavers,Payment Success,26550.0,,False,,,0.0,False
+PB-EXP-000303,WS/MP18155/2024-2025/163661,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2025-04-01,Dinesh Singh Massean,Payment Success,4000.0,,False,,,0.0,False
+PB-EXP-000304,WS/MP18155/2024-2025/163661,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2025-04-01,Kashmir Lal Massean,Payment Success,20000.0,,False,,,0.0,False
+PB-EXP-000305,WS/MP18155/2025-2026/193697,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2025-10-29,Harbhjan Singh Massean,Payment Success,25200.0,,False,,,0.0,False
+PB-EXP-000306,WS/MP18155/2025-2026/193697,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2025-10-29,Harbhjan Singh Massean,Payment Success,72000.0,,False,,,0.0,False
+PB-EXP-000307,WS/MP18155/2025-2026/193697,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2025-09-01,Sandeep Cement Store baddon,Payment Success,73000.0,,False,,,0.0,False
+PB-EXP-000308,WS/MP18155/2025-2026/193697,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2025-09-01,Seema Aggarwal,Payment Success,27600.0,"Exact duplicate transaction record appears 5x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-62A76821B7482A4E,5,0.0,False
+PB-EXP-000309,WS/MP18155/2025-2026/193697,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2025-09-01,Seema Aggarwal,Payment Success,27600.0,"Exact duplicate transaction record appears 5x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-62A76821B7482A4E,5,27600.0,False
+PB-EXP-000310,WS/MP18155/2025-2026/193697,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2025-09-01,Seema Aggarwal,Payment Success,27600.0,"Exact duplicate transaction record appears 5x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-62A76821B7482A4E,5,27600.0,False
+PB-EXP-000311,WS/MP18155/2025-2026/193697,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2025-09-01,Seema Aggarwal,Payment Success,27600.0,"Exact duplicate transaction record appears 5x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-62A76821B7482A4E,5,27600.0,False
+PB-EXP-000312,WS/MP18155/2025-2026/193697,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2025-09-01,Seema Aggarwal,Payment Success,27600.0,"Exact duplicate transaction record appears 5x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-62A76821B7482A4E,5,27600.0,False
+PB-EXP-000313,WS/MP18155/2025-2026/193697,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2026-01-16,Sewa kaur Sons,Payment Success,24150.0,,False,,,0.0,False
+PB-EXP-000314,WS/MP18155/2025-2026/193697,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2026-01-16,Sewa kaur Sons,Payment Success,10350.0,,False,,,0.0,False
+PB-EXP-000315,WS/MP18155/2025-2026/193697,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2025-11-19,Sandeep Cement Store baddon,Payment Success,26140.0,,False,,,0.0,False
+PB-EXP-000316,WS/MP18155/2025-2026/193697,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2025-11-19,Sandeep Cement Store baddon,Payment Success,73284.0,,False,,,0.0,False
+PB-EXP-000317,WS/MP18155/2025-2026/193916,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2026-07-27,Gagandeep,Payment Success,24000.0,,False,,,0.0,False
+PB-EXP-000318,WS/MP18155/2025-2026/193916,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2026-08-08,Jai Singh and Sons,Payment Success,48750.0,"Exact duplicate transaction record appears 2x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-7D7220889263FA2A,2,0.0,False
+PB-EXP-000319,WS/MP18155/2025-2026/193916,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2026-08-08,Jai Singh and Sons,Payment Success,48750.0,"Exact duplicate transaction record appears 2x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-7D7220889263FA2A,2,48750.0,False
+PB-EXP-000320,WS/MP18155/2025-2026/193916,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2026-08-08,Jai Singh and Sons,Payment Success,39000.0,"Exact duplicate transaction record appears 2x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-D7C11FA892FCC0CE,2,0.0,False
+PB-EXP-000321,WS/MP18155/2025-2026/193916,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2026-08-08,Jai Singh and Sons,Payment Success,39000.0,"Exact duplicate transaction record appears 2x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-D7C11FA892FCC0CE,2,39000.0,False
+PB-EXP-000322,WS/MP18155/2025-2026/193916,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2025-11-18,Jai Singh and Sons,Payment Success,44400.0,,False,,,0.0,False
+PB-EXP-000323,WS/MP18155/2025-2026/193916,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2025-11-18,Jai Singh and Sons,Payment Success,49967.0,,False,,,0.0,False
+PB-EXP-000324,WS/MP18155/2025-2026/193916,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2025-11-24,Bikram Singh JCB Service,Payment Success,16000.0,,False,,,0.0,False
+PB-EXP-000325,WS/MP18155/2025-2026/193916,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2025-11-24,Bikram Singh JCB Service,Payment Success,14000.0,,False,,,0.0,False
+PB-EXP-000326,WS/MP18155/2025-2026/189291,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2026-08-26,The Boparai Co Op Society Ltd,Payment In-Progress,249000.0,,False,,,0.0,False
+PB-EXP-000327,WS/MP18155/2025-2026/189291,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2025-12-26,Deepak Kumar,Payment Success,641741.0,,False,,,0.0,False
+PB-EXP-000328,WS/MP18155/2025-2026/212567,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2026-03-02,The Nai Abadi Co Op L and C Society Ltd,Payment Success,911592.0,,False,,,0.0,False
+PB-EXP-000329,WS/MP18155/2025-2026/215381,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2026-06-23,Ramgarhia Construction Works,Payment Success,1000000.0,,False,,,0.0,False
+PB-EXP-000330,WS/MP18155/2025-2026/234976,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2026-01-08,Kumar Traders,Payment Success,49059.0,,False,,,0.0,False
+PB-EXP-000331,WS/MP18155/2025-2026/238468,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2025-11-19,Bharat Solar And Mechanical Works,Payment Success,129000.0,,False,,,0.0,False
+PB-EXP-000332,WS/MP18155/2025-2026/239008,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2025-11-20,Tiwari Electricals,Payment Success,129000.0,,False,,,0.0,False
+PB-EXP-000333,WS/MP18155/2025-2026/249579,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2026-03-10,Kalzidhar Cement,Payment Success,27750.0,,False,,,0.0,False
+PB-EXP-000334,WS/MP18155/2025-2026/249579,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2026-03-10,Manju Bala Massn,Payment Success,31200.0,,False,,,0.0,False
+PB-EXP-000335,WS/MP18155/2025-2026/249579,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2026-02-20,United Pipe And Pavers Inds,Payment Success,136785.0,,False,,,0.0,False
+PB-EXP-000336,WS/MP18155/2025-2026/249579,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2026-02-20,Thind Enterprise,Payment Success,12000.0,,False,,,0.0,False
+PB-EXP-000337,WS/MP18155/2025-2026/249579,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2026-02-20,Seema Aggarwal,Payment Success,96000.0,,False,,,0.0,False
+PB-EXP-000338,WS/MP18155/2025-2026/249579,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2026-04-27,Bawa Interlock Tiles,Payment Success,68400.0,,False,,,0.0,False
+PB-EXP-000339,WS/MP18155/2025-2026/249579,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2026-04-27,SAHOTA CEMENT PIPE WORKS,Payment Success,68393.0,,False,,,0.0,False
+PB-EXP-000340,WS/MP18155/2025-2026/249579,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2026-04-27,Thind Enterprise,Payment Success,24600.0,,False,,,0.0,False
+PB-EXP-000341,WS/MP18155/2025-2026/249579,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2026-04-27,Kalzidhar Cement,Payment Success,18000.0,,False,,,0.0,False
+PB-EXP-000342,WS/MP18155/2025-2026/249579,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2026-04-27,Manju Bala Massn,Payment Success,16872.0,,False,,,0.0,False
+PB-EXP-000343,WS/MP18155/2025-2026/249974,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2026-06-12,Heer Paint Store,Payment Success,37535.0,,False,,,0.0,False
+PB-EXP-000344,WS/MP18155/2025-2026/249974,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2026-06-12,Jaswinder Singh,Payment Success,58500.0,,False,,,0.0,False
+PB-EXP-000345,WS/MP18155/2025-2026/249974,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2026-06-12,Saini Welding Store,Payment Success,22500.0,,False,,,0.0,False
+PB-EXP-000346,WS/MP18155/2025-2026/249974,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2026-06-12,MR BALWINDER,Payment Success,15000.0,,False,,,0.0,False
+PB-EXP-000347,WS/MP18155/2025-2026/249974,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2026-06-24,Jaswinder Singh,Payment Success,3428.0,,False,,,0.0,False
+PB-EXP-000348,WS/MP18155/2025-2026/249974,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2026-06-24,Sewa kaur Sons,Payment Success,9000.0,,False,,,0.0,False
+PB-EXP-000349,WS/MP18155/2025-2026/249974,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2026-06-22,Daljit Kumar Thakerwal,Payment Success,65020.0,,False,,,0.0,False
+PB-EXP-000350,WS/MP18155/2025-2026/249974,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2026-05-11,Daljit Singh XBAS,Payment Success,18144.0,,False,,,0.0,False
+PB-EXP-000351,WS/MP18155/2025-2026/249974,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2026-04-27,Sidhu Hardware Paint Store,Payment Success,24190.0,,False,,,0.0,False
+PB-EXP-000352,WS/MP18155/2025-2026/249974,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2026-04-27,Sewa kaur Sons,Payment Success,16200.0,,False,,,0.0,False
+PB-EXP-000353,WS/MP18155/2025-2026/249974,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2026-04-27,SATGURU SANITATION,Payment Success,32033.0,,False,,,0.0,False
+PB-EXP-000354,WS/MP18155/2025-2026/249974,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2026-04-27,Jaswinder Singh,Payment Success,48450.0,,False,,,0.0,False
+PB-EXP-000355,WS/MP18155/2025-2026/245961,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2026-06-22,Ram Ji Dass,Payment Success,383767.0,,False,,,0.0,False
+PB-EXP-000356,WS/MP18155/2025-2026/245574,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2026-03-03,Anil Electric Works,Payment Success,386946.0,,False,,,0.0,False
+PB-EXP-000357,WS/MP18155/2025-2026/245651,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),2026-03-03,Sunny Electrical Co,Payment Success,188993.0,,False,,,0.0,False
+PB-EXP-000358,WS/MP18156/2025-2026/185310,Punjab,CHARANJIT SINGH CHANNI,JALANDHAR(SC),2025-09-26,Suman Construction Company,Payment Success,2390636.0,,False,,,0.0,False
+PB-EXP-000359,WS/MP18156/2025-2026/185310,Punjab,CHARANJIT SINGH CHANNI,JALANDHAR(SC),2025-07-08,SATISH AGGARWAL AND COMPANY,Payment Success,444908.0,,False,,,0.0,False
+PB-EXP-000360,WS/MP18156/2025-2026/201764,Punjab,CHARANJIT SINGH CHANNI,JALANDHAR(SC),2025-09-26,The New Punjab Cooperative L C Society LTD,Payment Success,300039.0,,False,,,0.0,False
+PB-EXP-000361,WS/MP18156/2025-2026/201764,Punjab,CHARANJIT SINGH CHANNI,JALANDHAR(SC),2025-09-30,The New Punjab Cooperative L C Society LTD,Payment Success,177779.0,,False,,,0.0,False
+PB-EXP-000362,WS/MP18156/2025-2026/211024,Punjab,CHARANJIT SINGH CHANNI,JALANDHAR(SC),2026-01-21,Nav Rattan Industry,Payment Success,100000.0,,False,,,0.0,False
+PB-EXP-000363,WS/MP18156/2025-2026/219859,Punjab,CHARANJIT SINGH CHANNI,JALANDHAR(SC),2026-09-01,Nikhil Enterprises,Payment In-Progress,94817.0,,False,,,0.0,False
+PB-EXP-000364,WS/MP18156/2025-2026/213068,Punjab,CHARANJIT SINGH CHANNI,JALANDHAR(SC),2026-02-10,JVG ENTERPRISES,Payment Success,250000.0,,False,,,0.0,False
+PB-EXP-000365,WS/MP18156/2025-2026/219857,Punjab,CHARANJIT SINGH CHANNI,JALANDHAR(SC),2026-02-25,The New Punjab Cooperative L C Society LTD,Payment Success,192168.0,,False,,,0.0,False
+PB-EXP-000366,WS/MP18156/2025-2026/225098,Punjab,CHARANJIT SINGH CHANNI,JALANDHAR(SC),2026-05-27,CORAL ENGINEERS AND INNOVATIONS,Payment Success,317838.0,,False,,,0.0,False
+PB-EXP-000367,WS/MP18156/2025-2026/225723,Punjab,CHARANJIT SINGH CHANNI,JALANDHAR(SC),2026-07-14,The Majhot COOP LANDC Society Ltd,Payment Success,187571.0,,False,,,0.0,False
+PB-EXP-000368,WS/MP18156/2025-2026/185312,Punjab,CHARANJIT SINGH CHANNI,JALANDHAR(SC),2026-05-12,Su Solartech Systems Pvt Ltd,Payment Success,953445.0,,False,,,0.0,False
+PB-EXP-000369,WS/MP18156/2025-2026/225107,Punjab,CHARANJIT SINGH CHANNI,JALANDHAR(SC),2026-02-13,MOHIT CONSTRUCTOR,Payment Success,386131.0,,False,,,0.0,False
+PB-EXP-000370,WS/MP18156/2025-2026/225107,Punjab,CHARANJIT SINGH CHANNI,JALANDHAR(SC),2026-06-22,MOHIT CONSTRUCTOR,Payment Success,95215.0,,False,,,0.0,False
+PB-EXP-000371,WS/MP18156/2026-2027/273840,Punjab,CHARANJIT SINGH CHANNI,JALANDHAR(SC),2026-05-13,Harnoor Singh,Payment Success,193609.0,,False,,,0.0,False
+PB-EXP-000372,WS/MP18156/2026-2027/273854,Punjab,CHARANJIT SINGH CHANNI,JALANDHAR(SC),2026-05-13,Harnoor Singh,Payment Success,96707.0,,False,,,0.0,False
+PB-EXP-000373,WS/MP18157/2024-2025/163206,Punjab,AMRINDER SINGH RAJA WARRING,LUDHIANA,2025-07-17,Garden Gym,Payment Success,399178.0,,False,,,0.0,False
+PB-EXP-000374,WS/MP18157/2025-2026/198805,Punjab,AMRINDER SINGH RAJA WARRING,LUDHIANA,2025-09-17,DAVINDER SINGH,Payment Success,68000.0,,False,,,0.0,False
+PB-EXP-000375,WS/MP18157/2025-2026/198805,Punjab,AMRINDER SINGH RAJA WARRING,LUDHIANA,2025-08-25,G N SANITARY AND TILE STORE,Payment Success,23860.0,,False,,,0.0,False
+PB-EXP-000376,WS/MP18157/2025-2026/198805,Punjab,AMRINDER SINGH RAJA WARRING,LUDHIANA,2025-08-25,G N SANITARY AND TILE STORE,Payment Success,37140.0,,False,,,0.0,False
+PB-EXP-000377,WS/MP18157/2025-2026/198805,Punjab,AMRINDER SINGH RAJA WARRING,LUDHIANA,2025-08-25,G N SANITARY AND TILE STORE,Payment Success,46064.0,,False,,,0.0,False
+PB-EXP-000378,WS/MP18157/2025-2026/198805,Punjab,AMRINDER SINGH RAJA WARRING,LUDHIANA,2025-08-25,G N SANITARY AND TILE STORE,Payment Success,49400.0,,False,,,0.0,False
+PB-EXP-000379,WS/MP18157/2025-2026/198805,Punjab,AMRINDER SINGH RAJA WARRING,LUDHIANA,2025-08-25,G N SANITARY AND TILE STORE,Payment Success,8536.0,,False,,,0.0,False
+PB-EXP-000380,WS/MP18157/2025-2026/198805,Punjab,AMRINDER SINGH RAJA WARRING,LUDHIANA,2025-08-25,UBHI STEEL WORK,Payment Success,6998.0,,False,,,0.0,False
+PB-EXP-000381,WS/MP18157/2025-2026/198805,Punjab,AMRINDER SINGH RAJA WARRING,LUDHIANA,2025-08-25,SURJAN CEMENT AGENCY,Payment Success,40002.0,,False,,,0.0,False
+PB-EXP-000382,WS/MP18157/2025-2026/198805,Punjab,AMRINDER SINGH RAJA WARRING,LUDHIANA,2025-09-15,UBHI STEEL WORK,Payment Success,20000.0,,False,,,0.0,False
+PB-EXP-000383,WS/MP18157/2025-2026/232177,Punjab,AMRINDER SINGH RAJA WARRING,LUDHIANA,2026-03-21,MITTAL TILES,Payment Success,100000.0,,False,,,0.0,False
+PB-EXP-000384,WS/MP18157/2025-2026/239559,Punjab,AMRINDER SINGH RAJA WARRING,LUDHIANA,2026-05-25,SGP Aligarh,Payment Success,18250.0,,False,,,0.0,False
+PB-EXP-000385,WS/MP18157/2025-2026/239559,Punjab,AMRINDER SINGH RAJA WARRING,LUDHIANA,2026-05-25,BS CONCRETE INDUSTRY,Payment Success,59150.0,,False,,,0.0,False
+PB-EXP-000386,WS/MP18157/2025-2026/239559,Punjab,AMRINDER SINGH RAJA WARRING,LUDHIANA,2026-02-10,J and T CONCRETE INDUSTRY,Payment Success,100000.0,,False,,,0.0,False
+PB-EXP-000387,WS/MP18157/2025-2026/239559,Punjab,AMRINDER SINGH RAJA WARRING,LUDHIANA,2026-02-10,SGP Aligarh,Payment Success,86000.0,,False,,,0.0,False
+PB-EXP-000388,WS/MP18157/2025-2026/239559,Punjab,AMRINDER SINGH RAJA WARRING,LUDHIANA,2026-02-17,BS CONCRETE INDUSTRY,Payment Success,236600.0,,False,,,0.0,False
+PB-EXP-000389,WS/MP18157/2025-2026/241166,Punjab,AMRINDER SINGH RAJA WARRING,LUDHIANA,2026-08-13,Su Solartech Systems Pvt Ltd,Payment Success,235557.0,,False,,,0.0,False
+PB-EXP-000390,WS/MP18157/2025-2026/241170,Punjab,AMRINDER SINGH RAJA WARRING,LUDHIANA,2026-08-13,Su Solartech Systems Pvt Ltd,Payment Success,100953.0,,False,,,0.0,False
+PB-EXP-000391,WS/MP18157/2025-2026/251538,Punjab,AMRINDER SINGH RAJA WARRING,LUDHIANA,2026-04-02,BOSS FITNESS EQUIPMENTS and FOODS,Payment Success,300000.0,,False,,,0.0,False
+PB-EXP-000392,WS/MP18157/2025-2026/267152,Punjab,AMRINDER SINGH RAJA WARRING,LUDHIANA,2026-09-01,MS JAY BEE AND COMPANY,Payment In-Progress,18375.0,,False,,,0.0,False
+PB-EXP-000393,WS/MP18157/2025-2026/267152,Punjab,AMRINDER SINGH RAJA WARRING,LUDHIANA,2026-09-01,BROTHER BUILDCON,Payment In-Progress,57992.0,,False,,,0.0,False
+PB-EXP-000394,WS/MP18157/2025-2026/267152,Punjab,AMRINDER SINGH RAJA WARRING,LUDHIANA,2026-09-01,MR BOOTA SINGH,Payment In-Progress,64711.0,,False,,,0.0,False
+PB-EXP-000395,WS/MP18157/2025-2026/267152,Punjab,AMRINDER SINGH RAJA WARRING,LUDHIANA,2026-06-26,MS JAY BEE AND COMPANY,Payment Success,44100.0,"Exact duplicate transaction record appears 3x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-D7A1043A1E774E6F,3,0.0,False
+PB-EXP-000396,WS/MP18157/2025-2026/267152,Punjab,AMRINDER SINGH RAJA WARRING,LUDHIANA,2026-06-26,MS JAY BEE AND COMPANY,Payment Success,44100.0,"Exact duplicate transaction record appears 3x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-D7A1043A1E774E6F,3,44100.0,False
+PB-EXP-000397,WS/MP18157/2025-2026/267152,Punjab,AMRINDER SINGH RAJA WARRING,LUDHIANA,2026-06-26,MS JAY BEE AND COMPANY,Payment Success,44100.0,"Exact duplicate transaction record appears 3x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-D7A1043A1E774E6F,3,44100.0,False
+PB-EXP-000398,WS/MP18157/2025-2026/267152,Punjab,AMRINDER SINGH RAJA WARRING,LUDHIANA,2026-06-26,MANGAL SINGH,Payment Success,48048.0,,False,,,0.0,False
+PB-EXP-000399,WS/MP18158/2025-2026/203151,Punjab,DR DHARAMVIRA GANDHI,PATIALA,2026-01-21,Fateh Agro Works,Payment Success,12000.0,,False,,,0.0,False
+PB-EXP-000400,WS/MP18158/2025-2026/203151,Punjab,DR DHARAMVIRA GANDHI,PATIALA,2026-01-21,Gurpreet Singh,Payment Success,94380.0,,False,,,0.0,False
+PB-EXP-000401,WS/MP18158/2025-2026/203151,Punjab,DR DHARAMVIRA GANDHI,PATIALA,2026-01-21,Gurpreet Singh,Payment Success,61710.0,,False,,,0.0,False
+PB-EXP-000402,WS/MP18158/2025-2026/203151,Punjab,DR DHARAMVIRA GANDHI,PATIALA,2026-01-15,MUKHTIAR SINGH AND BROS,Payment Success,12450.0,,False,,,0.0,False
+PB-EXP-000403,WS/MP18158/2025-2026/203151,Punjab,DR DHARAMVIRA GANDHI,PATIALA,2026-01-15,Bharpur Singh,Payment Success,44891.0,,False,,,0.0,False
+PB-EXP-000404,WS/MP18158/2025-2026/199785,Punjab,DR DHARAMVIRA GANDHI,PATIALA,2025-12-12,MK INFRA,Payment Success,934831.0,,False,,,0.0,False
+PB-EXP-000405,WS/MP18158/2025-2026/199794,Punjab,DR DHARAMVIRA GANDHI,PATIALA,2026-02-03,MK INFRA,Payment Success,83150.0,,False,,,0.0,False
+PB-EXP-000406,WS/MP18158/2025-2026/199794,Punjab,DR DHARAMVIRA GANDHI,PATIALA,2026-03-03,MK INFRA,Payment Success,886138.0,,False,,,0.0,False
+PB-EXP-000407,WS/MP18158/2025-2026/225709,Punjab,DR DHARAMVIRA GANDHI,PATIALA,2025-12-08,BEANT SINGH,Payment Success,16016.0,,False,,,0.0,False
+PB-EXP-000408,WS/MP18158/2025-2026/225709,Punjab,DR DHARAMVIRA GANDHI,PATIALA,2025-12-08,BEANT SINGH,Payment Success,6084.0,,False,,,0.0,False
+PB-EXP-000409,WS/MP18158/2025-2026/225709,Punjab,DR DHARAMVIRA GANDHI,PATIALA,2025-10-27,khalsa Tiles industries,Payment Success,50000.0,,False,,,0.0,False
+PB-EXP-000410,WS/MP18158/2025-2026/225709,Punjab,DR DHARAMVIRA GANDHI,PATIALA,2025-11-29,BEANT SINGH,Payment Success,17000.0,,False,,,0.0,False
+PB-EXP-000411,WS/MP18158/2025-2026/225709,Punjab,DR DHARAMVIRA GANDHI,PATIALA,2025-11-28,khalsa Tiles industries,Payment Success,44800.0,,False,,,0.0,False
+PB-EXP-000412,WS/MP18158/2025-2026/225709,Punjab,DR DHARAMVIRA GANDHI,PATIALA,2025-11-24,GURMUKH SINGH,Payment Success,3600.0,,False,,,0.0,False
+PB-EXP-000413,WS/MP18158/2025-2026/225709,Punjab,DR DHARAMVIRA GANDHI,PATIALA,2025-11-24,GURPREET TRADING CO,Payment Success,12500.0,,False,,,0.0,False
+PB-EXP-000414,WS/MP18158/2025-2026/217344,Punjab,DR DHARAMVIRA GANDHI,PATIALA,2026-01-16,G S Contractor,Payment Success,244600.0,,False,,,0.0,False
+PB-EXP-000415,WS/MP18158/2025-2026/231540,Punjab,DR DHARAMVIRA GANDHI,PATIALA,2026-08-13,UPPAL BUILDING MATERIAL,Payment Success,236183.0,,False,,,0.0,False
+PB-EXP-000416,WS/MP18158/2025-2026/231540,Punjab,DR DHARAMVIRA GANDHI,PATIALA,2026-08-13,PANKAJ ELECTRICALS,Payment Success,29965.0,,False,,,0.0,False
+PB-EXP-000417,WS/MP18158/2025-2026/231540,Punjab,DR DHARAMVIRA GANDHI,PATIALA,2026-08-06,Singla brick kiln,Payment Success,212583.0,,False,,,0.0,False
+PB-EXP-000418,WS/MP18158/2025-2026/231540,Punjab,DR DHARAMVIRA GANDHI,PATIALA,2026-08-06,SINGLA IRON STORE,Payment Success,108158.0,,False,,,0.0,False
+PB-EXP-000419,WS/MP18158/2025-2026/242834,Punjab,DR DHARAMVIRA GANDHI,PATIALA,2026-06-22,AMBEY BRICKS KILN CO,Payment Success,28800.0,,False,,,0.0,False
+PB-EXP-000420,WS/MP18158/2025-2026/242834,Punjab,DR DHARAMVIRA GANDHI,PATIALA,2026-06-22,SHREE GANESH TRADING CO,Payment Success,28100.0,,False,,,0.0,False
+PB-EXP-000421,WS/MP18158/2026-2027/222870,Punjab,DR DHARAMVIRA GANDHI,PATIALA,2026-04-15,Surinder Kumar Gupta,Payment Success,686892.0,,False,,,0.0,False
+PB-EXP-000422,WS/MP18158/2026-2027/240352,Punjab,DR DHARAMVIRA GANDHI,PATIALA,2026-07-23,Baljeet Singh,Payment Success,267366.0,,False,,,0.0,False
+PB-EXP-000423,WS/MP18314/2024-2025/141074,Punjab,GURMEET SINGH MEET HAYER,SANGRUR,2025-03-03,The Mahavir Society,Payment Success,72105.0,,False,,,0.0,False
+PB-EXP-000424,WS/MP18314/2025-2026/190975,Punjab,GURMEET SINGH MEET HAYER,SANGRUR,2026-02-03,Sidhu Cement Store Fatehgarh Channa,Payment Success,47100.0,,False,,,0.0,False
+PB-EXP-000425,WS/MP18314/2025-2026/190975,Punjab,GURMEET SINGH MEET HAYER,SANGRUR,2026-02-03,Sidhu Cement Store Fatehgarh Channa,Payment Success,39739.0,,False,,,0.0,False
+PB-EXP-000426,WS/MP18314/2025-2026/190975,Punjab,GURMEET SINGH MEET HAYER,SANGRUR,2026-02-03,Dhanaula BKO,Payment Success,20400.0,"Exact duplicate transaction record appears 4x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-C9750A7FC9D6DA8B,4,0.0,False
+PB-EXP-000427,WS/MP18314/2025-2026/190975,Punjab,GURMEET SINGH MEET HAYER,SANGRUR,2026-02-03,Dhanaula BKO,Payment Success,20400.0,"Exact duplicate transaction record appears 4x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-C9750A7FC9D6DA8B,4,20400.0,False
+PB-EXP-000428,WS/MP18314/2025-2026/190975,Punjab,GURMEET SINGH MEET HAYER,SANGRUR,2026-02-03,Dhanaula BKO,Payment Success,20400.0,"Exact duplicate transaction record appears 4x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-C9750A7FC9D6DA8B,4,20400.0,False
+PB-EXP-000429,WS/MP18314/2025-2026/190975,Punjab,GURMEET SINGH MEET HAYER,SANGRUR,2026-02-03,Dhanaula BKO,Payment Success,20400.0,"Exact duplicate transaction record appears 4x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-C9750A7FC9D6DA8B,4,20400.0,False
+PB-EXP-000430,WS/MP18314/2025-2026/190975,Punjab,GURMEET SINGH MEET HAYER,SANGRUR,2026-02-03,Dhanaula BKO,Payment Success,6800.0,,False,,,0.0,False
+PB-EXP-000431,WS/MP18314/2025-2026/219612,Punjab,GURMEET SINGH MEET HAYER,SANGRUR,2026-02-20,R K Traders,Payment Success,471780.0,,False,,,0.0,False
+PB-EXP-000432,WS/MP18314/2025-2026/219612,Punjab,GURMEET SINGH MEET HAYER,SANGRUR,2026-05-08,SHREE RAM ENTERPRISES,Payment Success,156400.0,,False,,,0.0,False
+PB-EXP-000433,WS/MP18314/2025-2026/219612,Punjab,GURMEET SINGH MEET HAYER,SANGRUR,2026-05-08,AH BUILDER AND CONTRACTOR,Payment Success,171820.0,,False,,,0.0,False
+PB-EXP-000434,WS/MP18314/2025-2026/219612,Punjab,GURMEET SINGH MEET HAYER,SANGRUR,2026-03-17,JAGSEER SINGH,Payment Success,200000.0,,False,,,0.0,False
+PB-EXP-000435,WS/MP18314/2025-2026/219458,Punjab,GURMEET SINGH MEET HAYER,SANGRUR,2026-07-14,Bhatia Tading Co,Payment Success,36451.0,,False,,,0.0,False
+PB-EXP-000436,WS/MP18314/2025-2026/219458,Punjab,GURMEET SINGH MEET HAYER,SANGRUR,2026-04-01,Rayia bricks co,Payment Success,34000.0,"Exact duplicate transaction record appears 2x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-69F55D9477B46E25,2,0.0,False
+PB-EXP-000437,WS/MP18314/2025-2026/219458,Punjab,GURMEET SINGH MEET HAYER,SANGRUR,2026-04-01,Rayia bricks co,Payment Success,34000.0,"Exact duplicate transaction record appears 2x in source for this Work_ID (same date, vendor, status, amount).",True,DUP-69F55D9477B46E25,2,34000.0,False
+PB-EXP-000438,WS/MP18314/2025-2026/219458,Punjab,GURMEET SINGH MEET HAYER,SANGRUR,2026-04-01,MS Ganesh cement store,Payment Success,9000.0,,False,,,0.0,False
+PB-EXP-000439,WS/MP18314/2025-2026/219458,Punjab,GURMEET SINGH MEET HAYER,SANGRUR,2026-04-01,Shaina iron store ritu,Payment Success,13360.0,,False,,,0.0,False
+PB-EXP-000440,WS/MP18314/2025-2026/219458,Punjab,GURMEET SINGH MEET HAYER,SANGRUR,2026-04-01,MS Ganesh cement store,Payment Success,73500.0,,False,,,0.0,False
+PB-EXP-000441,WS/MP18314/2025-2026/219458,Punjab,GURMEET SINGH MEET HAYER,SANGRUR,2026-04-01,Krishna Marbles,Payment Success,8975.0,,False,,,0.0,False
+PB-EXP-000442,WS/MP18314/2025-2026/219458,Punjab,GURMEET SINGH MEET HAYER,SANGRUR,2026-04-01,MS Ganesh cement store,Payment Success,6300.0,,False,,,0.0,False
+PB-EXP-000443,WS/MP18314/2025-2026/219458,Punjab,GURMEET SINGH MEET HAYER,SANGRUR,2026-04-01,Ram krishan singh,Payment Success,84414.0,,False,,,0.0,False
+PB-EXP-000444,WS/MP18314/2025-2026/219595,Punjab,GURMEET SINGH MEET HAYER,SANGRUR,2026-05-08,Dhanaula Pump Store,Payment Success,35530.0,,False,,,0.0,False
+PB-EXP-000445,WS/MP18314/2025-2026/219595,Punjab,GURMEET SINGH MEET HAYER,SANGRUR,2026-05-08,Dhanaula Pump Store,Payment Success,34470.0,,False,,,0.0,False
+PB-EXP-000446,WS/MP18314/2025-2026/219677,Punjab,GURMEET SINGH MEET HAYER,SANGRUR,2026-08-20,Ashoka Solar Energy Service Ludhiana,Payment Success,150000.0,,False,,,0.0,False
+PB-EXP-000447,WS/MP18314/2025-2026/219470,Punjab,GURMEET SINGH MEET HAYER,SANGRUR,2026-06-25,ISHWAR Steel Industries,Payment Success,143617.0,,False,,,0.0,False
+PB-EXP-000448,WS/MP18314/2025-2026/219470,Punjab,GURMEET SINGH MEET HAYER,SANGRUR,2026-06-25,Shere Punjab Trading Co,Payment Success,22656.0,,False,,,0.0,False
+PB-EXP-000449,WS/MP18314/2025-2026/219470,Punjab,GURMEET SINGH MEET HAYER,SANGRUR,2026-06-25,Lakhvir Singh,Payment Success,22360.0,,False,,,0.0,False
+PB-EXP-000450,WS/MP18314/2025-2026/262903,Punjab,GURMEET SINGH MEET HAYER,SANGRUR,2026-08-11,Goyal Sports And Trophy House,Payment Success,45000.0,,False,,,0.0,False
+PB-EXP-000451,WS/MP18314/2026-2027/273533,Punjab,GURMEET SINGH MEET HAYER,SANGRUR,2026-08-17,Medica Enterprises,Payment Success,2092800.0,,False,,,0.0,False
+PB-EXP-000452,WS/MP18314/2026-2027/273533,Punjab,GURMEET SINGH MEET HAYER,SANGRUR,2026-08-17,SKYBOAT MARKETING,Payment Success,156900.0,,False,,,0.0,False
