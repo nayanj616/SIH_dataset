@@ -1,0 +1,390 @@
+expenditure_id,work_id,state,mp_name,constituency,expenditure_date,vendor_name,payment_status,fund_disbursed_amount,data_notes,is_exact_duplicate,duplicate_group_id,duplicate_group_size,potential_duplicate_amount,expenditure_without_matching_work
+EXP-000001,WS/MP477/2026-2027/274288,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-09-03,bisht trading company,Payment In-Progress,122244.0,,False,,,0.0,False
+EXP-000002,WS/MP477/2026-2027/274288,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-09-03,bdo lamgara royalty,Payment In-Progress,8481.0,,False,,,0.0,False
+EXP-000003,WS/MP477/2026-2027/274288,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-09-03,DHARAM MER,Payment In-Progress,6720.0,,False,,,0.0,False
+EXP-000004,WS/MP477/2026-2027/274288,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-09-03,KISHAN SINGH,Payment In-Progress,10100.0,,False,,,0.0,False
+EXP-000005,WS/MP477/2026-2027/274288,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-09-03,uma devi,Payment In-Progress,11648.0,,False,,,0.0,False
+EXP-000006,WS/MP477/2026-2027/274288,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-09-03,hema devi,Payment In-Progress,7168.0,,False,,,0.0,False
+EXP-000007,WS/MP477/2026-2027/274288,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-09-03,rajendra singh,Payment In-Progress,10100.0,,False,,,0.0,False
+EXP-000008,WS/MP477/2026-2027/274288,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-09-03,sunita devi,Payment In-Progress,11648.0,,False,,,0.0,False
+EXP-000009,WS/MP477/2026-2027/274283,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-08-27,bdo lamgara royalty,Payment In-Progress,11058.0,,False,,,0.0,False
+EXP-000010,WS/MP477/2026-2027/274283,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-08-27,bhuwan chandra joshi,Payment In-Progress,12096.0,,False,,,0.0,False
+EXP-000011,WS/MP477/2026-2027/274283,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-08-27,diksha joshi,Payment In-Progress,12096.0,,False,,,0.0,False
+EXP-000012,WS/MP477/2026-2027/274283,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-08-27,pushpa devi,Payment In-Progress,12096.0,,False,,,0.0,False
+EXP-000013,WS/MP477/2026-2027/274283,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-08-27,hansa devi,Payment In-Progress,12096.0,,False,,,0.0,False
+EXP-000014,WS/MP477/2026-2027/274283,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-08-27,basant ballbh joshi,Payment In-Progress,13130.0,,False,,,0.0,False
+EXP-000015,WS/MP021/2026-2027/262617,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2026-08-20,Nityanand Palariya,Payment In-Progress,100000.0,,False,,,0.0,False
+EXP-000016,WS/MP477/2026-2027/262173,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-09-03,MUKESH WALDIA,Payment In-Progress,149550.0,,False,,,0.0,False
+EXP-000017,WS/MP477/2026-2027/279794,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-09-02,PRABHA DEVI,Payment In-Progress,5700.0,,False,,,0.0,False
+EXP-000018,WS/MP477/2026-2027/279794,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-09-02,MANJU DEVI,Payment In-Progress,5400.0,,False,,,0.0,False
+EXP-000019,WS/MP477/2026-2027/279794,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-09-02,REETA BISHT,Payment In-Progress,5400.0,,False,,,0.0,False
+EXP-000020,WS/MP477/2026-2027/279794,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-09-02,HEMA ADHIKARI,Payment In-Progress,5400.0,,False,,,0.0,False
+EXP-000021,WS/MP477/2026-2027/279794,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-09-02,DEEWAN SINGH ADHIKARI,Payment In-Progress,5400.0,,False,,,0.0,False
+EXP-000022,WS/MP477/2026-2027/279794,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-09-02,BISHT TRADING COMPANY,Payment In-Progress,49011.0,,False,,,0.0,False
+EXP-000023,WS/MP477/2026-2027/279794,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-09-02,NEERAJ SINGH ADHIKARI,Payment In-Progress,7684.0,,False,,,0.0,False
+EXP-000024,WS/MP477/2026-2027/279794,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-09-02,Block Developement Officer,Payment In-Progress,8022.0,,False,,,0.0,False
+EXP-000025,WS/MP021/2025-2026/242799,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2026-08-21,RAJESH KUMAR,Payment In-Progress,61312.0,,False,,,0.0,False
+EXP-000026,WS/MP021/2025-2026/242800,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2026-08-21,RAJESH KUMAR,Payment In-Progress,60466.0,,False,,,0.0,False
+EXP-000027,WS/MP477/2026-2027/290928,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-08-20,JITAN SAH,Payment In-Progress,150000.0,,False,,,0.0,False
+EXP-000028,WS/MP477/2026-2027/290927,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-08-19,MS MEENAKSHI HARDWARE,Payment In-Progress,187900.0,,False,,,0.0,False
+EXP-000029,WS/MP477/2026-2027/290927,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-08-19,MS MEENAKSHI HARDWARE,Payment In-Progress,79200.0,,False,,,0.0,False
+EXP-000030,WS/MP477/2026-2027/258914,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-08-07,MARTOLIA TRADERS,Payment Success,199980.0,,False,,,0.0,False
+EXP-000031,WS/MP18415/2026-2027/262472,Uttarakhand,TRIVENDRA SINGH RAWAT,HARDWAR,2026-06-18,EXECUTIVE ENGINEER EDD LAKSAR,Payment Success,249849.0,,False,,,0.0,False
+EXP-000032,WS/MP18415/2026-2027/269591,Uttarakhand,TRIVENDRA SINGH RAWAT,HARDWAR,2026-06-29,EDD Urban Roorkee,Payment Success,881417.0,,False,,,0.0,False
+EXP-000033,WS/MP18415/2025-2026/199872,Uttarakhand,TRIVENDRA SINGH RAWAT,HARDWAR,2026-01-16,EEEDD R ROORKEE,Payment Success,147377.0,,False,,,0.0,False
+EXP-000034,WS/MP18415/2025-2026/262467,Uttarakhand,TRIVENDRA SINGH RAWAT,HARDWAR,2026-02-27,EEEDD R ROORKEE,Payment Success,229813.0,,False,,,0.0,False
+EXP-000035,WS/MP477/2025-2026/206271,Uttarakhand,Ajay Tamta,ALMORA(SC),2025-12-20,UPCL Pithoragarh,Payment Success,464802.0,,False,,,0.0,False
+EXP-000036,WS/MP021/2025-2026/201578,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2025-09-26,Buddha Singh,Payment Success,248907.0,,False,,,0.0,False
+EXP-000037,WS/MP021/2025-2026/201593,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2025-09-26,Buddha Singh,Payment Success,248932.0,,False,,,0.0,False
+EXP-000038,WS/MP478/2025-2026/243380,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2026-07-08,BEERENDRA RANA,Payment Success,772846.0,,False,,,0.0,False
+EXP-000039,WS/MP478/2025-2026/243380,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2026-07-08,AMA ZILA PANCHAYAT UTTARKASHI,Payment Success,106100.0,,False,,,0.0,False
+EXP-000040,WS/MP18414/2026-2027/195838,Uttarakhand,ANIL BALUNI,GARHWAL,2026-07-18,PRAVESH GUPTA,Payment Success,138095.0,,False,,,0.0,False
+EXP-000041,WS/MP18414/2026-2027/195838,Uttarakhand,ANIL BALUNI,GARHWAL,2026-08-04,PRAVESH GUPTA,Payment Success,138095.0,,False,,,0.0,False
+EXP-000042,WS/MP477/2026-2027/279797,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-08-24,BHUWAN CHANDRA MATHPAL,Payment Success,5400.0,,False,,,0.0,False
+EXP-000043,WS/MP477/2026-2027/279797,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-08-24,MAMTA MATHPAL,Payment Success,5400.0,,False,,,0.0,False
+EXP-000044,WS/MP477/2026-2027/279797,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-08-24,BABITA PATHAK,Payment Success,5400.0,,False,,,0.0,False
+EXP-000045,WS/MP477/2026-2027/279797,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-08-24,DAYA DEVI,Payment Success,5400.0,,False,,,0.0,False
+EXP-000046,WS/MP477/2026-2027/279797,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-08-24,TULSI DEVI JOSHI,Payment Success,5400.0,,False,,,0.0,False
+EXP-000047,WS/MP477/2026-2027/279797,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-08-24,BHUWAN SINGH,Payment Success,5400.0,,False,,,0.0,False
+EXP-000048,WS/MP477/2026-2027/279797,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-08-24,ANIL KUMAR,Payment Success,5400.0,,False,,,0.0,False
+EXP-000049,WS/MP477/2026-2027/279797,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-08-24,CHARU JOSHI,Payment Success,5400.0,,False,,,0.0,False
+EXP-000050,WS/MP477/2026-2027/279797,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-08-24,MUNNI DEVI,Payment Success,5400.0,,False,,,0.0,False
+EXP-000051,WS/MP477/2026-2027/279797,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-08-24,DHAN SINGH,Payment Success,5400.0,,False,,,0.0,False
+EXP-000052,WS/MP477/2026-2027/279797,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-08-24,KHEEMA NATH,Payment Success,5400.0,,False,,,0.0,False
+EXP-000053,WS/MP477/2026-2027/279797,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-08-24,DEVKI DEVI,Payment Success,5400.0,,False,,,0.0,False
+EXP-000054,WS/MP477/2026-2027/279797,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-08-24,NEEMA,Payment Success,2400.0,,False,,,0.0,False
+EXP-000055,WS/MP477/2026-2027/279797,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-08-24,MANOJ MATHPAL,Payment Success,2400.0,,False,,,0.0,False
+EXP-000056,WS/MP477/2026-2027/279797,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-08-19,K R AND SONS Binta Almora,Payment Success,94297.0,,False,,,0.0,False
+EXP-000057,WS/MP477/2026-2027/279797,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-08-24,Block Developement Officer,Payment Success,3170.0,,False,,,0.0,False
+EXP-000058,WS/MP477/2026-2027/279797,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-08-24,VINOD CHANDRA,Payment Success,8136.0,,False,,,0.0,False
+EXP-000059,WS/MP477/2026-2027/279797,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-08-24,BHUWAN CHANDRA JOSHI,Payment Success,8136.0,,False,,,0.0,False
+EXP-000060,WS/MP477/2026-2027/279797,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-08-24,SURESH CHANDRA,Payment Success,5400.0,,False,,,0.0,False
+EXP-000061,WS/MP477/2026-2027/279797,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-08-24,Khasti Devi Joshi,Payment Success,5400.0,,False,,,0.0,False
+EXP-000062,WS/MP477/2026-2027/279797,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-08-24,SHANKER NATH,Payment Success,2400.0,,False,,,0.0,False
+EXP-000063,WS/MP477/2024-2025/180823,Uttarakhand,Ajay Tamta,ALMORA(SC),2025-05-15,VIJAY BAJETHA,Payment Success,412295.0,,False,,,0.0,False
+EXP-000064,WS/MP477/2024-2025/180823,Uttarakhand,Ajay Tamta,ALMORA(SC),2025-11-04,Block Developement Officer,Payment Success,27847.0,,False,,,0.0,False
+EXP-000065,WS/MP477/2024-2025/180823,Uttarakhand,Ajay Tamta,ALMORA(SC),2025-11-04,VIJAY BAJETHA,Payment Success,14432.0,,False,,,0.0,False
+EXP-000066,WS/MP477/2025-2026/252849,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-05-22,TK ENTERPRISES,Payment Success,92920.0,,False,,,0.0,False
+EXP-000067,WS/MP477/2025-2026/252849,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-05-22,Krishna Devi,Payment Success,17556.0,,False,,,0.0,False
+EXP-000068,WS/MP477/2025-2026/252849,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-05-22,Babita Joshi,Payment Success,17556.0,,False,,,0.0,False
+EXP-000069,WS/MP477/2025-2026/252849,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-05-22,HARISH CHANDRA AGRWAL,Payment Success,17556.0,,False,,,0.0,False
+EXP-000070,WS/MP477/2025-2026/252849,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-05-22,Prem Singh,Payment Success,19756.0,,False,,,0.0,False
+EXP-000071,WS/MP477/2025-2026/252849,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-05-22,DMF ALMORA,Payment Success,1126.0,,False,,,0.0,False
+EXP-000072,WS/MP477/2025-2026/252849,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-05-22,BDO,Payment Success,15910.0,,False,,,0.0,False
+EXP-000073,WS/MP477/2025-2026/258919,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-07-03,rama devi,Payment Success,10374.0,,False,,,0.0,False
+EXP-000074,WS/MP477/2025-2026/258919,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-07-03,asha devi,Payment Success,10374.0,,False,,,0.0,False
+EXP-000075,WS/MP477/2025-2026/258919,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-07-03,shekhar chandra,Payment Success,10374.0,,False,,,0.0,False
+EXP-000076,WS/MP477/2025-2026/258919,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-07-03,pankaj joshi,Payment Success,10374.0,,False,,,0.0,False
+EXP-000077,WS/MP477/2025-2026/258919,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-07-03,pooran singh,Payment Success,9878.0,,False,,,0.0,False
+EXP-000078,WS/MP477/2025-2026/258919,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-07-03,Sumit Lal Sah,Payment Success,47099.0,,False,,,0.0,False
+EXP-000079,WS/MP477/2025-2026/258919,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-07-03,BDO,Payment Success,1200.0,,False,,,0.0,False
+EXP-000080,WS/MP477/2025-2026/258919,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-07-03,DMF ALMORA,Payment Success,85.0,,False,,,0.0,False
+EXP-000081,WS/MP477/2025-2026/252849,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-08-13,Chandra Devi,Payment Success,17556.0,,False,,,0.0,False
+EXP-000082,WS/MP477/2026-2027/274252,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-07-31,Godhan Singh,Payment Success,7616.0,,False,,,0.0,False
+EXP-000083,WS/MP477/2026-2027/274252,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-07-31,Niraj Singh Bora,Payment Success,7616.0,,False,,,0.0,False
+EXP-000084,WS/MP477/2026-2027/274252,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-07-31,Pooja,Payment Success,7168.0,,False,,,0.0,False
+EXP-000085,WS/MP477/2026-2027/274252,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-08-01,Sankar Singh,Payment Success,8585.0,,False,,,0.0,False
+EXP-000086,WS/MP477/2026-2027/274252,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-08-01,Khadak Singh,Payment Success,8585.0,,False,,,0.0,False
+EXP-000087,WS/MP477/2026-2027/274252,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-08-01,Nagarkoti Stationers Gerneral Order Suppliers,Payment Success,55099.0,,False,,,0.0,False
+EXP-000088,WS/MP477/2026-2027/274252,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-08-01,bdo lamgara royalty,Payment Success,5054.0,,False,,,0.0,False
+EXP-000089,WS/MP477/2025-2026/197676,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-02-07,sarvesh construction prop RAJENDRA,Payment Success,200000.0,,False,,,0.0,False
+EXP-000090,WS/MP477/2025-2026/261062,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-07-21,BHUPESH BAFILA,Payment Success,199737.0,,False,,,0.0,False
+EXP-000091,WS/MP021/2025-2026/204372,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2026-02-11,AZEEM CONSTRUCTION COMPANY,Payment Success,249259.0,,False,,,0.0,False
+EXP-000092,WS/MP021/2025-2026/204373,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2026-02-11,AZEEM CONSTRUCTION COMPANY,Payment Success,249293.0,,False,,,0.0,False
+EXP-000093,WS/MP021/2025-2026/188606,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2026-07-18,MOHD ASSIF,Payment Success,37345.0,,False,,,0.0,False
+EXP-000094,WS/MP021/2025-2026/227788,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2026-07-20,DEV ENTERPRISES,Payment Success,498800.0,,False,,,0.0,False
+EXP-000095,WS/MP021/2025-2026/184014,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2026-02-24,Sarjit Singh Enterprises,Payment Success,149603.0,,False,,,0.0,False
+EXP-000096,WS/MP021/2025-2026/252345,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2026-03-18,HIM CONSTRUCTION,Payment Success,499113.0,,False,,,0.0,False
+EXP-000097,WS/MP021/2025-2026/252341,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2026-06-29,AMJAD ALI CONTRACTOR,Payment Success,499436.0,,False,,,0.0,False
+EXP-000098,WS/MP021/2025-2026/254814,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2026-06-16,GOPAL SINGH RAWAT,Payment Success,293761.0,,False,,,0.0,False
+EXP-000099,WS/MP021/2025-2026/225748,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2026-03-16,JD CONSTRUCTION,Payment Success,246701.0,,False,,,0.0,False
+EXP-000100,WS/MP021/2025-2026/242824,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2026-06-18,shivpad sarkar contractor,Payment Success,375000.0,,False,,,0.0,False
+EXP-000101,WS/MP021/2025-2026/178129,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2025-10-03,Jai Badrivishal Construction and Traders,Payment Success,493602.0,,False,,,0.0,False
+EXP-000102,WS/MP021/2025-2026/208920,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2026-04-24,Jai Badrivishal Construction and Traders,Payment Success,187017.0,,False,,,0.0,False
+EXP-000103,WS/MP021/2025-2026/242799,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2026-05-19,RAJESH KUMAR,Payment Success,185578.0,,False,,,0.0,False
+EXP-000104,WS/MP021/2025-2026/242800,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2026-05-19,RAJESH KUMAR,Payment Success,185540.0,,False,,,0.0,False
+EXP-000105,WS/MP18414/2026-2027/266806,Uttarakhand,ANIL BALUNI,GARHWAL,2026-05-19,Hemant Singh Negi,Payment Success,125000.0,,False,,,0.0,False
+EXP-000106,WS/MP18414/2026-2027/266806,Uttarakhand,ANIL BALUNI,GARHWAL,2026-05-26,Hemant Singh Negi,Payment Success,125000.0,,False,,,0.0,False
+EXP-000107,WS/MP18414/2025-2026/221553,Uttarakhand,ANIL BALUNI,GARHWAL,2025-12-11,Anil singh rawat,Payment Success,300000.0,,False,,,0.0,False
+EXP-000108,WS/MP18414/2026-2027/247595,Uttarakhand,ANIL BALUNI,GARHWAL,2026-06-19,DALBEER SINGH,Payment Success,997800.0,,False,,,0.0,False
+EXP-000109,WS/MP478/2025-2026/176081,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2025-10-25,RAMESH SINGH,Payment Success,246558.0,,False,,,0.0,False
+EXP-000110,WS/MP478/2025-2026/198713,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2026-02-02,DEEPAK TOMAR,Payment Success,249257.0,,False,,,0.0,False
+EXP-000111,WS/MP18415/2025-2026/206267,Uttarakhand,TRIVENDRA SINGH RAWAT,HARDWAR,2026-03-27,BENEFIT INDIA,Payment Success,100000.0,,False,,,0.0,False
+EXP-000112,WS/MP478/2025-2026/176117,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2026-01-08,Mahesh singh,Payment Success,682310.0,,False,,,0.0,False
+EXP-000113,WS/MP478/2025-2026/176117,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2026-05-19,Mahesh singh,Payment Success,110874.0,,False,,,0.0,False
+EXP-000114,WS/MP478/2026-2027/277486,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2026-08-01,Mr Dhan singh,Payment Success,249325.0,,False,,,0.0,False
+EXP-000115,WS/MP478/2026-2027/277508,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2026-07-31,Masti ram,Payment Success,249225.0,,False,,,0.0,False
+EXP-000116,WS/MP478/2025-2026/180985,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2025-06-12,Masti ram,Payment Success,249984.0,,False,,,0.0,False
+EXP-000117,WS/MP478/2025-2026/180977,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2025-06-12,Masti ram,Payment Success,249984.0,,False,,,0.0,False
+EXP-000118,WS/MP478/2025-2026/180991,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2025-06-12,Masti ram,Payment Success,249984.0,,False,,,0.0,False
+EXP-000119,WS/MP478/2025-2026/154207,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2025-05-09,Babita Trading,Payment Success,102936.0,,False,,,0.0,False
+EXP-000120,WS/MP478/2025-2026/154207,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2025-05-24,Makani Devi,Payment Success,4740.0,,True,DUP-DE0B79038F1F7328,2,0.0,False
+EXP-000121,WS/MP478/2025-2026/154207,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2025-05-24,Laxmi Devi,Payment Success,4740.0,,False,,,0.0,False
+EXP-000122,WS/MP478/2025-2026/154207,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2025-05-24,Pancham Singh,Payment Success,4740.0,,False,,,0.0,False
+EXP-000123,WS/MP478/2025-2026/154207,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2025-05-24,Makani Devi,Payment Success,4740.0,,True,DUP-DE0B79038F1F7328,2,4740.0,False
+EXP-000124,WS/MP478/2025-2026/154207,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2025-05-24,Binda Devi,Payment Success,4740.0,,False,,,0.0,False
+EXP-000125,WS/MP478/2025-2026/154207,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2025-05-24,Ruchi Neghi,Payment Success,4740.0,,False,,,0.0,False
+EXP-000126,WS/MP478/2025-2026/154207,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2025-05-24,Manoj Singh Negi,Payment Success,4740.0,,False,,,0.0,False
+EXP-000127,WS/MP478/2025-2026/154207,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2025-05-24,Satish Singh,Payment Success,4740.0,,False,,,0.0,False
+EXP-000128,WS/MP478/2025-2026/154207,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2025-05-24,Anita Devi,Payment Success,4740.0,,False,,,0.0,False
+EXP-000129,WS/MP478/2025-2026/154207,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2025-05-24,Dhanveer Singh,Payment Success,4740.0,,False,,,0.0,False
+EXP-000130,WS/MP478/2025-2026/154207,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2025-05-24,Manoj Singh Neghi,Payment Success,4740.0,,False,,,0.0,False
+EXP-000131,WS/MP478/2025-2026/154207,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2025-05-24,Makani Devi,Payment Success,4029.0,,True,DUP-3C338FF0918F70DE,2,0.0,False
+EXP-000132,WS/MP478/2025-2026/154207,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2025-05-24,Laxmi Devi,Payment Success,4029.0,,False,,,0.0,False
+EXP-000133,WS/MP478/2025-2026/154207,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2025-05-24,Pancham Singh,Payment Success,4029.0,,False,,,0.0,False
+EXP-000134,WS/MP478/2025-2026/154207,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2025-05-24,Makani Devi,Payment Success,4029.0,,True,DUP-3C338FF0918F70DE,2,4029.0,False
+EXP-000135,WS/MP478/2025-2026/154207,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2025-05-24,Binda Devi,Payment Success,4029.0,,False,,,0.0,False
+EXP-000136,WS/MP478/2025-2026/154207,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2025-05-24,Ruchi Neghi,Payment Success,4029.0,,False,,,0.0,False
+EXP-000137,WS/MP478/2025-2026/154207,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2025-05-24,Manoj Singh Negi,Payment Success,4029.0,,False,,,0.0,False
+EXP-000138,WS/MP478/2025-2026/154207,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2025-05-24,Satish Singh,Payment Success,4029.0,,False,,,0.0,False
+EXP-000139,WS/MP478/2025-2026/154207,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2025-05-24,Dhanveer Singh,Payment Success,4029.0,,False,,,0.0,False
+EXP-000140,WS/MP478/2025-2026/154207,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2025-05-24,Anita Devi,Payment Success,4029.0,,False,,,0.0,False
+EXP-000141,WS/MP478/2025-2026/154207,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2025-05-24,Manoj Singh Neghi,Payment Success,4029.0,,False,,,0.0,False
+EXP-000142,WS/MP478/2025-2026/154207,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2025-05-24,Babita Trading,Payment Success,500.0,,False,,,0.0,False
+EXP-000143,WS/MP478/2025-2026/154176,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2026-03-25,kanta devi,Payment Success,5040.0,,False,,,0.0,False
+EXP-000144,WS/MP478/2025-2026/154176,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2026-02-03,AMEECHAND SINGH,Payment Success,58681.0,,False,,,0.0,False
+EXP-000145,WS/MP478/2025-2026/154176,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2026-02-03,AMEECHAND SINGH,Payment Success,18023.0,,False,,,0.0,False
+EXP-000146,WS/MP478/2025-2026/154176,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2026-02-03,AMEECHAND SINGH,Payment Success,2500.0,,False,,,0.0,False
+EXP-000147,WS/MP478/2025-2026/154176,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2026-02-03,MUKESH NAUTIYAL,Payment Success,5040.0,,False,,,0.0,False
+EXP-000148,WS/MP478/2025-2026/154176,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2026-02-03,SURESH CHANDRA NAUTIYAL,Payment Success,5040.0,,False,,,0.0,False
+EXP-000149,WS/MP478/2025-2026/154176,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2026-02-03,MAMTA NAUTIYAL,Payment Success,5040.0,,False,,,0.0,False
+EXP-000150,WS/MP478/2025-2026/154203,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2025-12-16,AG ENTERPRISES,Payment Success,56865.0,,False,,,0.0,False
+EXP-000151,WS/MP478/2025-2026/154203,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2025-12-16,AG ENTERPRISES,Payment Success,2500.0,,False,,,0.0,False
+EXP-000152,WS/MP478/2025-2026/154203,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2025-12-16,rakesh chand,Payment Success,13356.0,,False,,,0.0,False
+EXP-000153,WS/MP478/2025-2026/154203,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2025-12-16,KALAYAN SINGH,Payment Success,13356.0,,False,,,0.0,False
+EXP-000154,WS/MP478/2025-2026/154203,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2025-12-16,DEV CHAND,Payment Success,13356.0,,False,,,0.0,False
+EXP-000155,WS/MP18415/2025-2026/242968,Uttarakhand,TRIVENDRA SINGH RAWAT,HARDWAR,2026-05-21,Satyam Construction,Payment Success,694500.0,,False,,,0.0,False
+EXP-000156,WS/MP18415/2026-2027/269577,Uttarakhand,TRIVENDRA SINGH RAWAT,HARDWAR,2026-07-22,Satyam Construction,Payment Success,1187612.0,,False,,,0.0,False
+EXP-000157,WS/MP478/2025-2026/245527,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2026-07-28,MANBEER SINGH,Payment Success,44084.0,,False,,,0.0,False
+EXP-000158,WS/MP478/2025-2026/243426,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2026-07-28,MANBEER SINGH,Payment Success,30824.0,,False,,,0.0,False
+EXP-000159,WS/MP478/2025-2026/243426,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2026-06-30,MANBEER SINGH,Payment Success,229998.0,,False,,,0.0,False
+EXP-000160,WS/MP478/2025-2026/243426,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2026-06-30,District Mineral Foundation Trust Uttarkashi,Payment Success,1407.0,,False,,,0.0,False
+EXP-000161,WS/MP478/2025-2026/243425,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2026-06-27,MANBEER SINGH,Payment Success,314233.0,,False,,,0.0,False
+EXP-000162,WS/MP478/2025-2026/243425,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2026-06-27,District Mineral Foundation Trust Uttarkashi,Payment Success,247.0,,False,,,0.0,False
+EXP-000163,WS/MP478/2025-2026/245527,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2026-06-27,MANBEER SINGH,Payment Success,276026.0,,False,,,0.0,False
+EXP-000164,WS/MP478/2025-2026/245527,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2026-06-27,District Mineral Foundation Trust Uttarkashi,Payment Success,2002.0,,False,,,0.0,False
+EXP-000165,WS/MP478/2025-2026/243401,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2026-06-25,KAILASH SINGH,Payment Success,6552.0,,False,,,0.0,False
+EXP-000166,WS/MP478/2025-2026/243401,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2026-06-25,PRATAP SINGH,Payment Success,6552.0,,False,,,0.0,False
+EXP-000167,WS/MP478/2025-2026/243401,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2026-06-25,RAKESH SINGH,Payment Success,6552.0,,False,,,0.0,False
+EXP-000168,WS/MP478/2025-2026/243401,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2026-06-25,BACHNA DEVI,Payment Success,6552.0,,False,,,0.0,False
+EXP-000169,WS/MP478/2025-2026/243401,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2026-06-25,MAMTA DEVI,Payment Success,6552.0,,True,DUP-243CD05B03064D82,2,0.0,False
+EXP-000170,WS/MP478/2025-2026/243401,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2026-06-25,MAMTA DEVI,Payment Success,6552.0,,True,DUP-243CD05B03064D82,2,6552.0,False
+EXP-000171,WS/MP478/2025-2026/243401,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2026-06-25,SHIVANI,Payment Success,6552.0,,False,,,0.0,False
+EXP-000172,WS/MP478/2025-2026/243401,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2026-06-25,PRADEEP ART,Payment Success,1000.0,,False,,,0.0,False
+EXP-000173,WS/MP478/2025-2026/243401,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2026-06-25,BLOCK DEVELOPMENT OFFICER,Payment Success,51219.0,,False,,,0.0,False
+EXP-000174,WS/MP478/2025-2026/243401,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2026-03-10,CHAMOLI GENRAL STORE,Payment Success,34440.0,,False,,,0.0,False
+EXP-000175,WS/MP478/2025-2026/243401,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2026-03-10,DINESH SINGH,Payment Success,24730.0,,False,,,0.0,False
+EXP-000176,WS/MP478/2025-2026/243401,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2026-03-10,SHIVANI,Payment Success,6300.0,,False,,,0.0,False
+EXP-000177,WS/MP478/2025-2026/243401,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2026-03-10,RAKESH SINGH,Payment Success,6300.0,,False,,,0.0,False
+EXP-000178,WS/MP478/2025-2026/243401,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2026-03-10,MAMTA DEVI,Payment Success,6300.0,,False,,,0.0,False
+EXP-000179,WS/MP478/2025-2026/243401,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2026-03-10,BACHNA DEVI,Payment Success,6300.0,,False,,,0.0,False
+EXP-000180,WS/MP478/2025-2026/243401,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2026-03-10,KAILASH SINGH,Payment Success,6300.0,,False,,,0.0,False
+EXP-000181,WS/MP478/2025-2026/243401,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2026-03-10,PRATAP SINGH,Payment Success,6300.0,,False,,,0.0,False
+EXP-000182,WS/MP478/2025-2026/243401,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2026-03-10,MAMTA DEVI,Payment Success,4536.0,,False,,,0.0,False
+EXP-000183,WS/MP478/2025-2026/243399,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2026-04-10,ABHINAV TRADERDS,Payment Success,31265.0,,False,,,0.0,False
+EXP-000184,WS/MP478/2025-2026/243399,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2026-04-10,SUBASH,Payment Success,7056.0,,True,DUP-8091FE5543D1B5C3,2,0.0,False
+EXP-000185,WS/MP478/2025-2026/243399,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2026-04-10,PUSHPA DEVI,Payment Success,7056.0,,True,DUP-560E56157B48B9BC,2,0.0,False
+EXP-000186,WS/MP478/2025-2026/243399,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2026-04-10,ROHAN,Payment Success,7056.0,,True,DUP-1A379107640C9D75,2,0.0,False
+EXP-000187,WS/MP478/2025-2026/243399,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2026-04-10,ARTHI DEVI,Payment Success,7056.0,,True,DUP-1DF87DBAEFA0B87A,2,0.0,False
+EXP-000188,WS/MP478/2025-2026/243399,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2026-04-10,NEHA,Payment Success,7056.0,,True,DUP-9EA8B34BC9EFE65D,2,0.0,False
+EXP-000189,WS/MP478/2025-2026/243399,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2026-04-10,ASHISH,Payment Success,7056.0,,True,DUP-EE607F78FF71A22B,2,0.0,False
+EXP-000190,WS/MP478/2025-2026/243399,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2026-04-10,NITIN SINGH,Payment Success,7056.0,,True,DUP-525F3F0D3D3E9A3B,2,0.0,False
+EXP-000191,WS/MP478/2025-2026/243399,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2026-04-10,SAUMYA,Payment Success,7056.0,,False,,,0.0,False
+EXP-000192,WS/MP478/2025-2026/243399,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2026-04-10,SUBASH,Payment Success,7056.0,,True,DUP-8091FE5543D1B5C3,2,7056.0,False
+EXP-000193,WS/MP478/2025-2026/243399,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2026-04-10,PUSHPA DEVI,Payment Success,7056.0,,True,DUP-560E56157B48B9BC,2,7056.0,False
+EXP-000194,WS/MP478/2025-2026/243399,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2026-04-10,ROHAN,Payment Success,7056.0,,True,DUP-1A379107640C9D75,2,7056.0,False
+EXP-000195,WS/MP478/2025-2026/243399,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2026-04-10,ARTHI DEVI,Payment Success,7056.0,,True,DUP-1DF87DBAEFA0B87A,2,7056.0,False
+EXP-000196,WS/MP478/2025-2026/243399,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2026-04-10,NEHA,Payment Success,7056.0,,True,DUP-9EA8B34BC9EFE65D,2,7056.0,False
+EXP-000197,WS/MP478/2025-2026/243399,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2026-04-10,ASHISH,Payment Success,7056.0,,True,DUP-EE607F78FF71A22B,2,7056.0,False
+EXP-000198,WS/MP478/2025-2026/243399,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2026-04-10,NITIN SINGH,Payment Success,7056.0,,True,DUP-525F3F0D3D3E9A3B,2,7056.0,False
+EXP-000199,WS/MP478/2025-2026/243399,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2026-04-10,NAMITA,Payment Success,7056.0,,True,DUP-C4251240E42F806E,2,0.0,False
+EXP-000200,WS/MP478/2025-2026/243399,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2026-04-10,NAMITA,Payment Success,7056.0,,True,DUP-C4251240E42F806E,2,7056.0,False
+EXP-000201,WS/MP478/2025-2026/243399,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2026-04-16,RAJNESH SINGH,Payment Success,26964.0,,False,,,0.0,False
+EXP-000202,WS/MP478/2025-2026/243399,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2026-04-16,BLOCK DEVELOPMENT OFFICER,Payment Success,14558.0,,False,,,0.0,False
+EXP-000203,WS/MP478/2025-2026/243399,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2026-04-16,DOGRA ART,Payment Success,1000.0,,False,,,0.0,False
+EXP-000204,WS/MP478/2025-2026/243399,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2026-04-16,ABHINAV TRADERDS,Payment Success,6000.0,,False,,,0.0,False
+EXP-000205,WS/MP477/2024-2025/173114,Uttarakhand,Ajay Tamta,ALMORA(SC),2025-11-15,LAL SINGH JALAL,Payment Success,964470.0,,False,,,0.0,False
+EXP-000206,WS/MP477/2024-2025/173114,Uttarakhand,Ajay Tamta,ALMORA(SC),2025-11-15,NAGAR PALIKA ALMORA,Payment Success,35530.0,,False,,,0.0,False
+EXP-000207,WS/MP478/2025-2026/156127,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2025-07-01,DPS PUBLISHING HOUSE,Payment Success,1880000.0,,False,,,0.0,False
+EXP-000208,WS/MP18415/2025-2026/205427,Uttarakhand,TRIVENDRA SINGH RAWAT,HARDWAR,2026-02-26,Ghanshyam singh rawat,Payment Success,685153.0,,False,,,0.0,False
+EXP-000209,WS/MP18415/2025-2026/214989,Uttarakhand,TRIVENDRA SINGH RAWAT,HARDWAR,2026-03-23,Jai laxmi construction,Payment Success,471553.0,,False,,,0.0,False
+EXP-000210,WS/MP18415/2025-2026/205427,Uttarakhand,TRIVENDRA SINGH RAWAT,HARDWAR,2026-08-18,Banty Electrical,Payment Success,68668.0,,False,,,0.0,False
+EXP-000211,WS/MP18415/2025-2026/205428,Uttarakhand,TRIVENDRA SINGH RAWAT,HARDWAR,2026-07-13,VINDHYA SOLAR AND LIGHTING SOLUTIONS,Payment Success,1103860.0,,False,,,0.0,False
+EXP-000212,WS/MP18415/2025-2026/205433,Uttarakhand,TRIVENDRA SINGH RAWAT,HARDWAR,2026-07-09,VINDHYA SOLAR AND LIGHTING SOLUTIONS,Payment Success,879000.0,,False,,,0.0,False
+EXP-000213,WS/MP18414/2025-2026/202455,Uttarakhand,ANIL BALUNI,GARHWAL,2025-10-15,Prabhav Gupta,Payment Success,715451.0,,False,,,0.0,False
+EXP-000214,WS/MP021/2025-2026/204392,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2026-02-23,Dynamic Infratech,Payment Success,283045.0,,False,,,0.0,False
+EXP-000215,WS/MP021/2025-2026/204392,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2026-02-25,Executive Engineer Central store UJS Haldwani,Payment Success,186227.0,,False,,,0.0,False
+EXP-000216,WS/MP18415/2025-2026/199861,Uttarakhand,TRIVENDRA SINGH RAWAT,HARDWAR,2026-06-18,Chief Veternary Officer Haridwar,Payment Success,1112500.0,,False,,,0.0,False
+EXP-000217,WS/MP477/2026-2027/268869,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-06-17,avani agency,Payment Success,244510.0,,False,,,0.0,False
+EXP-000218,WS/MP477/2026-2027/268869,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-06-17,Block Bageshwar Royalty,Payment Success,4990.0,,False,,,0.0,False
+EXP-000219,WS/MP477/2026-2027/269915,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-08-24,BLOCK DEVELOPMENT OFFICER,Payment Success,5912.0,,False,,,0.0,False
+EXP-000220,WS/MP477/2026-2027/269915,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-08-24,BLOCK DEVELOPMENT OFFICER,Payment Success,1478.0,,False,,,0.0,False
+EXP-000221,WS/MP477/2026-2027/269915,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-08-24,shivoham by Gajanan,Payment Success,24720.0,,False,,,0.0,False
+EXP-000222,WS/MP477/2026-2027/276799,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-08-13,Deepa Devi,Payment Success,8820.0,,False,,,0.0,False
+EXP-000223,WS/MP477/2026-2027/269915,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-08-17,gopal singh bora,Payment Success,7812.0,,False,,,0.0,False
+EXP-000224,WS/MP477/2026-2027/269915,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-08-17,ravindra singh rana,Payment Success,6048.0,,False,,,0.0,False
+EXP-000225,WS/MP477/2026-2027/269915,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-08-17,krishna kandpal,Payment Success,6048.0,,False,,,0.0,False
+EXP-000226,WS/MP477/2026-2027/269915,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-08-17,seema negi,Payment Success,7812.0,,False,,,0.0,False
+EXP-000227,WS/MP477/2026-2027/269915,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-08-17,jagdesh singh,Payment Success,7812.0,,False,,,0.0,False
+EXP-000228,WS/MP477/2026-2027/269915,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-08-17,chandra shekhar,Payment Success,7560.0,,False,,,0.0,False
+EXP-000229,WS/MP477/2026-2027/269915,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-08-17,harish ram,Payment Success,5520.0,,False,,,0.0,False
+EXP-000230,WS/MP477/2026-2027/269915,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-08-17,rajendra singh,Payment Success,10120.0,,False,,,0.0,False
+EXP-000231,WS/MP477/2026-2027/269915,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-08-17,radha bora,Payment Success,7812.0,,False,,,0.0,False
+EXP-000232,WS/MP477/2026-2027/269915,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-08-17,Dan Singh,Payment Success,1000.0,,False,,,0.0,False
+EXP-000233,WS/MP477/2026-2027/276799,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-08-11,New Bharat Treders,Payment Success,20600.0,,False,,,0.0,False
+EXP-000234,WS/MP477/2026-2027/276799,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-08-11,govind singh,Payment Success,8820.0,,False,,,0.0,False
+EXP-000235,WS/MP477/2026-2027/276799,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-08-11,mohan singh,Payment Success,8820.0,,False,,,0.0,False
+EXP-000236,WS/MP477/2026-2027/276799,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-08-11,Puran Singh,Payment Success,8568.0,,False,,,0.0,False
+EXP-000237,WS/MP477/2026-2027/276799,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-08-11,Asha Devi,Payment Success,8820.0,,False,,,0.0,False
+EXP-000238,WS/MP477/2026-2027/276799,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-08-11,Bhagirathi Devi,Payment Success,8820.0,,False,,,0.0,False
+EXP-000239,WS/MP477/2026-2027/276799,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-08-11,Kishan singh,Payment Success,8820.0,,False,,,0.0,False
+EXP-000240,WS/MP477/2026-2027/276799,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-08-11,Munni Devi,Payment Success,8820.0,,False,,,0.0,False
+EXP-000241,WS/MP477/2026-2027/276799,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-08-11,shoban singh,Payment Success,8820.0,,False,,,0.0,False
+EXP-000242,WS/MP477/2026-2027/276799,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-08-11,nisha bhakuni,Payment Success,8820.0,,False,,,0.0,False
+EXP-000243,WS/MP477/2026-2027/276799,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-08-11,mukesh kumar,Payment Success,16100.0,,False,,,0.0,False
+EXP-000244,WS/MP477/2026-2027/276799,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-08-11,New Bharat Treders,Payment Success,10300.0,,False,,,0.0,False
+EXP-000245,WS/MP477/2026-2027/276799,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-08-12,Dan Singh,Payment Success,1000.0,,False,,,0.0,False
+EXP-000246,WS/MP477/2026-2027/276799,Uttarakhand,Ajay Tamta,ALMORA(SC),2026-08-12,Trilok Singh,Payment Success,1840.0,,False,,,0.0,False
+EXP-000247,WS/MP478/2024-2025/149449,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2024-12-19,SAI ENTERPRISES,Payment Success,1871300.0,,False,,,0.0,False
+EXP-000248,WS/MP478/2024-2025/149449,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2025-01-23,SAI ENTERPRISES,Payment Success,626999.0,,False,,,0.0,False
+EXP-000249,WS/MP478/2025-2026/210228,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2025-12-24,TANYA CONSTRUCTION,Payment Success,184669.0,,False,,,0.0,False
+EXP-000250,WS/MP478/2025-2026/192764,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2026-04-18,KARISHMA CONSTRUCTION,Payment Success,65059.0,,False,,,0.0,False
+EXP-000251,WS/MP478/2025-2026/192764,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2025-09-10,KARISHMA CONSTRUCTION,Payment Success,184105.0,,False,,,0.0,False
+EXP-000252,WS/MP021/2025-2026/200592,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2025-10-16,Kavita Pandey,Payment Success,18656.0,,False,,,0.0,False
+EXP-000253,WS/MP021/2025-2026/200592,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2025-10-16,Ghanshyam Pandey,Payment Success,18656.0,,False,,,0.0,False
+EXP-000254,WS/MP021/2025-2026/200592,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2025-10-16,Sachin Gupta,Payment Success,18656.0,,False,,,0.0,False
+EXP-000255,WS/MP021/2025-2026/200592,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2025-10-16,Girish Chandra,Payment Success,18656.0,,False,,,0.0,False
+EXP-000256,WS/MP021/2025-2026/200592,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2025-10-16,Varun Bhatt,Payment Success,18656.0,,False,,,0.0,False
+EXP-000257,WS/MP021/2025-2026/200592,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2025-10-16,Sanjay Pandey,Payment Success,13021.0,,False,,,0.0,False
+EXP-000258,WS/MP021/2025-2026/200592,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2025-10-16,Dhiraj Singh Bisht,Payment Success,13021.0,,False,,,0.0,False
+EXP-000259,WS/MP021/2025-2026/200592,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2025-10-16,Sanguri Hardware,Payment Success,130468.0,,False,,,0.0,False
+EXP-000260,WS/MP021/2025-2026/175495,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2025-07-10,Varun Bhatt,Payment Success,21624.0,,False,,,0.0,False
+EXP-000261,WS/MP021/2025-2026/175495,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2025-07-10,Sachin Gupta,Payment Success,21200.0,,False,,,0.0,False
+EXP-000262,WS/MP021/2025-2026/175495,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2025-07-10,Kamla,Payment Success,21200.0,,False,,,0.0,False
+EXP-000263,WS/MP021/2025-2026/175495,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2025-07-10,Vinod Kumar Tiwari,Payment Success,21200.0,,False,,,0.0,False
+EXP-000264,WS/MP021/2025-2026/175495,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2025-07-10,Trilok Chandra Tiwari,Payment Success,21624.0,,False,,,0.0,False
+EXP-000265,WS/MP021/2025-2026/175495,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2025-07-10,Sanjay Pandey,Payment Success,20654.0,,False,,,0.0,False
+EXP-000266,WS/MP021/2025-2026/175495,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2025-07-10,Khajan Chandra Tiwari,Payment Success,20205.0,,False,,,0.0,False
+EXP-000267,WS/MP021/2025-2026/175495,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2025-07-10,Pawan Kumar,Payment Success,20205.0,,False,,,0.0,False
+EXP-000268,WS/MP021/2025-2026/175495,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2025-07-10,Vishal Iron,Payment Success,57459.0,,False,,,0.0,False
+EXP-000269,WS/MP021/2025-2026/175495,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2025-07-10,Kuliyal Constructions,Payment Success,1500.0,,False,,,0.0,False
+EXP-000270,WS/MP021/2025-2026/192505,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2026-08-14,Dhirendra Singh Jeena Suppliers,Payment Success,104123.0,,False,,,0.0,False
+EXP-000271,WS/MP021/2025-2026/192505,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2026-08-14,Bhupal Singh,Payment Success,16112.0,,False,,,0.0,False
+EXP-000272,WS/MP021/2025-2026/192505,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2026-08-14,Himanshu Jeena,Payment Success,13919.0,,False,,,0.0,False
+EXP-000273,WS/MP021/2025-2026/192505,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2026-08-14,Ramesh Singh,Payment Success,16112.0,,False,,,0.0,False
+EXP-000274,WS/MP021/2025-2026/192505,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2026-08-14,Himanshu Jeena,Payment Success,16112.0,,False,,,0.0,False
+EXP-000275,WS/MP021/2025-2026/192505,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2026-08-14,Sagat Singh,Payment Success,13919.0,,False,,,0.0,False
+EXP-000276,WS/MP021/2025-2026/192505,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2026-08-14,Mohit Joshi,Payment Success,16112.0,,False,,,0.0,False
+EXP-000277,WS/MP021/2025-2026/192505,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2026-08-14,Girish Chandra,Payment Success,13470.0,,False,,,0.0,False
+EXP-000278,WS/MP021/2025-2026/192505,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2026-08-14,kamala kuriya,Payment Success,16536.0,,False,,,0.0,False
+EXP-000279,WS/MP021/2025-2026/192505,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2026-08-14,Radha kuriya,Payment Success,16536.0,,False,,,0.0,False
+EXP-000280,WS/MP021/2025-2026/177199,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2025-12-05,Budhlakoti Engineering Enterprises,Payment Success,247490.0,,False,,,0.0,False
+EXP-000281,WS/MP021/2025-2026/177199,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2025-12-05,Block Development Officer,Payment Success,2500.0,,False,,,0.0,False
+EXP-000282,WS/MP18415/2025-2026/259366,Uttarakhand,TRIVENDRA SINGH RAWAT,HARDWAR,2026-07-25,M S MAHIPAL SINGH,Payment Success,301000.0,,False,,,0.0,False
+EXP-000283,WS/MP18415/2025-2026/215033,Uttarakhand,TRIVENDRA SINGH RAWAT,HARDWAR,2026-01-09,Ansh Enterprises and Furnishers,Payment Success,415360.0,,False,,,0.0,False
+EXP-000284,WS/MP021/2025-2026/227810,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2026-07-10,SHABANA BEE,Payment Success,56774.0,,False,,,0.0,False
+EXP-000285,WS/MP021/2025-2026/227810,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2026-07-10,RAJENDRA PRASAD,Payment Success,9072.0,,False,,,0.0,False
+EXP-000286,WS/MP021/2025-2026/227810,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2026-07-10,MUNNA LAL,Payment Success,9072.0,,False,,,0.0,False
+EXP-000287,WS/MP021/2025-2026/227810,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2026-07-10,MADAN CHANDRA,Payment Success,8316.0,,False,,,0.0,False
+EXP-000288,WS/MP021/2025-2026/227810,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2026-07-10,rajnedra singh,Payment Success,18900.0,,False,,,0.0,False
+EXP-000289,WS/MP021/2025-2026/227810,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2026-07-10,puran singh,Payment Success,18900.0,,False,,,0.0,False
+EXP-000290,WS/MP021/2025-2026/204383,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2026-08-25,Shanti pandey,Payment Success,4788.0,,False,,,0.0,False
+EXP-000291,WS/MP021/2025-2026/204383,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2026-08-25,Nutan pandey,Payment Success,4788.0,,False,,,0.0,False
+EXP-000292,WS/MP021/2025-2026/204383,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2026-08-25,Govind bhallabh,Payment Success,7272.0,,False,,,0.0,False
+EXP-000293,WS/MP021/2025-2026/204383,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2026-08-25,Nirmla pandey,Payment Success,7272.0,,False,,,0.0,False
+EXP-000294,WS/MP021/2025-2026/204383,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2026-08-25,Negi supplier,Payment Success,25880.0,,False,,,0.0,False
+EXP-000295,WS/MP478/2025-2026/270939,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2026-07-31,Khajan Singh,Payment Success,496949.0,,False,,,0.0,False
+EXP-000296,WS/MP478/2025-2026/270940,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2026-07-03,Amit tomar,Payment Success,298004.0,,False,,,0.0,False
+EXP-000297,WS/MP478/2025-2026/270941,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2026-06-23,LAL SINGH,Payment Success,194715.0,,False,,,0.0,False
+EXP-000298,WS/MP478/2024-2025/154259,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2025-03-02,Anil Eet Udyog,Payment Success,84618.0,,False,,,0.0,False
+EXP-000299,WS/MP478/2024-2025/154259,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2025-06-12,sanjay tomar,Payment Success,10850.0,,False,,,0.0,False
+EXP-000300,WS/MP478/2024-2025/154259,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2025-06-12,Rnbir singh,Payment Success,10850.0,,False,,,0.0,False
+EXP-000301,WS/MP478/2024-2025/154259,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2025-06-12,Anuradha tomar,Payment Success,10850.0,,False,,,0.0,False
+EXP-000302,WS/MP478/2024-2025/154259,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2025-06-12,Vishal chauhan,Payment Success,10850.0,,False,,,0.0,False
+EXP-000303,WS/MP478/2024-2025/154259,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2025-06-12,Vikram singh,Payment Success,10850.0,,False,,,0.0,False
+EXP-000304,WS/MP478/2024-2025/154259,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2025-04-23,sanjay tomar,Payment Success,10500.0,,False,,,0.0,False
+EXP-000305,WS/MP478/2024-2025/154259,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2025-04-23,Rnbir singh,Payment Success,10500.0,,False,,,0.0,False
+EXP-000306,WS/MP478/2024-2025/154259,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2025-04-23,Anuradha tomar,Payment Success,10500.0,,False,,,0.0,False
+EXP-000307,WS/MP478/2024-2025/154259,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2025-04-23,Vishal chauhan,Payment Success,10500.0,,False,,,0.0,False
+EXP-000308,WS/MP478/2024-2025/154259,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2025-04-23,Vikram singh,Payment Success,10500.0,,False,,,0.0,False
+EXP-000309,WS/MP478/2024-2025/154259,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2025-04-23,sweeti tomar,Payment Success,7000.0,,False,,,0.0,False
+EXP-000310,WS/MP18415/2025-2026/215041,Uttarakhand,TRIVENDRA SINGH RAWAT,HARDWAR,2025-11-21,MAHALAXMI TRADING COMPANY,Payment Success,781796.0,,False,,,0.0,False
+EXP-000311,WS/MP478/2025-2026/154215,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2025-11-05,harshul sharma h S SERVICES,Payment Success,67932.0,,False,,,0.0,False
+EXP-000312,WS/MP478/2025-2026/154215,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2025-11-05,Mohit Sharma,Payment Success,8162.0,,False,,,0.0,False
+EXP-000313,WS/MP478/2025-2026/154215,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2025-11-05,vikesh Kumar,Payment Success,8162.0,,False,,,0.0,False
+EXP-000314,WS/MP478/2025-2026/154215,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2025-11-05,Gaurav Kapil,Payment Success,7791.0,,False,,,0.0,False
+EXP-000315,WS/MP478/2025-2026/154215,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2025-11-05,Navesh Kapil,Payment Success,7791.0,,False,,,0.0,False
+EXP-000316,WS/MP478/2025-2026/154239,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2026-01-20,Ashok Kumar Gupta,Payment Success,10332.0,,False,,,0.0,False
+EXP-000317,WS/MP478/2025-2026/154239,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2026-01-20,Yudhvir Singh Negi,Payment Success,10080.0,,False,,,0.0,False
+EXP-000318,WS/MP478/2025-2026/154248,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2025-11-19,Anil Eet Udyog,Payment Success,90501.0,,False,,,0.0,False
+EXP-000319,WS/MP478/2025-2026/154239,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2025-11-21,Anil Eet Udyog,Payment Success,79386.0,,False,,,0.0,False
+EXP-000320,WS/MP478/2025-2026/154248,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2026-01-13,Neelam,Payment Success,14112.0,,False,,,0.0,False
+EXP-000321,WS/MP478/2025-2026/154248,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2026-01-13,Abhishek Kumar,Payment Success,14364.0,,False,,,0.0,False
+EXP-000322,WS/MP478/2025-2026/154248,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2026-01-13,Tejpal Saphiya,Payment Success,14112.0,,False,,,0.0,False
+EXP-000323,WS/MP478/2025-2026/154248,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2026-01-13,Pramod Singh Saphiya,Payment Success,14112.0,,False,,,0.0,False
+EXP-000324,WS/MP478/2025-2026/154248,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2026-06-24,Subhash Chand Painter,Payment Success,2799.0,,False,,,0.0,False
+EXP-000325,WS/MP478/2025-2026/243862,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2026-03-25,Masti ram,Payment Success,192000.0,,False,,,0.0,False
+EXP-000326,WS/MP478/2025-2026/243872,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2026-03-25,Masti ram,Payment Success,249600.0,,False,,,0.0,False
+EXP-000327,WS/MP478/2026-2027/244161,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2026-07-21,Manoj Guniyal,Payment Success,993587.0,,False,,,0.0,False
+EXP-000328,WS/MP478/2025-2026/198677,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2025-11-04,Kandari Assocaite,Payment Success,399403.0,,False,,,0.0,False
+EXP-000329,WS/MP478/2025-2026/196464,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2025-12-17,Mahamaya Enterprises,Payment Success,895788.0,,False,,,0.0,False
+EXP-000330,WS/MP478/2025-2026/186041,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2025-12-17,AMIT GAUTAM,Payment Success,529139.0,,False,,,0.0,False
+EXP-000331,WS/MP478/2025-2026/198709,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2026-01-21,RVA CONSTRUCTION,Payment Success,506920.0,,False,,,0.0,False
+EXP-000332,WS/MP478/2025-2026/180834,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2025-09-22,Masti ram,Payment Success,249660.0,,False,,,0.0,False
+EXP-000333,WS/MP478/2025-2026/180829,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2025-09-22,Masti ram,Payment Success,249540.0,,False,,,0.0,False
+EXP-000334,WS/MP478/2025-2026/180821,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2025-09-22,Masti ram,Payment Success,499200.0,,False,,,0.0,False
+EXP-000335,WS/MP478/2025-2026/180818,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2025-09-22,Masti ram,Payment Success,249540.0,,False,,,0.0,False
+EXP-000336,WS/MP478/2024-2025/154246,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,2025-09-15,RAWAT GOVERNMENT CONTRACTOR,Payment Success,149324.0,,False,,,0.0,False
+EXP-000337,WS/MP021/2026-2027/262520,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2026-07-22,ERA CONSTRUCTION,Payment Success,26826.0,,False,,,0.0,False
+EXP-000338,WS/MP021/2026-2027/262520,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2026-07-22,MINA RAWAT,Payment Success,5490.0,,False,,,0.0,False
+EXP-000339,WS/MP021/2026-2027/262520,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2026-07-22,manish kumar joshi,Payment Success,5490.0,,False,,,0.0,False
+EXP-000340,WS/MP021/2026-2027/262520,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2026-07-22,JITENDRA MISHRA,Payment Success,5124.0,,False,,,0.0,False
+EXP-000341,WS/MP021/2026-2027/262520,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2026-07-22,VIVEK PANDEY,Payment Success,7070.0,,False,,,0.0,False
+EXP-000342,WS/MP021/2025-2026/267132,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2026-07-18,BAJRANG CONSTRUCTIONS,Payment Success,172199.0,,False,,,0.0,False
+EXP-000343,WS/MP021/2025-2026/267132,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2026-07-18,JAGDISH CHANDRA KANDPAL,Payment Success,17568.0,,False,,,0.0,False
+EXP-000344,WS/MP021/2025-2026/267132,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2026-07-18,mahesh,Payment Success,17568.0,,False,,,0.0,False
+EXP-000345,WS/MP021/2025-2026/267132,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2026-07-18,CHAMPA,Payment Success,24240.0,,False,,,0.0,False
+EXP-000346,WS/MP021/2025-2026/267132,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2026-07-18,OM RAWAT,Payment Success,24240.0,,False,,,0.0,False
+EXP-000347,WS/MP021/2025-2026/267132,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2026-07-18,SHWETA NEGI,Payment Success,24240.0,,False,,,0.0,False
+EXP-000348,WS/MP021/2025-2026/267132,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2026-07-18,GEETA RAWAT,Payment Success,19695.0,,False,,,0.0,False
+EXP-000349,WS/MP021/2025-2026/262610,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2026-08-13,mitra traders,Payment Success,239233.0,,False,,,0.0,False
+EXP-000350,WS/MP021/2025-2026/262610,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2026-08-13,YASH GAUNIYA,Payment Success,3294.0,,False,,,0.0,False
+EXP-000351,WS/MP021/2025-2026/262610,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2026-08-13,PRATIMA GAUNIYA,Payment Success,2928.0,,False,,,0.0,False
+EXP-000352,WS/MP021/2025-2026/262610,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2026-08-13,PAN SINGH MEWARI,Payment Success,4545.0,,False,,,0.0,False
+EXP-000353,WS/MP021/2025-2026/177240,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2026-08-13,TRILOK SINGH NAULA,Payment Success,160392.0,,False,,,0.0,False
+EXP-000354,WS/MP021/2025-2026/177240,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2026-08-13,dalip singh,Payment Success,10980.0,,False,,,0.0,False
+EXP-000355,WS/MP021/2025-2026/177240,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2026-08-13,SEEMA NAULA,Payment Success,10980.0,,False,,,0.0,False
+EXP-000356,WS/MP021/2025-2026/177240,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2026-08-13,jagdish singh,Payment Success,10980.0,,False,,,0.0,False
+EXP-000357,WS/MP021/2025-2026/177240,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2026-08-13,RANJNA,Payment Success,8784.0,,False,,,0.0,False
+EXP-000358,WS/MP021/2025-2026/177240,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2026-08-13,BEENA NAULA,Payment Success,8418.0,,False,,,0.0,False
+EXP-000359,WS/MP021/2025-2026/177240,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2026-08-13,manju naula,Payment Success,8418.0,,False,,,0.0,False
+EXP-000360,WS/MP021/2025-2026/177240,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2026-08-13,RAJENDRA SINGH JEENA,Payment Success,15150.0,,False,,,0.0,False
+EXP-000361,WS/MP021/2025-2026/177240,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2026-08-13,SUGRIV,Payment Success,15150.0,,False,,,0.0,False
+EXP-000362,WS/MP021/2025-2026/254822,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2026-05-06,ERA CONSTRUCTION,Payment Success,113201.0,,False,,,0.0,False
+EXP-000363,WS/MP021/2025-2026/254822,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2026-05-06,KAMAL POKHARIYA,Payment Success,10248.0,,False,,,0.0,False
+EXP-000364,WS/MP021/2025-2026/254822,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2026-05-06,manish kumar joshi,Payment Success,10248.0,,False,,,0.0,False
+EXP-000365,WS/MP021/2025-2026/254822,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2026-05-06,MINA RAWAT,Payment Success,10248.0,,False,,,0.0,False
+EXP-000366,WS/MP021/2025-2026/254822,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2026-05-06,JITENDRA MISHRA,Payment Success,14140.0,,False,,,0.0,False
+EXP-000367,WS/MP021/2025-2026/254822,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2026-05-06,Mukul Durgapal,Payment Success,14140.0,,False,,,0.0,False
+EXP-000368,WS/MP021/2025-2026/254822,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2026-05-06,SUNIL BHATT,Payment Success,14140.0,,False,,,0.0,False
+EXP-000369,WS/MP021/2025-2026/254822,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2026-05-06,VIVEK PANDEY,Payment Success,13635.0,,False,,,0.0,False
+EXP-000370,WS/MP021/2025-2026/209054,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2026-07-14,KVS NEXTGEN TRADERS,Payment Success,125669.0,,False,,,0.0,False
+EXP-000371,WS/MP021/2025-2026/209054,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2026-07-14,ANIL KUMAR BHATT,Payment Success,26765.0,,False,,,0.0,False
+EXP-000372,WS/MP021/2025-2026/209054,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2026-07-14,SUSHIL BHATT,Payment Success,15150.0,,False,,,0.0,False
+EXP-000373,WS/MP021/2025-2026/209054,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2026-07-14,SOBHITA BHATT,Payment Success,15006.0,,False,,,0.0,False
+EXP-000374,WS/MP021/2025-2026/209054,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2026-07-14,MAMTA BHATT,Payment Success,10980.0,,False,,,0.0,False
+EXP-000375,WS/MP021/2025-2026/209054,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2026-07-14,SUNIL BHATT,Payment Success,15150.0,,False,,,0.0,False
+EXP-000376,WS/MP021/2025-2026/209054,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2026-07-14,REKHA BHATT,Payment Success,15150.0,,False,,,0.0,False
+EXP-000377,WS/MP021/2025-2026/209054,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2026-07-14,SUDHIR BHATT,Payment Success,15150.0,,False,,,0.0,False
+EXP-000378,WS/MP021/2025-2026/209054,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2026-07-14,SAROJ BHATT,Payment Success,10980.0,,False,,,0.0,False
+EXP-000379,WS/MP021/2025-2026/210256,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2026-02-11,BISHT CONSTRUCTION,Payment Success,178532.0,,False,,,0.0,False
+EXP-000380,WS/MP021/2025-2026/210256,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2026-02-11,SANJAY DIWAKER,Payment Success,21594.0,,False,,,0.0,False
+EXP-000381,WS/MP021/2025-2026/210256,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2026-02-11,GOVIND SINGH,Payment Success,21594.0,,False,,,0.0,False
+EXP-000382,WS/MP021/2025-2026/210256,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2026-02-11,ANIL BHATT,Payment Success,28280.0,,False,,,0.0,False
+EXP-000383,WS/MP021/2025-2026/192575,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2025-09-03,MAHESH CHANDRA,Payment Success,497424.0,,False,,,0.0,False
+EXP-000384,WS/MP021/2025-2026/174633,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2025-11-27,BISHT CONSTRUCTION,Payment Success,62510.0,,False,,,0.0,False
+EXP-000385,WS/MP021/2025-2026/174633,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2025-11-27,RITA BISHT,Payment Success,9150.0,,False,,,0.0,False
+EXP-000386,WS/MP021/2025-2026/174633,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2025-11-27,UPASNA BISHT,Payment Success,9150.0,,False,,,0.0,False
+EXP-000387,WS/MP021/2025-2026/174633,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2025-11-27,MAYANK PANDEY,Payment Success,12625.0,,False,,,0.0,False
+EXP-000388,WS/MP021/2025-2026/174633,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,2025-11-27,Tejendra Singh,Payment Success,6565.0,,False,,,0.0,False
+EXP-000389,WS/MP18414/2026-2027/278686,Uttarakhand,ANIL BALUNI,GARHWAL,2026-07-20,BRANCH EARMARKED CAPITAL RECEIPT AC,Payment Success,200000.0,,False,,,0.0,False

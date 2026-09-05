@@ -1,0 +1,73 @@
+check_name,table,field,source_row,record_id,count,details
+source_sheet_names,workbook,,,,2.0,"[""M4_WORKS_MASTER"", ""M4_EXPENDITURE_TRANSACTIONS""]"
+source_filename,workbook,,,,1.0,Telengana.xlsx
+resolved_works_source_sheet,works,,,,1.0,M4_WORKS_MASTER
+resolved_expenditure_source_sheet,expenditure,,,,1.0,M4_EXPENDITURE_TRANSACTIONS
+source_header_row,works,,,,1.0,
+source_header_row,expenditure,,,,1.0,
+pre_header_non_data_row_count,works,,,,0.0,
+pre_header_non_data_row_count,expenditure,,,,0.0,
+blank_row_count_after_header,works,,,,0.0,
+blank_row_count_after_header,expenditure,,,,0.0,
+source_row_count,works,,,,200.0,
+source_columns,works,,,,17.0,"[""Work_ID"", ""Lok_Sabha"", ""State"", ""Constituency"", ""MP_Name"", ""Work_Category"", ""Work"", ""Work_Description"", ""IDA"", ""Recommended_Date"", ""Recommended_Amount"", ""Sanction_Date"", ""Sanction_Amount"", ""Work_Status"", ""Completion_Date"", ""Amount_Disbursed"", ""Data_Notes""]"
+source_missing_value_count,works,Work_ID,,,0.0,
+source_missing_value_count,works,Lok_Sabha,,,200.0,
+source_missing_value_count,works,State,,,0.0,
+source_missing_value_count,works,Constituency,,,0.0,
+source_missing_value_count,works,MP_Name,,,0.0,
+source_missing_value_count,works,Work_Category,,,0.0,
+source_missing_value_count,works,Work,,,0.0,
+source_missing_value_count,works,Work_Description,,,0.0,
+source_missing_value_count,works,IDA,,,0.0,
+source_missing_value_count,works,Recommended_Date,,,3.0,
+source_missing_value_count,works,Recommended_Amount,,,3.0,
+source_missing_value_count,works,Sanction_Date,,,0.0,
+source_missing_value_count,works,Sanction_Amount,,,0.0,
+source_missing_value_count,works,Work_Status,,,0.0,
+source_missing_value_count,works,Completion_Date,,,123.0,
+source_missing_value_count,works,Amount_Disbursed,,,130.0,
+source_missing_value_count,works,Data_Notes,,,197.0,
+source_row_count,expenditure,,,,151.0,
+source_columns,expenditure,,,,9.0,"[""Work_ID"", ""State"", ""MP_Name"", ""Constituency"", ""Expenditure_Date"", ""Vendor_Name"", ""Payment_Status"", ""Fund_Disbursed_Amount"", ""Data_Notes""]"
+source_missing_value_count,expenditure,Work_ID,,,0.0,
+source_missing_value_count,expenditure,State,,,0.0,
+source_missing_value_count,expenditure,MP_Name,,,0.0,
+source_missing_value_count,expenditure,Constituency,,,0.0,
+source_missing_value_count,expenditure,Expenditure_Date,,,0.0,
+source_missing_value_count,expenditure,Vendor_Name,,,0.0,
+source_missing_value_count,expenditure,Payment_Status,,,0.0,
+source_missing_value_count,expenditure,Fund_Disbursed_Amount,,,0.0,
+source_missing_value_count,expenditure,Data_Notes,,,151.0,
+source_expenditure_transaction_count,expenditure,,,,151.0,
+invalid_unparseable_date_count,works,recommended_date,,,0.0,
+invalid_unparseable_date_count,works,sanction_date,,,0.0,
+invalid_unparseable_date_count,works,completion_date,,,0.0,
+invalid_unparseable_date_count,expenditure,expenditure_date,,,0.0,
+invalid_non_numeric_monetary_value_count,works,recommended_amount,,,0.0,
+invalid_non_numeric_monetary_value_count,works,sanction_amount,,,0.0,
+invalid_non_numeric_monetary_value_count,works,amount_disbursed,,,0.0,
+invalid_non_numeric_monetary_value_count,expenditure,fund_disbursed_amount,,,0.0,
+work_id_is_unique,works,work_id,,,1.0,1 means unique; 0 means duplicate IDs are present
+duplicate_work_id_count,works,work_id,,,0.0,
+every_expenditure_work_id_exists_in_works,expenditure,work_id,,,1.0,1 means all matched; 0 means unmatched records are present
+unmatched_expenditure_record_count,expenditure,work_id,,,0.0,
+matched_expenditure_record_count,expenditure,work_id,,,151.0,
+distinct_unmatched_expenditure_work_id_count,expenditure,work_id,,,0.0,
+distinct_matched_expenditure_work_id_count,expenditure,work_id,,,143.0,
+duplicate_comparison_fields,expenditure,,,,8.0,"[""work_id"", ""state"", ""mp_name"", ""constituency"", ""expenditure_date"", ""vendor_name"", ""payment_status"", ""fund_disbursed_amount""]"
+output_expenditure_transaction_count,expenditure,,,,151.0,
+exact_duplicate_transaction_row_count,expenditure,,,,0.0,Rows are retained; this is not a removal count.
+duplicate_group_count,expenditure,,,,0.0,
+works_with_potential_duplicate_transactions,works,,,,0.0,
+total_potential_duplicate_amount,expenditure,fund_disbursed_amount,,,0.0,Sum of repeated occurrences beyond the first within each exact duplicate group.
+rows_removed_due_to_duplicate_detection,expenditure,,,,0.0,All source transaction rows are retained.
+source_works_row_count,works,,,,200.0,
+output_works_row_count,works,,,,200.0,
+unique_work_id_count,works,work_id,,,200.0,
+missing_completion_date_count,works,completion_date,,,123.0,
+missing_amount_disbursed_count,works,amount_disbursed,,,130.0,
+works_with_expenditure_transaction_count,works,work_id,,,143.0,
+works_with_populated_data_notes_count,works,data_notes,,,3.0,Data_Notes is retained as source/data-quality context only.
+expenditure_with_populated_data_notes_count,expenditure,data_notes,,,0.0,Data_Notes is retained as source/data-quality context only.
+validation_status,workbook,,,,1.0,Pipeline completed; row-preservation and conversion checks are reported above. Unmatched expenditure records retained: 0.
