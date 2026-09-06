@@ -32,6 +32,7 @@ export function WorkDetail() {
   const navigate = useNavigate();
 
   const [activeTab, setActiveTab] = useState<'overview' | 'transactions' | 'evidence'>('overview');
+  const [expandedEvidenceId, setExpandedEvidenceId] = useState<string | null>(null);
 
   const { data: work, isLoading: workLoading, error: workError } = useWorkDetail(workId);
   const { data: signals, isLoading: signalsLoading } = useRiskSignals(workId);
@@ -270,7 +271,15 @@ export function WorkDetail() {
                 </button>
               </div>
               <div className="p-6">
-                {signalsLoading ? <LoadingSpinner message="Loading signals…" /> : <SignalList signals={signals ?? []} />}
+                {signalsLoading ? <LoadingSpinner message="Loading signals…" /> : (
+                  <SignalList 
+                    signals={signals ?? []} 
+                    onViewEvidence={(signalId) => {
+                      setActiveTab('evidence');
+                      setExpandedEvidenceId(signalId);
+                    }} 
+                  />
+                )}
               </div>
             </div>
           </div>
@@ -295,7 +304,14 @@ export function WorkDetail() {
               <p className="text-xs text-slate-500 mt-1">Structured AI-generated evidence supporting the detected anomaly signals.</p>
             </div>
             <div className="p-6">
-              {evidenceLoading ? <LoadingSpinner message="Loading evidence…" /> : <EvidencePanel evidence={evidence ?? null} />}
+              {evidenceLoading ? <LoadingSpinner message="Loading evidence…" /> : (
+                <EvidencePanel 
+                  evidence={evidence ?? null} 
+                  signals={signals ?? []} 
+                  initialExpandedId={expandedEvidenceId}
+                  onClearExpandedId={() => setExpandedEvidenceId(null)}
+                />
+              )}
             </div>
           </div>
         )}
