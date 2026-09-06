@@ -1,5 +1,6 @@
 import type { WorkRiskOverview, SignalDimension } from '../../lib/types';
-import { DIMENSION_LABELS, DIMENSION_DESCRIPTIONS } from '../../lib/constants';
+import { DIMENSION_LABELS } from '../../lib/constants';
+import { Activity } from 'lucide-react';
 
 const DIMENSIONS: { key: keyof WorkRiskOverview; dim: SignalDimension }[] = [
   { key: 'financial_integrity_score', dim: 'financial_integrity' },
@@ -9,10 +10,10 @@ const DIMENSIONS: { key: keyof WorkRiskOverview; dim: SignalDimension }[] = [
 ];
 
 function scoreColor(score: number): string {
-  if (score >= 60) return '#dc2626';
-  if (score >= 35) return '#ea580c';
-  if (score >= 15) return '#ca8a04';
-  return '#16a34a';
+  if (score >= 60) return '#dc2626'; // red-600
+  if (score >= 35) return '#ea580c'; // orange-600
+  if (score >= 15) return '#ca8a04'; // yellow-600
+  return '#16a34a'; // green-600
 }
 
 interface DimensionScoresProps {
@@ -21,33 +22,42 @@ interface DimensionScoresProps {
 
 export function DimensionScores({ work }: DimensionScoresProps) {
   return (
-    <div className="space-y-4">
-      {DIMENSIONS.map(({ key, dim }) => {
-        const score = (work[key] as number) ?? 0;
-        const label = DIMENSION_LABELS[dim];
-        const desc = DIMENSION_DESCRIPTIONS[dim];
-        const color = scoreColor(score);
+    <div className="flex flex-col md:flex-row gap-8 bg-white border border-slate-200 rounded-xl p-6">
+      <div className="md:w-1/3 shrink-0">
+        <div className="flex items-center gap-2 text-indigo-600 mb-2">
+          <div className="p-1.5 bg-indigo-50 rounded-md">
+            <Activity className="w-4 h-4" />
+          </div>
+          <h2 className="font-bold text-slate-800">Risk Dimensions</h2>
+        </div>
+        <p className="text-xs text-slate-500 leading-relaxed">
+          Breakdown of risk score across key areas. Higher scores indicate greater detected anomalies.
+        </p>
+      </div>
 
-        return (
-          <div key={dim}>
-            <div className="flex items-center justify-between mb-1.5">
-              <div>
-                <span className="text-sm font-semibold text-slate-700">{label}</span>
-                <p className="text-xs text-slate-400">{desc}</p>
+      <div className="flex-1 space-y-4">
+        {DIMENSIONS.map(({ key, dim }) => {
+          const score = (work[key] as number) ?? 0;
+          const label = DIMENSION_LABELS[dim];
+          const color = scoreColor(score);
+
+          return (
+            <div key={dim} className="flex items-center gap-4">
+              <span className="text-xs font-semibold text-slate-700 w-32 shrink-0">{label}</span>
+              <div className="flex-1 h-2 bg-slate-100 rounded-full overflow-hidden">
+                <div
+                  className="h-full rounded-full transition-all duration-500"
+                  style={{ width: `${score}%`, backgroundColor: color }}
+                />
               </div>
-              <span className="text-base font-bold tabular-nums ml-4" style={{ color }}>
+              <span className="text-sm font-bold tabular-nums w-8 text-right" style={{ color }}>
                 {score}
               </span>
             </div>
-            <div className="h-2 bg-slate-100 rounded-full overflow-hidden">
-              <div
-                className="h-full rounded-full transition-all duration-500"
-                style={{ width: `${score}%`, backgroundColor: color }}
-              />
-            </div>
-          </div>
-        );
-      })}
+          );
+        })}
+      </div>
     </div>
   );
 }
+
