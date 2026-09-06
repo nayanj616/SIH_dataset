@@ -30,7 +30,7 @@ export function SystemInfo() {
           {/* Dataset Stats */}
           <div className="bg-white border border-slate-200 rounded-xl p-6">
             <h2 className="text-sm font-bold uppercase tracking-wider text-slate-500 mb-4">
-              Live Dataset Statistics
+              Supabase Prototype Dataset
             </h2>
             <InfoRow label="Total States" value={states?.length ?? 0} />
             <InfoRow label="Total Works" value={totalWorks.toLocaleString()} />

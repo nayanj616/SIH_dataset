@@ -1,5 +1,7 @@
 import { useState } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
+import { useQueryClient } from '@tanstack/react-query';
+import { supabase } from '../lib/supabase';
 import { useWorkDetail } from '../hooks/useWorkDetail';
 import { useRiskSignals } from '../hooks/useRiskSignals';
 import { useRiskEvidence } from '../hooks/useRiskEvidence';
@@ -30,6 +32,7 @@ export function WorkDetail() {
   const params = useParams();
   const workId = params['*'];
   const navigate = useNavigate();
+  const queryClient = useQueryClient();
 
   const [activeTab, setActiveTab] = useState<'overview' | 'transactions' | 'evidence'>('overview');
   const [expandedEvidenceId, setExpandedEvidenceId] = useState<string | null>(null);
@@ -38,6 +41,35 @@ export function WorkDetail() {
   const { data: signals, isLoading: signalsLoading } = useRiskSignals(workId);
   const { data: evidence, isLoading: evidenceLoading } = useRiskEvidence(workId);
   const { data: transactions, isLoading: txLoading } = useTransactions(workId);
+
+  const [isReviewing, setIsReviewing] = useState(false);
+  
+  const handleMarkAsReviewed = async () => {
+    if (!workId) return;
+    setIsReviewing(true);
+    try {
+      const now = new Date().toISOString();
+      const { error } = await supabase
+        .from('risk_scores')
+        .update({ 
+          is_reviewed: true,
+          reviewed_at: now
+        })
+        .eq('work_id', workId);
+      
+      if (error) throw error;
+      
+      // Invalidate queries so the UI refreshes from Supabase
+      queryClient.invalidateQueries({ queryKey: ['work_detail', workId] });
+      queryClient.invalidateQueries({ queryKey: ['work_risk_overview'] });
+      queryClient.invalidateQueries({ queryKey: ['state_risk_summary'] });
+    } catch (err) {
+      console.error('Failed to mark as reviewed', err);
+      alert('Failed to mark as reviewed. See console for details.');
+    } finally {
+      setIsReviewing(false);
+    }
+  };
 
   const copyId = () => {
     if (workId) navigator.clipboard.writeText(workId);
@@ -97,16 +129,38 @@ export function WorkDetail() {
           </div>
 
           {work.requires_human_review && (
-            <div className="border border-amber-200 bg-amber-50 rounded-xl p-4 w-64 flex flex-col justify-center">
-              <div className="flex items-center gap-2 text-amber-800 font-bold text-xs uppercase tracking-wider mb-2">
-                <AlertTriangle className="w-4 h-4" /> Flagged for Human Review
-              </div>
-              <p className="text-xs text-amber-700 leading-relaxed mb-3">
-                Sentinel has identified risk signals requiring investigation.
-              </p>
-              <button className="text-xs font-semibold bg-white border border-amber-200 text-amber-800 px-3 py-1.5 rounded hover:bg-amber-100 transition-colors w-full">
-                Mark as Reviewed →
-              </button>
+            <div className={`border rounded-xl p-4 w-64 flex flex-col justify-center ${work.is_reviewed ? 'border-green-200 bg-green-50' : 'border-amber-200 bg-amber-50'}`}>
+              {!work.is_reviewed ? (
+                <>
+                  <div className="flex items-center gap-2 text-amber-800 font-bold text-xs uppercase tracking-wider mb-2">
+                    <AlertTriangle className="w-4 h-4" /> Flagged for Human Review
+                  </div>
+                  <p className="text-xs text-amber-700 leading-relaxed mb-3">
+                    Sentinel has identified risk signals requiring investigation.
+                  </p>
+                  <button 
+                    onClick={handleMarkAsReviewed}
+                    disabled={isReviewing}
+                    className="text-xs font-semibold bg-white border border-amber-200 text-amber-800 px-3 py-1.5 rounded hover:bg-amber-100 transition-colors w-full disabled:opacity-50"
+                  >
+                    {isReviewing ? 'Saving...' : 'Mark as Reviewed →'}
+                  </button>
+                </>
+              ) : (
+                <>
+                  <div className="flex items-center gap-2 text-green-800 font-bold text-xs uppercase tracking-wider mb-2">
+                    <Activity className="w-4 h-4" /> Reviewed
+                  </div>
+                  <p className="text-xs text-green-700 leading-relaxed">
+                    This work has been reviewed.
+                  </p>
+                  {work.reviewed_at && (
+                    <p className="text-[10px] text-green-600 mt-2 font-medium">
+                      Reviewed on {new Date(work.reviewed_at).toLocaleDateString()}
+                    </p>
+                  )}
+                </>
+              )}
             </div>
           )}
         </div>
@@ -301,7 +355,7 @@ export function WorkDetail() {
           <div className="bg-white border border-slate-200 rounded-xl overflow-hidden">
             <div className="px-6 py-4 border-b border-slate-100 bg-slate-50/50">
               <h2 className="font-bold text-slate-800">Detailed Evidence Record</h2>
-              <p className="text-xs text-slate-500 mt-1">Structured AI-generated evidence supporting the detected anomaly signals.</p>
+              <p className="text-xs text-slate-500 mt-1">Precomputed evidence supporting the detected anomaly signals — extracted from raw MPLADS transaction records.</p>
             </div>
             <div className="p-6">
               {evidenceLoading ? <LoadingSpinner message="Loading evidence…" /> : (

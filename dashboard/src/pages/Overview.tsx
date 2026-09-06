@@ -76,14 +76,14 @@ export function Overview() {
               <h1 className="text-2xl font-bold text-slate-900 tracking-tight">SENTINEL</h1>
             </div>
             <p className="text-slate-500 text-sm">
-              MPLADS Implementation Intelligence — AI-assisted anomaly detection and risk-based monitoring
+              MPLADS Implementation Intelligence — Sentinel Risk Engine · Deterministic Anomaly Detection &amp; Risk-Based Monitoring
             </p>
           </div>
           {totals && (
             <div className="text-right">
               <span className="inline-flex items-center gap-2 text-xs font-medium text-slate-500 bg-slate-100 border border-slate-200 rounded-full px-3 py-1.5">
                 <span className="w-2 h-2 bg-green-500 rounded-full animate-pulse" />
-                Live · {totals.totalWorks.toLocaleString()} Works · {totals.totalTx.toLocaleString()} Transactions · 5 States
+                Connected · {totals.totalWorks.toLocaleString()} Works · {totals.totalTx.toLocaleString()} Transactions · 5 States
               </span>
             </div>
           )}
