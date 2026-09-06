@@ -25,7 +25,7 @@ export default function App() {
             <Route path="/" element={<Overview />} />
             <Route path="/states" element={<StateAnalysis />} />
             <Route path="/explorer" element={<WorkExplorer />} />
-            <Route path="/work/:workId" element={<WorkDetail />} />
+            <Route path="/work/*" element={<WorkDetail />} />
             <Route path="/system" element={<SystemInfo />} />
             <Route path="*" element={
               <div className="p-8 text-center text-slate-400">

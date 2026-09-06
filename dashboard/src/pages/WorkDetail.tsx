@@ -11,7 +11,7 @@ import { TransactionTable } from '../components/tables/TransactionTable';
 import { LoadingSpinner } from '../components/ui/LoadingSpinner';
 import { ErrorBanner } from '../components/ui/ErrorBanner';
 import { formatCurrency, formatDate } from '../lib/constants';
-import { ArrowLeft, Shield, AlertTriangle, FileText, ReceiptText, Activity, Briefcase } from 'lucide-react';
+import { ArrowLeft, Shield, AlertTriangle, FileText, ReceiptText, Activity, Briefcase, TrendingUp, Clock } from 'lucide-react';
 
 function SectionCard({ title, icon, children }: { title: string; icon: React.ReactNode; children: React.ReactNode }) {
   return (
@@ -35,7 +35,8 @@ function InfoRow({ label, value }: { label: string; value: string | null | undef
 }
 
 export function WorkDetail() {
-  const { workId } = useParams<{ workId: string }>();
+  const params = useParams();
+  const workId = params['*'];
   const navigate = useNavigate();
 
   const { data: work, isLoading: workLoading, error: workError } = useWorkDetail(workId);
@@ -117,6 +118,46 @@ export function WorkDetail() {
           </div>
         </SectionCard>
       </div>
+
+      <SectionCard title="Execution & Utilization Metrics" icon={<TrendingUp className="w-4 h-4" />}>
+        <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-4 gap-6">
+          <div className="bg-slate-50 border border-slate-100 rounded-lg p-4">
+            <div className="text-xs font-semibold uppercase tracking-wider text-slate-500 mb-1 flex items-center gap-1.5"><Activity className="w-3.5 h-3.5" /> Fund Utilization</div>
+            <div className="mt-2 space-y-2">
+              <div className="flex justify-between text-sm"><span className="text-slate-500">Total Expenditure</span><span className="font-semibold text-slate-800">{formatCurrency(work.total_expenditure)}</span></div>
+              <div className="flex justify-between text-sm"><span className="text-slate-500">Exp. vs Sanction</span><span className={`font-semibold tabular-nums ${work.expenditure_exceeds_sanction ? 'text-red-600' : 'text-slate-800'}`}>{work.expenditure_vs_sanction_ratio ? `${(work.expenditure_vs_sanction_ratio * 100).toFixed(1)}%` : '—'}</span></div>
+              <div className="flex justify-between text-sm"><span className="text-slate-500">Disb. vs Sanction</span><span className="font-semibold tabular-nums text-slate-800">{work.disbursement_vs_sanction_ratio ? `${(work.disbursement_vs_sanction_ratio * 100).toFixed(1)}%` : '—'}</span></div>
+            </div>
+          </div>
+
+          <div className="bg-slate-50 border border-slate-100 rounded-lg p-4">
+            <div className="text-xs font-semibold uppercase tracking-wider text-slate-500 mb-1 flex items-center gap-1.5"><Clock className="w-3.5 h-3.5" /> Duration & Delays</div>
+            <div className="mt-2 space-y-2">
+              <div className="flex justify-between text-sm"><span className="text-slate-500">Days to Sanction</span><span className="font-semibold tabular-nums text-slate-800">{work.days_to_sanction ?? '—'}</span></div>
+              <div className="flex justify-between text-sm"><span className="text-slate-500">Days to Completion</span><span className="font-semibold tabular-nums text-slate-800">{work.days_to_completion ?? '—'}</span></div>
+              <div className="flex justify-between text-sm"><span className="text-slate-500">Days Since Last Exp.</span><span className="font-semibold tabular-nums text-slate-800">{work.days_since_last_expenditure ?? '—'}</span></div>
+            </div>
+          </div>
+
+          <div className="bg-slate-50 border border-slate-100 rounded-lg p-4">
+            <div className="text-xs font-semibold uppercase tracking-wider text-slate-500 mb-1 flex items-center gap-1.5"><Briefcase className="w-3.5 h-3.5" /> Transaction Volume</div>
+            <div className="mt-2 space-y-2">
+              <div className="flex justify-between text-sm"><span className="text-slate-500">Total Transactions</span><span className="font-semibold tabular-nums text-slate-800">{work.expenditure_transaction_count ?? 0}</span></div>
+              <div className="flex justify-between text-sm"><span className="text-slate-500">Unique Vendors</span><span className="font-semibold tabular-nums text-slate-800">{work.unique_vendor_count ?? 0}</span></div>
+              <div className="flex justify-between text-sm"><span className="text-slate-500">High Volume Flag</span><span className="font-semibold text-slate-800">{work.high_transaction_count ? 'Yes' : 'No'}</span></div>
+            </div>
+          </div>
+
+          <div className="bg-slate-50 border border-slate-100 rounded-lg p-4">
+            <div className="text-xs font-semibold uppercase tracking-wider text-slate-500 mb-1 flex items-center gap-1.5"><AlertTriangle className="w-3.5 h-3.5 text-orange-500" /> Duplication Risk</div>
+            <div className="mt-2 space-y-2">
+              <div className="flex justify-between text-sm"><span className="text-slate-500">Duplicate Tx Count</span><span className={`font-semibold tabular-nums ${work.duplicate_transaction_count ? 'text-orange-600' : 'text-slate-800'}`}>{work.duplicate_transaction_count ?? 0}</span></div>
+              <div className="flex justify-between text-sm"><span className="text-slate-500">Duplicate Groups</span><span className="font-semibold tabular-nums text-slate-800">{work.duplicate_group_count ?? 0}</span></div>
+              <div className="flex justify-between text-sm"><span className="text-slate-500">Pot. Duplicate Amt</span><span className={`font-semibold tabular-nums ${work.potential_duplicate_amount_total ? 'text-orange-600' : 'text-slate-800'}`}>{formatCurrency(work.potential_duplicate_amount_total)}</span></div>
+            </div>
+          </div>
+        </div>
+      </SectionCard>
 
       <SectionCard title="Risk Dimensions" icon={<Activity className="w-4 h-4" />}>
         <p className="text-xs text-slate-500 mb-4">
